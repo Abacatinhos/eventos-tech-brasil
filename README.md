@@ -25,3 +25,4 @@ Direito Digital, Tecnologia e Proteção de Dados |  Junho | https://www.sympla.
 Futurecom Digital Week | Outubro | https://www.futurecom.com.br/pt/home.html |   
 ERP Summit | Abril |  https://www.erpsummit.com.br |   
 VTEX Day | Abril |   https://vtexday.vtex.com |
+CTO Summit | 08/11/2022 e 09/11/2022 | https://www.ctosummit.com.br | Transformação digital | online
