@@ -21,6 +21,7 @@ Para contribuir, você precisa adicionar as seguintes informações: Nome do eve
 
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
 * 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP** 
+* 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** <img src="https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue" />
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 
 ### Dezembro
