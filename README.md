@@ -10,6 +10,7 @@ Para contribuir, você precisa adicionar as seguintes informações: Nome do eve
 | Elas por Elas | 08/10/2022 | [https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT](https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT) | Lais Galetto | Santos, SP (Condomínio Club XV) |
 | Campus Party | 11/11/2022 a 15/11/2022 | [https://brasil.campus-party.org/](https://brasil.campus-party.org/) | CPBR | São Paulo, SP (Pavilhão de exposições - Distrito Anhembi) |
 RubySummit | Fev ou Março |  https://ruby.com.br/  |  
+DevParaná Conf | 11/03/23 |  https://devpr.org/#/conf | DevParaná | Av. Guedner 1610, Jardim Aclimação, Maringá - PR
 RubyConf | Agosto| https://www.rubyconf.com.br/ |  
 CodeCon | Setembro| https://www.codecon.dev/ |  
 WomenTech | A denir | https://www.womentech.net/en-us/women-tech-conference |  
