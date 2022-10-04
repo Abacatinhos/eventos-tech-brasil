@@ -13,7 +13,7 @@ Campus Party | 11/11/2022 a 15/11/2022 | [https://brasil.campus-party.org/](http
 CodeCon | Setembro| https://www.codecon.dev/ |  
 DevopsDay | Junho | https://devopsdays.org/events |  
 DevParaná Conf | 11/03/23 |  https://devpr.org/#/conf | DevParaná | Av. Guedner 1610, Jardim Aclimação, Maringá - PR
-Direito Digital, Tecnologia e Proteção de Dados |  Junho | https://www.sympla.com.br/evento/congresso-de-direito-digital-tecnologia-e-protecao-de-dados/1487648 |
+Direito Digital, Tecnologia e Proteção de Dados |  Junho | https://cddtpd.com.br |
 Elas por Elas | 08/10/2022 | [https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT](https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT) | Lais Galetto | Santos, SP (Condomínio Club XV) |
 ERP Summit | Abril |  https://www.erpsummit.com.br |
 Front in Floripa | 19/11/2022 | https://frontin.floripa.br/ |  | Florianópolis, SC (Hotel Maria do Mar)   
