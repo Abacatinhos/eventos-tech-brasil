@@ -2,7 +2,8 @@
 O objetivo desse repositório é reunir em um só lugar datas e informações sobre evento relacionados a tecnologia que acontecem no Brasil.
 
 ## Contribuindo
-Para contribuir, você precisa adicionar as seguintes informações: Nome do evento, data, site, organização e local.
+Para contribuir, você precisa adicionar as seguintes informações: Nome do evento, data, site, organização e local
+
 
 ## 2022
 
@@ -46,4 +47,4 @@ Para contribuir, você precisa adicionar as seguintes informações: Nome do eve
 
 ### Junho
 
-* 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br/) - *Opice Blum Academy*
+* 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
