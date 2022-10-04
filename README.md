@@ -1,33 +1,49 @@
 # Eventos Tech Brasil
-O objetivo desse reposório é reunir em um só lugar datas e informações sobre evento relacionados a tecnologio que acontecem no Brasil.
+O objetivo desse repositório é reunir em um só lugar datas e informações sobre evento relacionados a tecnologia que acontecem no Brasil.
 
 ## Contribuindo
-Para contribuir, você precisa adicionar as seguintes informações: Nome do evento, data, site, organização e local
+Para contribuir, você precisa adicionar as seguintes informações: Nome do evento, data, site, organização e local.
 
-| Nome | Data | Site | Organização | Local |
-|------|------|------|-------------|-------|
-Agile Trends | A definir | https://agiletrendsbr.com/agile-trends-2022/ |
-Alura Conference | A definir | https://www.devleaders.com.br/ |
-AWS Summit | A definir | https://aws.amazon.com/pt/events/summits/sao-paulo/ | 
-Campus Party | 11/11/2022 a 15/11/2022 | [https://brasil.campus-party.org/](https://brasil.campus-party.org/) | CPBR | São Paulo, SP (Pavilhão de exposições - Distrito Anhembi) |
-CodeCon | Setembro| https://www.codecon.dev/ |  
-DevopsDay | Junho | https://devopsdays.org/events |  
-DevParaná Conf | 11/03/23 |  https://devpr.org/#/conf | DevParaná | Av. Guedner 1610, Jardim Aclimação, Maringá - PR
-Direito Digital, Tecnologia e Proteção de Dados |  Junho | https://www.sympla.com.br/evento/congresso-de-direito-digital-tecnologia-e-protecao-de-dados/1487648 |
-Elas por Elas | 08/10/2022 | [https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT](https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT) | Lais Galetto | Santos, SP (Condomínio Club XV) |
-ERP Summit | Abril |  https://www.erpsummit.com.br |
-Front in Floripa | 19/11/2022 | https://frontin.floripa.br/ |  | Florianópolis, SC (Hotel Maria do Mar)   
-Frontin Sampa | Julho | https://conteudo.frontinsampa.com.br/2022 |  
-Futurecom Digital Week | Outubro | https://www.futurecom.com.br/pt/home.html |   
-Gambiconf | 2023 à definir | [https://gambiconf.dev/](https://gambiconf.dev/) | Bruno Macabeus @bmacabeus e Camilo Cunha @ocam_l | São Paulo, SP (à definir) |
-Hack Town | Setembro |  https://hacktown.com.br/ | 
-RoadSec  | Julho - SP | https://www.roadsec.com.br/|  
-RubyConf | Agosto| https://www.rubyconf.com.br/ |  
-RubySummit | Fev ou Março |  https://ruby.com.br/  |  
-TDC Business | 5 edições anuais - 6 a 8 de Dezembro de 2022 | https://thedevconf.com/ | Yara Mascarenhas | Porto Alegre (UNIRITTER Rua Orfanotrófio, 555 Alto Teresópolis) Presencial e ONLINE|
-VTEX Day | Abril |   https://vtexday.vtex.com |
+## 2022
 
-CTO Summit | 08/11/2022 e 09/11/2022 | https://www.ctosummit.com.br | Transformação digital | online
+### Setembro
 
-WomenTech | A definir | https://www.womentech.net/en-us/women-tech-conference |  
+* 9: [RubyConf](https://www.rubyconf.com.br/) - *locaweb* - **São Paulo / SP**
+* 22 - 25: [CodeCon](https://www.codecon.dev/) <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
 
+### Outubro
+
+* 8: [Elas por Elas](https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT) - *Lais Galetto* - **Santos / SP**
+* 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
+
+### Novembro
+
+* 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
+* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP** 
+* 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
+
+### Dezembro
+
+* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** <img src="https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue" />
+
+## 2023
+
+* ??: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP** 
+* ??: [Alura Conference](https://www.devleaders.com.br/)
+* ??: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
+* ??: [HackTown](https://hacktown.com.br/)
+* ??: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
+* ??: [RubySummit](https://ruby.com.br/)
+* ??: [VTEX Day](https://vtexday.vtex.com/)
+
+### Março
+
+* 11: [DevParaná Conf](https://www.devleaders.com.br/) - *DevParaná* 
+
+### Abril
+
+* 25 - 26: [ERP Summit](https://www.erpsummit.com.br/) - **São Paulo / SP**
+
+### Junho
+
+* 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br/) - *Opice Blum Academy*
