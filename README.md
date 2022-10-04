@@ -15,8 +15,8 @@ DevopsDay | Junho | https://devopsdays.org/events |
 DevParaná Conf | 11/03/23 |  https://devpr.org/#/conf | DevParaná | Av. Guedner 1610, Jardim Aclimação, Maringá - PR
 Direito Digital, Tecnologia e Proteção de Dados |  Junho | https://www.sympla.com.br/evento/congresso-de-direito-digital-tecnologia-e-protecao-de-dados/1487648 |
 Elas por Elas | 08/10/2022 | [https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT](https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT) | Lais Galetto | Santos, SP (Condomínio Club XV) |
-ERP Summit | Abril |  https://www.erpsummit.com.br |   
-Front in Floripa | 19/11/2022 | https://frontin.floripa.br/ |  | Florianópolis, SC (Hotel Maria do Mar)
+ERP Summit | Abril |  https://www.erpsummit.com.br |
+Front in Floripa | 19/11/2022 | https://frontin.floripa.br/ |  | Florianópolis, SC (Hotel Maria do Mar)   
 Frontin Sampa | Julho | https://conteudo.frontinsampa.com.br/2022 |  
 Futurecom Digital Week | Outubro | https://www.futurecom.com.br/pt/home.html |   
 Gambiconf | 2023 à definir | [https://gambiconf.dev/](https://gambiconf.dev/) | Bruno Macabeus @bmacabeus e Camilo Cunha @ocam_l | São Paulo, SP (à definir) |
@@ -24,6 +24,6 @@ Hack Town | Setembro |  https://hacktown.com.br/ |
 RoadSec  | Julho - SP | https://www.roadsec.com.br/|  
 RubyConf | Agosto| https://www.rubyconf.com.br/ |  
 RubySummit | Fev ou Março |  https://ruby.com.br/  |  
-TDC Business | Agosto | https://thedevconf.com/ |
+TDC Business | 5 edições anuais - 6 a 8 de Dezembro de 2022 | https://thedevconf.com/ | Yara Mascarenhas | Porto Alegre (UNIRITTER Rua Orfanotrófio, 555 Alto Teresópolis) Presencial e ONLINE|
 VTEX Day | Abril |   https://vtexday.vtex.com |
 WomenTech | A definir | https://www.womentech.net/en-us/women-tech-conference |  
