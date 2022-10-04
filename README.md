@@ -26,4 +26,8 @@ RubyConf | Agosto| https://www.rubyconf.com.br/ |
 RubySummit | Fev ou Março |  https://ruby.com.br/  |  
 TDC Business | 5 edições anuais - 6 a 8 de Dezembro de 2022 | https://thedevconf.com/ | Yara Mascarenhas | Porto Alegre (UNIRITTER Rua Orfanotrófio, 555 Alto Teresópolis) Presencial e ONLINE|
 VTEX Day | Abril |   https://vtexday.vtex.com |
+
+CTO Summit | 08/11/2022 e 09/11/2022 | https://www.ctosummit.com.br | Transformação digital | online
+
 WomenTech | A definir | https://www.womentech.net/en-us/women-tech-conference |  
+
