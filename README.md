@@ -13,11 +13,11 @@ RubySummit | Fev ou Março |  https://ruby.com.br/  |
 DevParaná Conf | 11/03/23 |  https://devpr.org/#/conf | DevParaná | Av. Guedner 1610, Jardim Aclimação, Maringá - PR
 RubyConf | Agosto| https://www.rubyconf.com.br/ |  
 CodeCon | Setembro| https://www.codecon.dev/ |  
-WomenTech | A denir | https://www.womentech.net/en-us/women-tech-conference |  
+WomenTech | A definir | https://www.womentech.net/en-us/women-tech-conference |  
 AWS Summit | A definir | https://aws.amazon.com/pt/events/summits/sao-paulo/ | 
-Agile Trends | A dfinir | https://agiletrendsbr.com/agile-trends-2022/ |
+Agile Trends | A definir | https://agiletrendsbr.com/agile-trends-2022/ |
 Alura Conference | A definir | https://www.devleaders.com.br/ |
-TDC Business | Agosto | https://thedevconf.com/ |
+TDC Business | 5 edições anuais - 6 a 8 de Dezembro de 2022 | https://thedevconf.com/ | Yara Mascarenhas | Porto Alegre (UNIRITTER Rua Orfanotrófio, 555 Alto Teresópolis) Presencial e ONLINE|
 Hack Town | Setembro |  https://hacktown.com.br/ | 
 DevopsDay | Junho | https://devopsdays.org/events |  
 RoadSec  | Julho - SP | https://www.roadsec.com.br/|  
