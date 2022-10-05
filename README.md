@@ -27,6 +27,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Dezembro
 
+* 13: [DevFest Nordeste 2022 - Fortaleza](https://gdg.community.dev/events/details/google-gdg-fortaleza-presents-devfest-nordeste-2022/) - *GDG Fortaleza* - **Fortaleza / CE**  ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 
 ## 2023
