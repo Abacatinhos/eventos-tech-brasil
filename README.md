@@ -1,16 +1,17 @@
 # Eventos Tech Brasil
-O objetivo desse repositório é reunir em um só lugar datas e informações sobre evento relacionados a tecnologia que acontecem no Brasil.
+
+O objetivo desse repositório é reunir em um só lugar datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil.
 
 ## Contribuindo
-Para contribuir, você precisa adicionar as seguintes informações: Nome do evento, data, site, organização e local
 
+Para contribuir, você precisa adicionar as seguintes informações: data, nome do evento, site, organização e local.
 
 ## 2022
 
 ### Setembro
 
 * 9: [RubyConf](https://www.rubyconf.com.br/) - *locaweb* - **São Paulo / SP**
-* 22 - 25: [CodeCon](https://www.codecon.dev/) <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
+* 22 - 25: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 
 ### Outubro
 
@@ -20,34 +21,41 @@ Para contribuir, você precisa adicionar as seguintes informações: Nome do eve
 
 ### Novembro
 
-* 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
-* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP** 
+
+* 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
+* 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**
 * 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** <img src="https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue" />
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 
 ### Dezembro
 
+
+* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 10: [DevFest Sudeste 2022](https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-devfest-sudeste-2022/) - **Teatro Gazeta / SP**
-* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** <img src="https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue" />
+* 13: [DevFest Nordeste 2022 - Fortaleza](https://gdg.community.dev/events/details/google-gdg-fortaleza-presents-devfest-nordeste-2022/) - *GDG Fortaleza* - **Fortaleza / CE**  ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
+
 
 ## 2023
 
-* ??: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP** 
-* ??: [Alura Conference](https://www.devleaders.com.br/)
-* ??: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
-* ??: [HackTown](https://hacktown.com.br/)
-* ??: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
-* ??: [RubySummit](https://ruby.com.br/)
-* ??: [VTEX Day](https://vtexday.vtex.com/)
-
 ### Março
 
-* 11: [DevParaná Conf](https://www.devleaders.com.br/) - *DevParaná* 
+* 11: [DevParaná Conf](https://www.devleaders.com.br/) - *DevParaná*
 
 ### Abril
 
+* TBA: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP**
 * 25 - 26: [ERP Summit](https://www.erpsummit.com.br/) - **São Paulo / SP**
 
 ### Junho
 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
+
+### TBA: To Be Announced
+
+* TBA: [Alura Conference](https://www.devleaders.com.br/)
+* TBA: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
+* TBA: [HackTown](https://hacktown.com.br/)
+* TBA: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
+* TBA: [RubySummit](https://ruby.com.br/)
+* TBA: [VTEX Day](https://vtexday.vtex.com/)
