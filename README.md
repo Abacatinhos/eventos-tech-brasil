@@ -1,16 +1,17 @@
 # Eventos Tech Brasil
-O objetivo desse repositório é reunir em um só lugar datas e informações sobre evento relacionados a tecnologia que acontecem no Brasil.
+
+O objetivo desse repositório é reunir em um só lugar datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil.
 
 ## Contribuindo
-Para contribuir, você precisa adicionar as seguintes informações: Nome do evento, data, site, organização e local
 
+Para contribuir, você precisa adicionar as seguintes informações: data, nome do evento, site, organização e local.
 
 ## 2022
 
 ### Setembro
 
 * 9: [RubyConf](https://www.rubyconf.com.br/) - *locaweb* - **São Paulo / SP**
-* 22 - 25: [CodeCon](https://www.codecon.dev/) <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
+* 22 - 25: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 
 ### Outubro
 
@@ -19,13 +20,13 @@ Para contribuir, você precisa adicionar as seguintes informações: Nome do eve
 
 ### Novembro
 
-* 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* <img src="https://img.shields.io/static/v1?label=&message=online&color=green">
+* 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP** 
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 
 ### Dezembro
 
-* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** <img src="https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue" />
+* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 
 ## 2023
 
