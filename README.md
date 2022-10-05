@@ -21,7 +21,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Novembro
 
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
-* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP** 
+* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 
 ### Dezembro
@@ -30,22 +30,24 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ## 2023
 
-* ??: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP** 
-* ??: [Alura Conference](https://www.devleaders.com.br/)
-* ??: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
-* ??: [HackTown](https://hacktown.com.br/)
-* ??: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
-* ??: [RubySummit](https://ruby.com.br/)
-* ??: [VTEX Day](https://vtexday.vtex.com/)
-
 ### Março
 
-* 11: [DevParaná Conf](https://www.devleaders.com.br/) - *DevParaná* 
+* 11: [DevParaná Conf](https://www.devleaders.com.br/) - *DevParaná*
 
 ### Abril
 
+* TBA: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP**
 * 25 - 26: [ERP Summit](https://www.erpsummit.com.br/) - **São Paulo / SP**
 
 ### Junho
 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
+
+### TBA: To Be Announced
+
+* TBA: [Alura Conference](https://www.devleaders.com.br/)
+* TBA: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
+* TBA: [HackTown](https://hacktown.com.br/)
+* TBA: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
+* TBA: [RubySummit](https://ruby.com.br/)
+* TBA: [VTEX Day](https://vtexday.vtex.com/)
