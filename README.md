@@ -10,7 +10,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Setembro
 
-* 9: [RubyConf](https://www.rubyconf.com.br/) - *locaweb* - **São Paulo / SP**
+* 9: [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP**
 * 22 - 25: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 
 ### Outubro
@@ -20,7 +20,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 10 - 12: [Ignite Lab - React](https://lp.rocketseat.com.br/inscricao/ignite-lab) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
-* 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocalWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn*- São Paulo*
 * 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - Recife *
 
