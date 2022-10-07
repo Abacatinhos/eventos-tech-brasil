@@ -18,6 +18,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 6: [Flutter Brasil Conf 2022](https://gdg.community.dev/events/details/google-gdg-curitiba-presents-flutter-brasil-conf-2022/) - *Curitiba / PR* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 8: [Elas por Elas](https://www.sympla.com.br/evento/elas-por-elas/1709612?lang=PT) - *Lais Galetto* - **Santos / SP**
 * 10 - 12: [Ignite Lab - React](https://lp.rocketseat.com.br/inscricao/ignite-lab) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 15: [Django Girls Teresina](https://djangogirls.org/en/teresina/) - **Teresina / PI**
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
 * 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
@@ -32,6 +33,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**
 * 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
+* 19: [Django Girls Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI**
 
 ### Dezembro
 
