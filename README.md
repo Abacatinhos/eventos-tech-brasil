@@ -20,6 +20,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 10 - 12: [Ignite Lab - React](https://lp.rocketseat.com.br/inscricao/ignite-lab) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 13: [WomakerCode Meetup](https://www.youtube.com/watch?v=sIg9KJk-jOY) - *WomakerCode, Mulheres, React, Front-end, arquitetura* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)  ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 15: [Django Girls Teresina](https://djangogirls.org/en/teresina/) - **Teresina / PI**
+* 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
 * 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
