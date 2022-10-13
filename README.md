@@ -32,6 +32,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * 4 - 5: [The Developer's Weekend](https://weekend.developerslife.tech/) - Andre Noel - **Campo Mourão / PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
+* 5: [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/) - **Rio de Janeiro / RJ**
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 8 - 11: [Rio Innovation Week](https://rioinnovationweek.com.br/) - *Startups, Pesquisa Cientifica, Empreendedores* - **Rio de Janeiro / RJ**
 * 11 - 12: [Criptofunk](https://criptofunk.org/2022-2/) - *Dados, Funk, Diversidade, Privacidade* - **Rio de Janeiro / RJ**
@@ -44,6 +45,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 
 * 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 10: [DevOps Days Recife ](https://devopsdays.org/events/2022-recife/welcome/) - **Recife / PE** 
 * 10: [DevFest Sudeste 2022](https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-devfest-sudeste-2022/) - **Teatro Gazeta / SP**
 * 13: [DevFest Nordeste 2022 - Fortaleza](https://gdg.community.dev/events/details/google-gdg-fortaleza-presents-devfest-nordeste-2022/) - *GDG Fortaleza* - **Fortaleza / CE**  ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 
