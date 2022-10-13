@@ -27,6 +27,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
 * 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 20: [Sysadminas -  Sec4U! Uma jornada em busca da sua flag](https://www.meetup.com/pt-BR/sysadminas/events/288562412/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
+* 20: [MeteorJS Meetup Brasil](https://www.meetup.com/pt-BR/meteor-brasil/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn*- São Paulo*
 * 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - Recife *
 
@@ -34,6 +35,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * 4 - 5: [The Developer's Weekend](https://weekend.developerslife.tech/) - Andre Noel - **Campo Mourão / PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
+* 5: [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/) - **Rio de Janeiro / RJ**
 * 6 - 9: [Front Week](https://materiais.horadecodar.com.br/front-week?fbclid=IwAR1T_X10F2sAJV3-W4nCC5cydK7PdmzJAlzoUmexeSoU7XmjEQXTrwYxC-E) - *Desenvolva um site completo e aprenda HTML, CSS e JavaScript* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 8 - 11: [Rio Innovation Week](https://rioinnovationweek.com.br/) - *Startups, Pesquisa Cientifica, Empreendedores* - **Rio de Janeiro / RJ**
@@ -47,6 +49,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 
 * 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 10: [DevOps Days Recife ](https://devopsdays.org/events/2022-recife/welcome/) - **Recife / PE** 
 * 10: [DevFest Sudeste 2022](https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-devfest-sudeste-2022/) - **Teatro Gazeta / SP**
 * 13: [DevFest Nordeste 2022 - Fortaleza](https://gdg.community.dev/events/details/google-gdg-fortaleza-presents-devfest-nordeste-2022/) - *GDG Fortaleza* - **Fortaleza / CE**  ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 
