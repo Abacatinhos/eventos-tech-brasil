@@ -23,6 +23,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
+* 19: [Thasfin + Feministech #Hacktoberfest](https://www.meetup.com/pt-BR/thasfin/events/288750105/) - **São Paulo / SP**
 * 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 20: [Sysadminas -  Sec4U! Uma jornada em busca da sua flag](https://www.meetup.com/pt-BR/sysadminas/events/288562412/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 20: [MeteorJS Meetup Brasil](https://www.meetup.com/pt-BR/meteor-brasil/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
