@@ -45,6 +45,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 * 19: [Django Girls Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI**
+* 23 - 25 [EXPOTEC2022](https://www.expotec.org.br/2022/) - *Tecnologia, Educação, Robotica*  **João Pessoa / PB**
 * 26 - 27: [BHack - 11ª Edição](https://www.bhack.com.br/) - *BHack Conference*: atender às necessidades do público mineiro em Segurança da Informação (SI) - **Belo Horizonte / MG**
 ### Dezembro
 
