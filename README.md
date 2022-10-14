@@ -20,6 +20,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 10 - 12: [Ignite Lab - React](https://lp.rocketseat.com.br/inscricao/ignite-lab) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 13: [WomakerCode Meetup](https://www.youtube.com/watch?v=sIg9KJk-jOY) - *WomakerCode, Mulheres, React, Front-end, arquitetura* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)  ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 15: [Django Girls Teresina](https://djangogirls.org/en/teresina/) - **Teresina / PI**
+* 17 - 24: [Imersão Full Stack & Full Cycle](https://imersao.fullcycle.com.br) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
+* 17 - 19: [BotCamp - Pyhon para finanças](https://lp.edufinance.com.br/botcamp/?fbclid=IwAR0YnpT1if5q9NMOFs-DluwWEEdEKPc7-e_GzZCuH3EgJkdMCsNJ5EPtHO0) - *Edufinance* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
@@ -35,6 +37,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 4 - 5: [The Developer's Weekend](https://weekend.developerslife.tech/) - Andre Noel - **Campo Mourão / PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
 * 5: [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/) - **Rio de Janeiro / RJ**
+* 6 - 9: [Front Week](https://materiais.horadecodar.com.br/front-week?fbclid=IwAR1T_X10F2sAJV3-W4nCC5cydK7PdmzJAlzoUmexeSoU7XmjEQXTrwYxC-E) - *Desenvolva um site completo e aprenda HTML, CSS e JavaScript* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 8 - 11: [Rio Innovation Week](https://rioinnovationweek.com.br/) - *Startups, Pesquisa Cientifica, Empreendedores* - **Rio de Janeiro / RJ**
 * 11 - 12: [Criptofunk](https://criptofunk.org/2022-2/) - *Dados, Funk, Diversidade, Privacidade* - **Rio de Janeiro / RJ**
