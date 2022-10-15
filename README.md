@@ -31,6 +31,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 20: [Sysadminas -  Sec4U! Uma jornada em busca da sua flag](https://www.meetup.com/pt-BR/sysadminas/events/288562412/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 20: [MeteorJS Meetup Brasil](https://www.meetup.com/pt-BR/meteor-brasil/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn*- São Paulo*
+* 22: [Desenvolvimento Android com Kotlin](https://kotlinautas.dev/evento/) - *Kotlinautas* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - Recife *
 
 ### Novembro
@@ -46,6 +47,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 * 19: [Django Girls Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI**
+* 20: [Maratona Feministech](https://feministech.github.io/) - *Feministech* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 23 - 25 [EXPOTEC2022](https://www.expotec.org.br/2022/) - *Tecnologia, Educação, Robotica*  **João Pessoa / PB**
 * 26 - 27: [BHack - 11ª Edição](https://www.bhack.com.br/) - *BHack Conference*: atender às necessidades do público mineiro em Segurança da Informação (SI) - **Belo Horizonte / MG**
 ### Dezembro
