@@ -77,6 +77,10 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
 
+### Setembro
+
+* 22 - 23: [GopherCon Brasil 2023](https://www.sympla.com.br/evento/gophercon-brasil-2023/1733229?lang=PT) - **São José / SC**
+
 ### TBA: To Be Announced
 
 * TBA: [Alura Conference](https://www.devleaders.com.br/)
