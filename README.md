@@ -2,7 +2,7 @@
 
 O objetivo desse repositório é reunir em um só lugar datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil.
 
-## Contribuindo
+## Contribuindo bjksdfbjkfbjaf
 
 Para contribuir, você precisa adicionar as seguintes informações: data, nome do evento, site, organização e local.
 
