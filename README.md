@@ -22,6 +22,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 15: [Django Girls Teresina](https://djangogirls.org/en/teresina/) - **Teresina / PI**
 * 17 - 24: [Imersão Full Stack & Full Cycle](https://imersao.fullcycle.com.br) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 17 - 19: [BotCamp - Pyhon para finanças](https://lp.edufinance.com.br/botcamp/?fbclid=IwAR0YnpT1if5q9NMOFs-DluwWEEdEKPc7-e_GzZCuH3EgJkdMCsNJ5EPtHO0) - *Edufinance* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
+* 17 - 19: [Explorer Lab - JS DOM](https://explorer-lab.rocketseat.com.br/convite/antonio-10126) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
