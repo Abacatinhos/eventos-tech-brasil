@@ -42,6 +42,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
 * 5: [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/) - **Rio de Janeiro / RJ**
 * 6 - 9: [Front Week](https://materiais.horadecodar.com.br/front-week?fbclid=IwAR1T_X10F2sAJV3-W4nCC5cydK7PdmzJAlzoUmexeSoU7XmjEQXTrwYxC-E) - *Desenvolva um site completo e aprenda HTML, CSS e JavaScript* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
+* 7 - 14: [Imersão React](https://www.alura.com.br/imersao-react?bid=RAMOBWJ) - *Alura* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 8 - 11: [Rio Innovation Week](https://rioinnovationweek.com.br/) - *Startups, Pesquisa Cientifica, Empreendedores* - **Rio de Janeiro / RJ**
 * 11 - 12: [Criptofunk](https://criptofunk.org/2022-2/) - *Dados, Funk, Diversidade, Privacidade* - **Rio de Janeiro / RJ**
