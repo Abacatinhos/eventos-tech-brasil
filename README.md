@@ -52,6 +52,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 20: [Maratona Feministech](https://feministech.github.io/) - *Feministech* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 23 - 25 [EXPOTEC2022](https://www.expotec.org.br/2022/) - *Tecnologia, Educação, Robotica*  **João Pessoa / PB**
 * 26 - 27: [BHack - 11ª Edição](https://www.bhack.com.br/) - *BHack Conference*: atender às necessidades do público mineiro em Segurança da Informação (SI) - **Belo Horizonte / MG**
+* 26: [DevFest Cerrado](https://devfestcerrado.com.br/) - **Uberlândia / MG**
 ### Dezembro
 
 
