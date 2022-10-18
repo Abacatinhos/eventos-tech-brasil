@@ -31,7 +31,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 20: [Sysadminas -  Sec4U! Uma jornada em busca da sua flag](https://www.meetup.com/pt-BR/sysadminas/events/288562412/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 20: [MeteorJS Meetup Brasil](https://www.meetup.com/pt-BR/meteor-brasil/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn*- São Paulo*
+* 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn* - **São Paulo / SP***
 * 22: [Desenvolvimento Android com Kotlin](https://kotlinautas.dev/evento/) - *Kotlinautas* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 22: [Hacktoberfest PHB Edition](https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-hacktoberfest-phb-edition/) - **Parnaíba / PI**
 * 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - Recife *
