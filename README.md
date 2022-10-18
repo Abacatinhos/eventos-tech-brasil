@@ -66,7 +66,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Março
 
-* 11: [DevParaná Conf](https://www.devleaders.com.br/) - *DevParaná*
+* 11: [DevParaná Conf](https://www.devparana.org/) - *DevParaná*
 
 ### Abril
 
