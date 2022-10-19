@@ -6,7 +6,7 @@ O objetivo desse repositório é reunir em um só lugar datas e informações so
 
 Para contribuir, você precisa adicionar as seguintes informações: data, nome do evento, site, organização e local.
 
-## 2022
+## 2022 LALALALALALALALA
 
 ### Setembro
 
