@@ -39,6 +39,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Novembro
 
+* 4: [Imersão React](https://www.youtube.com/watch?v=35jb4FeQSe4) - *Alura* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 4 - 5: [The Developer's Weekend](https://weekend.developerslife.tech/) - Andre Noel - **Campo Mourão / PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
 * 5: [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/) - **Rio de Janeiro / RJ**
