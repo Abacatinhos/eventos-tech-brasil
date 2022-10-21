@@ -37,6 +37,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 26: [Accenture](https://flows.beamery.com/accenture/mulheres-universitarias-do-nordeste-br-3v5fbgbj_/0) - *University Experience – Mulheres universitárias do Nordeste* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 27: [AWS Cloud Experience](https://pages.awscloud.com/LATAM-field-OE-Cloud-Experience-2022-reg-event.html) - *AWS* - Rio de Janeiro*
 * 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - **Recife / PE**
+* 31 - 04/11 [NLW - Copa](https://nlw.rocketseat.com.br/convite/antonio-2475) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 
 ### Novembro
 
