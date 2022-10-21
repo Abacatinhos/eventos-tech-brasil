@@ -24,19 +24,19 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 17 - 19: [BotCamp - Pyhon para finanças](https://lp.edufinance.com.br/botcamp/?fbclid=IwAR0YnpT1if5q9NMOFs-DluwWEEdEKPc7-e_GzZCuH3EgJkdMCsNJ5EPtHO0) - *Edufinance* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 17 - 19: [Explorer Lab - JS DOM](https://explorer-lab.rocketseat.com.br/convite/antonio-10126) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
-* 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
 * 18 - 19: [Android Mobile Week](https://lp.dio.me/ds-android-mobile-week/) - *DIO* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
+* 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
 * 19: [Thasfin + Feministech #Hacktoberfest](https://www.meetup.com/pt-BR/thasfin/events/288750105/) - **São Paulo / SP**
 * 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 20: [Sysadminas -  Sec4U! Uma jornada em busca da sua flag](https://www.meetup.com/pt-BR/sysadminas/events/288562412/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 20: [MeteorJS Meetup Brasil](https://www.meetup.com/pt-BR/meteor-brasil/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn* - **São Paulo / SP***
+* 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn* - **São Paulo / SP**
 * 22: [Desenvolvimento Android com Kotlin](https://kotlinautas.dev/evento/) - *Kotlinautas* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 22: [Hacktoberfest PHB Edition](https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-hacktoberfest-phb-edition/) - **Parnaíba / PI**
 * 26: [Accenture](https://flows.beamery.com/accenture/mulheres-universitarias-do-nordeste-br-3v5fbgbj_/0) - *University Experience – Mulheres universitárias do Nordeste* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 27: [AWS Cloud Experience](https://pages.awscloud.com/LATAM-field-OE-Cloud-Experience-2022-reg-event.html) - *AWS* - Rio de Janeiro*
-* 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - Recife *
+* 29: [GitHub Field day](https://githubfieldday.com/brazil2022/) - *GitHub* - **Recife / PE**
 
 ### Novembro
 
