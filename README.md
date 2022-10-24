@@ -62,7 +62,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 26: [DevFest Cerrado](https://devfestcerrado.com.br/) - **Uberlândia / MG**
 ### Dezembro
 
-
+* 5 - 7: [Dev Summit V](https://www.xpeducacao.com.br/evento/dev-summit) - XP Educação ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 9 - 11: [Hack GRRRL](https://hackgrrrl.com/) - _Hack GRRRL_ ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 10: [DevOps Days Recife ](https://devopsdays.org/events/2022-recife/welcome/) - **Recife / PE** 
