@@ -51,6 +51,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 7 - 14: [Imersão React](https://www.alura.com.br/imersao-react?bid=RAMOBWJ) - *Alura* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 8 - 9: [CTO Summit](https://ctosummit.com.br/) - *Transformação digital* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 8 - 11: [Rio Innovation Week](https://rioinnovationweek.com.br/) - *Startups, Pesquisa Cientifica, Empreendedores* - **Rio de Janeiro / RJ**
+* 9 - 12: [X Sulcomp 2022](https://www.even3.com.br/sulcomp2022?even3_orig=events_eventlist) - *X Congresso Sul Brasileiro de Computação* - **Unesc - Universidade do Extremo Sul Catarinense - Criciúma - Santa Catarina - Brasil** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 11 - 12: [Criptofunk](https://criptofunk.org/2022-2/) - *Dados, Funk, Diversidade, Privacidade* - **Rio de Janeiro / RJ**
 * 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**
 * 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
