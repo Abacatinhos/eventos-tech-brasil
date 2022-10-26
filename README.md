@@ -77,6 +77,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Março
 
+* 09 - 11: [SGRio 2023](https://scrumrio.com/) - *Scrum Gathering Rio*
 * 11: [DevParaná Conf](https://www.devparana.org/) - *DevParaná*
 
 ### Abril
