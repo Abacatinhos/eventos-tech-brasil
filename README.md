@@ -56,7 +56,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 11 - 12: [Criptofunk](https://criptofunk.org/2022-2/) - *Dados, Funk, Diversidade, Privacidade* - **Rio de Janeiro / RJ**
 * 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**
 * 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 16-19: [REC 'n Play] (https://recnplay.pe/) *Festival de tecnologia, cidades, empreendedorismo e economia criativa. O Carnaval do Conhecimento do Recife!* - **Recife-PE** ![Free| Presencial] (https://img.shields.io/static/v1?label=&message=online&color=green) 
+* 16-19: [REC 'n Play](https://recnplay.pe/) *Festival de tecnologia, cidades, empreendedorismo e economia criativa. O Carnaval do Conhecimento do Recife!* - **Recife-PE** ![Free| Presencial](https://img.shields.io/static/v1?label=&message=online&color=green) 
 * 17:[SWP Talks #12](https://www.sympla.com.br/evento/swp-talks-12-reunir-descobrir-compartilhar/1731078) - *SWP Reunir, Descobrir e Compartilhar* - **Pelotas / RS** 
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 * 19: [Django Girls Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI**
@@ -69,8 +69,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Dezembro
 
 * 3: [React Conf Brasil 22](https://reactconf.com.br/) - *React Conf* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 3: [Meetup DevGirls] (https://www.sympla.com.br/evento/presencial-recife-1-meetup-interestadual-dev-girls/1782764/)  **Recife-PE** ![free | híbrido] (https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 3: [Meetup DevGirls] (https://www.sympla.com.br/evento/presencial-porto-alegre-1-meetup-interestadual-dev-girls/1720332) **Porto Alegre-RS** ![free | híbrido] (https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 3: [Meetup DevGirls](https://www.sympla.com.br/evento/presencial-recife-1-meetup-interestadual-dev-girls/1782764/)  **Recife-PE** ![free | híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 3: [Meetup DevGirls](https://www.sympla.com.br/evento/presencial-porto-alegre-1-meetup-interestadual-dev-girls/1720332) **Porto Alegre-RS** ![free | híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 5 - 7: [Dev Summit V](https://www.xpeducacao.com.br/evento/dev-summit) - XP Educação ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 9 - 11: [Hack GRRRL](https://hackgrrrl.com/) - _Hack GRRRL_ ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
