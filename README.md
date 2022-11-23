@@ -101,6 +101,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### TBA: To Be Announced
 
+* TBA: [DevOps Days Campinas 2023](https://devopsdays.org/events/2019-campinas/welcome/) - **Campinas / SP**
 * TBA: [Alura Conference](https://www.devleaders.com.br/)
 * TBA: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
 * TBA: [HackTown](https://hacktown.com.br/)
