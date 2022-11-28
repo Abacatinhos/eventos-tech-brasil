@@ -6,12 +6,13 @@ O objetivo desse repositório é reunir em um só lugar datas e informações so
 
 Para contribuir, você precisa adicionar as seguintes informações: data, nome do evento, site, organização e local.
 
+
 ## 2022
 
 ### Setembro
 
-* 9: [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP**
-* 22 - 25: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 9: [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP** 🥑
+* 22 - 25: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)🥑
 
 ### Outubro
 
@@ -23,12 +24,12 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 17 - 24: [Imersão Full Stack & Full Cycle](https://imersao.fullcycle.com.br) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 17 - 19: [BotCamp - Pyhon para finanças](https://lp.edufinance.com.br/botcamp/?fbclid=IwAR0YnpT1if5q9NMOFs-DluwWEEdEKPc7-e_GzZCuH3EgJkdMCsNJ5EPtHO0) - *Edufinance* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 17 - 19: [Explorer Lab - JS DOM](https://explorer-lab.rocketseat.com.br/convite/antonio-10126) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 18: [Feministalk Ada Lovelace](https://www.twitch.tv/morgannadev) - *Feministech* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)🥑
 * 18: [Meetup Cloud Girls - FiberX - Huawei](https://www.eventbrite.com.br/e/cloud-girls-presencial-fiberx-huawei-tickets-432490519787) - **São Paulo / SP**
 * 18 - 19: [Android Mobile Week](https://lp.dio.me/ds-android-mobile-week/) - *DIO* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 18 - 20: [Futurecom Digital Week](https://www.futurecom.com.br/pt/home.html) - **São Paulo / SP**
-* 19: [Thasfin + Feministech #Hacktoberfest](https://www.meetup.com/pt-BR/thasfin/events/288750105/) - **São Paulo / SP**
-* 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 19: [Thasfin + Feministech #Hacktoberfest](https://www.meetup.com/pt-BR/thasfin/events/288750105/) - **São Paulo / SP**🥑
+* 20 - 21: [PHP Community Summit](https://php.locaweb.com.br/) *LocaWeb* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)🥑
 * 20: [Sysadminas -  Sec4U! Uma jornada em busca da sua flag](https://www.meetup.com/pt-BR/sysadminas/events/288562412/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 20: [MeteorJS Meetup Brasil](https://www.meetup.com/pt-BR/meteor-brasil/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 22: [FrontIn Comunidades](https://www.sympla.com.br/evento/frontin-comunidades-2022/1713603) - *FrontIn* - **São Paulo / SP**
@@ -42,7 +43,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Novembro
 
 * 4: [Imersão React](https://www.youtube.com/watch?v=35jb4FeQSe4) - *Alura* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 4 - 5: [The Developer's Weekend](https://weekend.developerslife.tech/) - Andre Noel - **Campo Mourão / PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 4 - 5: [The Developer's Weekend](https://weekend.developerslife.tech/) - Andre Noel - **Campo Mourão / PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)🥑
 * 5: [Afroya Tech Conf 22](https://www.afroyatechconf.com.br/) - **São Paulo / SP**
 * 5: [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/) - **Rio de Janeiro / RJ**
 * 5: [Potências Negras Tec](https://vrlps.co/0v4skjl/cp) -*O maior evento online e gratuito para impulsionar pessoas negras na tecnologia* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
@@ -54,8 +55,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 8 - 11: [Rio Innovation Week](https://rioinnovationweek.com.br/) - *Startups, Pesquisa Cientifica, Empreendedores* - **Rio de Janeiro / RJ**
 * 9 - 12: [X Sulcomp 2022](https://www.even3.com.br/sulcomp2022?even3_orig=events_eventlist) - *X Congresso Sul Brasileiro de Computação* - **Unesc - Universidade do Extremo Sul Catarinense - Criciúma - Santa Catarina - Brasil** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 11 - 12: [Criptofunk](https://criptofunk.org/2022-2/) - *Dados, Funk, Diversidade, Privacidade* - **Rio de Janeiro / RJ**
-* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**
-* 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 11 - 15: [Campus Party Brasil](https://brasil.campus-party.org/) - *CPBR* - **São Paulo / SP**🥑
+* 17 - 19: [Programaria Summit](https://vamosjuntes.programaria.org/summit2022) - *Programaria* - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)🥑
 * 17:[SWP Talks #12](https://www.sympla.com.br/evento/swp-talks-12-reunir-descobrir-compartilhar/1731078) - *SWP Reunir, Descobrir e Compartilhar* - **Pelotas / RS** 
 * 19: [Front in Floripa](https://frontin.floripa.br/) - **Florianópolis / SC**
 * 19: [Django Girls Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI**
@@ -69,8 +70,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Dezembro
 
 * 3: [React Conf Brasil 22](https://reactconf.com.br/) - *React Conf* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 5 - 7: [Dev Summit V](https://www.xpeducacao.com.br/evento/dev-summit) - XP Educação ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 5 - 7: [Dev Summit V](https://www.xpeducacao.com.br/evento/dev-summit) - XP Educação ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)🥑
+* 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)🥑
 * 9 - 11: [Hack GRRRL](https://hackgrrrl.com/) - _Hack GRRRL_ ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 10: [DevOps Days Recife ](https://devopsdays.org/events/2022-recife/welcome/) - **Recife / PE** 
 * 10: [DevFest Sudeste 2022](https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-devfest-sudeste-2022/) - **Teatro Gazeta / SP**
