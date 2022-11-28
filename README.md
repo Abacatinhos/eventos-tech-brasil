@@ -65,6 +65,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 25 [Innovators Hive no Google Cloud Next](https://inthecloud.withgoogle.com/innovators-hive-ptbr-22/register.html) - *Google Cloud* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 26 - 27: [BHack - 11ª Edição](https://www.bhack.com.br/) - *BHack Conference*: atender às necessidades do público mineiro em Segurança da Informação (SI) - **Belo Horizonte / MG**
 * 26: [DevFest Cerrado](https://devfestcerrado.com.br/) - **Uberlândia / MG**
+* 30 - 01/12: [Do While 2022](https://lp.rocketseat.com.br/dowhile?utm_source=Active_Campaing&utm_medium=hotlist&utm_campaign=capture-dowhile-2022&utm_term=email&utm_content=speakers-confirmados&vgo_ee=A3WVd8Ag9YQdYd3bPWjOL9L1pCrMXnLJ9Dc%2F4T7FqlU%3D) - *Rocketseat* ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 ### Dezembro
 
 * 3: [React Conf Brasil 22](https://reactconf.com.br/) - *React Conf* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
