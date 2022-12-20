@@ -25,6 +25,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * TBA: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP**
 * 25 - 26: [ERP Summit](https://www.erpsummit.com.br/) - **São Paulo / SP**
+* 294: [DevOpsDays Aracaju](https://devopsdays.org/events/2023-aracaju/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 
 ### Junho
 
