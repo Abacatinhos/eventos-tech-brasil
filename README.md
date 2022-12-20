@@ -69,8 +69,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Dezembro
 
 * 3: [React Conf Brasil 22](https://reactconf.com.br/) - *React Conf* - ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
-* 3: [Meetup DevGirls](https://www.sympla.com.br/evento/presencial-recife-1-meetup-interestadual-dev-girls/1782764/)  **Recife-PE** ![free | híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 3: [Meetup DevGirls](https://www.sympla.com.br/evento/presencial-porto-alegre-1-meetup-interestadual-dev-girls/1720332) **Porto Alegre-RS** ![free | híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 3: [1º Meetup Interestadual Dev Girls](https://www.sympla.com.br/evento/presencial-recife-1-meetup-interestadual-dev-girls/1782764/) - **Recife-PE** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) ![free](https://img.shields.io/static/v1?label=&message=free&color=lightblue)
+* 3: [1º Meetup Interestadual Dev Girls](https://www.sympla.com.br/evento/presencial-porto-alegre-1-meetup-interestadual-dev-girls/1720332/) - **Porto Alegre-RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) ![free](https://img.shields.io/static/v1?label=&message=free&color=lightblue)
 * 5 - 7: [Dev Summit V](https://www.xpeducacao.com.br/evento/dev-summit) - XP Educação ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
 * 6 - 8: [TDC Future](https://thedevconf.com/tdc/2022/future/) - *Yara Mascarenhas* - **Porto Alegre / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 9 - 11: [Hack GRRRL](https://hackgrrrl.com/) - _Hack GRRRL_ ![online](https://img.shields.io/static/v1?label=&message=online&color=green) ![free|virtual](https://img.shields.io/static/v1?label=&message=free|virtual&color=lightblue)
