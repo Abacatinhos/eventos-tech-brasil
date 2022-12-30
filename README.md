@@ -21,6 +21,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * 03 - 04: [DevOpsDays Goiânia](https://devopsdays.org/events/2023-goiania/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 09 - 11: [SGRio 2023](https://scrumrio.com/) - *Scrum Gathering Rio*
+* 11: Feministech Rio
 * 11: [DevParaná Conf](https://www.devparana.org/) - *DevParaná*
 
 ### Abril
