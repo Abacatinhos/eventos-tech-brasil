@@ -38,6 +38,10 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * 22 - 23: [GopherCon Brasil 2023](https://www.sympla.com.br/evento/gophercon-brasil-2023/1733229?lang=PT) - **São José / SC**
 
+
+### Outubro
+
+
 ### TBA: To Be Announced
 
 * TBA: [DevOps Days Campinas 2023](https://devopsdays.org/events/2019-campinas/welcome/) - **Campinas / SP**
@@ -47,3 +51,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * TBA: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
 * TBA: [RubySummit](https://ruby.com.br/)
 * TBA: [VTEX Day](https://vtexday.vtex.com/)
+* Afroya Tech Conf 22 *
+* TBA [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP** 🥑
+* TBA [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* TBA  - PHP Summit*
