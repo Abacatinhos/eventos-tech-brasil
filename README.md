@@ -1,5 +1,5 @@
 # Eventos Tech Brasil
-
+Online e Offiline
 O objetivo desse repositório é reunir em um só lugar datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil.
 
 ## Contribuindo
