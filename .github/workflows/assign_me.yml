@@ -1,0 +1,11 @@
+
+on: [pull_request]
+
+jobs:
+    assign_me:
+        runs-on: ubuntu-latest
+        name: Assign me
+        steps:
+            - uses: AlbertHernandez/assign-me@v1.0.0
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
