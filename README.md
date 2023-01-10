@@ -1,6 +1,7 @@
 # Eventos Tech Brasil
 
 O objetivo desse repositório é reunir em um só lugar datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil.
+nice nice
 
 ## Contribuindo
 
