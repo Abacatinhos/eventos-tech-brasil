@@ -4,7 +4,7 @@ on:
     types: [opened]
 jobs:
   build:
-    name: Tag pachiu
+    name: Tag pachi
     runs-on: ubuntu-latest
     steps:
       - run: gh pr comment $PR_URL --body "@pachicodes vem cá"
