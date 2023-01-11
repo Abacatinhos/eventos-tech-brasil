@@ -33,6 +33,12 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Junho
 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
+* 22 - 23: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+
+### Julho
+
+* 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
+* 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP**
 
 ### Setembro
 
@@ -48,10 +54,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * TBA: [Alura Conference](https://www.devleaders.com.br/)
 * TBA: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
 * TBA: [HackTown](https://hacktown.com.br/)
-* TBA: [RoadSec](https://www.roadsec.com.br/) - *Flipside*
 * TBA: [RubySummit](https://ruby.com.br/)
 * TBA: [VTEX Day](https://vtexday.vtex.com/)
 * Afroya Tech Conf 22 *
 * TBA [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP** 🥑
-* TBA [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * TBA  - PHP Summit*
