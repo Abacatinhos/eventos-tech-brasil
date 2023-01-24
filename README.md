@@ -32,6 +32,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Junho
 
+* 01 - 04: [Zabbix Conference LatAm 2023](https://www.zabbix.com/br/events/conference_latam_2023) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
 * 22 - 23: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 
