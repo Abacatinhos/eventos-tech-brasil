@@ -16,6 +16,9 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 21: [Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146?token=4d0fd49e61b2183a842e6f8555dc262a&utm_campaign=inscricao_conferencia_css_brasil&utm_medium=email&utm_source=RD+Station) - *São Paulo/SP*
 * 28: [Weni XP](https://doity.com.br/weni-xp#about) - *Centro de Inovação do Jaraguá* - **Maceió/AL** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 
+### Fevereiro
+
+* 23 [#JornadaTech: Como usar LinkedIn para encontrar trabalho](https://www.meetup.com/microsoft-reactor-sao-paulo/events/290284584/) - *Meetup* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 
 ### Março
 
@@ -32,6 +35,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Junho
 
+* 01 - 04: [Zabbix Conference LatAm 2023](https://www.zabbix.com/br/events/conference_latam_2023) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
 * 22 - 23: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 
