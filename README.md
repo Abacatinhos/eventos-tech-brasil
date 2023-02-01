@@ -28,6 +28,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 11: FeminisTalk  inRio
 * 11: [DevParaná Conf](https://devpr.org/) - *DevParaná*
 * 18: [Tosconf](https://tosconf.lhc.net.br/) - *Laboratório Hacker de Campinas (LHC)* - **Campinas  SP**
+* 22-24: [TDC Connections](https://thedevconf.com/tdc/2023/connections/) - **Belo Horizone, Recife, Digital**
 
 ### Abril
 
