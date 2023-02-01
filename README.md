@@ -27,6 +27,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 09 - 11: [SGRio 2023](https://scrumrio.com/) - *Scrum Gathering Rio*
 * 11: FeminisTalk  inRio
 * 11: [DevParaná Conf](https://devpr.org/) - *DevParaná*
+* 18: [Tosconf](https://tosconf.lhc.net.br/) - *Laboratório Hacker de Campinas (LHC)* - **Campinas  SP**
 
 ### Abril
 
