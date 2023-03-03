@@ -60,7 +60,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Outubro
 
-* 22/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
+* 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
 
 ### TBA: To Be Announced
 
