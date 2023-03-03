@@ -29,6 +29,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 11: [DevParaná Conf](https://devpr.org/) - *DevParaná*
 * 18: [Tosconf](https://tosconf.lhc.net.br/) - *Laboratório Hacker de Campinas (LHC)* - **Campinas  SP**
 * 22-24: [TDC Connections](https://thedevconf.com/tdc/2023/connections/) - **Belo Horizone, Recife, Digital**
+* 25: [Caravana Cloud and Data](https://www.even3.com.br/caravana-cloud-and-data-edicao-curitiba-2023-presencial-310148/) - **Curitiba/PR**
 
 ### Abril
 
@@ -38,6 +39,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Maio
 
 * 06: [DevOpsDays Aracaju](https://devopsdays.org/events/2023-aracaju/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 27: [Caravana Cloud and Data](https://www.even3.com.br/caravana-cloud-and-data-edicao-curitiba-2023-presencial-310148/) - **Salvador/BA**
 
 ### Junho
 
