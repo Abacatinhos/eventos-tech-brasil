@@ -28,6 +28,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 11: FeminisTalk  inRio
 * 11: [DevParaná Conf](https://devpr.org/) - *DevParaná*
 * 18: [Tosconf](https://tosconf.lhc.net.br/) - *Laboratório Hacker de Campinas (LHC)* - **Campinas  SP**
+* 21: [GitTogether São Paulo - Março](https://www.meetup.com/pt-BR/githubbrasil/events/292129639/) - *GitHub Open Source Community SP* - **São Paulo/SP**
 * 22-24: [TDC Connections](https://thedevconf.com/tdc/2023/connections/) - **Belo Horizone, Recife, Digital**
 * 25: [Caravana Cloud and Data](https://www.even3.com.br/caravana-cloud-and-data-edicao-curitiba-2023-presencial-310148/) - **Curitiba/PR**
 
@@ -35,6 +36,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * TBA: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP**
 * 25 - 26: [ERP Summit](https://www.erpsummit.com.br/) - **São Paulo / SP**
+* 28: [GitTogether São Paulo - Abril](https://aka.ms/GitHubOpenSourceCommunity) - *GitHub Open Source Community SP* - **São Paulo/SP**
+* 29: [Frontin Elas Programam](https://www.eventbrite.com.br/e/frontin-elas-programam-2023-tickets-570948140257) - **São Paulo/SP**
 
 ### Maio
 
