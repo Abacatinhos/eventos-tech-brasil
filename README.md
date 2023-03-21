@@ -65,6 +65,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Agosto
 <!-- AGOSTO:START -->
+* 17 - 20: [HackTown](https://hacktown.com.br/) - **Santa Rita do Sapucaí / MG**
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
@@ -90,7 +91,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * TBA: [DevCamp 2023](https://devcamp.co/) - **Campinas / SP**
 * TBA: [Alura Conference](https://www.devleaders.com.br/)
 * TBA: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
-* TBA: [HackTown](https://hacktown.com.br/)
+
 * TBA: [RubySummit](https://ruby.com.br/)
 * TBA: [VTEX Day](https://vtexday.vtex.com/)
 * Afroya Tech Conf 22 *
