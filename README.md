@@ -44,6 +44,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 <!-- MAIO:START -->
 * 06: [DevOpsDays Aracaju](https://devopsdays.org/events/2023-aracaju/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 27: [Caravana Cloud and Data](https://www.even3.com.br/caravana-cloud-and-data-edicao-curitiba-2023-presencial-310148/) - **Salvador/BA**
+* 27: [DevConf 2023](https://devconf.com.br/) - **São Carlos / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 <!-- MAIO:END -->
 
 ### Junho
