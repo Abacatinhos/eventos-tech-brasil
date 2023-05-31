@@ -54,15 +54,18 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
 * 19 - 21: [devTEC 2023](https://www.devtec.com.br/) - **Tubarão / SC**
 * 22 - 23: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 27 - 29: [FEBRABAN TECH](https://www.febrabantech.com/sobre) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 * 28 - 29: [Universon TOTVS 2023](https://universo.totvs.com/) - **São Paulo / SP**
+
 
 <!-- JUNHO:END -->
 
 ### Julho
 <!-- JULHO:START -->
+* 07: INTELBRAS - TECNOLOGIA DE MONITORAMENTO E RASTREAMENTO
 * 13: [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) - **Rio de Janeiro / RJ**
 * 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
-* 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP**
+* 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 <!-- JULHO:END -->
 
 ### Agosto
