@@ -62,7 +62,6 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Julho
 <!-- JULHO:START -->
-* 07: INTELBRAS - TECNOLOGIA DE MONITORAMENTO E RASTREAMENTO
 * 13: [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) - **Rio de Janeiro / RJ**
 * 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
 * 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
