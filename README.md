@@ -66,6 +66,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 <!-- JULHO:START -->
 * 13: [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) - **Rio de Janeiro / RJ**
 * 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
+* 15: [Hashitalks Brasil](https://events.hashicorp.com/hashitalksbrasil) - ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 <!-- JULHO:END -->
 
