@@ -71,10 +71,12 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Agosto
 <!-- AGOSTO:START -->
 * 17 - 20: [HackTown](https://hacktown.com.br/) - **Santa Rita do Sapucaí / MG**
+* 19: [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2023-rio-de-janeiro) - **Rio de Janeiro / RJ**
 * 26: [codecon<summit>](https://www.codecon.dev/summit) - **Joinville / SC**
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
+* 2: [DevOpsDays Fortaleza](https://devopsdays.org/events/2023-fortaleza) - **Fortaleza/CE**
 * 22 - 23: [GopherCon Brasil 2023](https://www.sympla.com.br/evento/gophercon-brasil-2023/1733229?lang=PT) - **São José / SC**
 <!-- SETEMBRO:END -->
 
