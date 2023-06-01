@@ -80,6 +80,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Outubro
 <!-- OUTUBRO:START -->
+
+* 21/10 - 05/11: [Big Data Brazil Experience 2023](https://www.sympla.com.br/evento/big-data-brazil-experience-2023/1764670?gclid=CjwKCAjwg-GjBhBnEiwAMUvNWyjIP4h5lXM4nWTjdrTpnreUQceCoxWKtmHpsiY1fRnXO_ayb_yjyBoCcz8QAvD_BwE) - **São Paulo / RS**
 * 28: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
 * 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
 <!-- OUTUBRO:END -->
