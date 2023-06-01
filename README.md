@@ -70,6 +70,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Agosto
 <!-- AGOSTO:START -->
 * 17 - 20: [HackTown](https://hacktown.com.br/) - **Santa Rita do Sapucaí / MG**
+* 26: [codecon<summit>](https://www.codecon.dev/summit) - **Joinville / SC**
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
@@ -78,6 +79,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Outubro
 <!-- OUTUBRO:START -->
+* 28: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
 * 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
 <!-- OUTUBRO:END -->
 
