@@ -51,6 +51,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 <!-- JUNHO:START -->
 * 01 - 03: [III Congresso de Tecnologia da Informação do IFSul Passo Fundo](https://congressoti.passofundo.ifsul.edu.br/) - **Passo Fundo / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 01 - 04: [Zabbix Conference LatAm 2023](https://www.zabbix.com/br/events/conference_latam_2023) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 14 - 16: [TDC Innovation](https://thedevconf.com/tdc/2023/innovation/) - **Florianópolis / SC** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
 * 19 - 21: [devTEC 2023](https://www.devtec.com.br/) - **Tubarão / SC**
 * 22: [Microsoft Build Brasil](https://msevents.microsoft.com/event?id=2695088650&amp;wt.mc_id=AID3058360_QSG_SCL_643461) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
