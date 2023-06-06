@@ -91,6 +91,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Novembro
 <!-- NOVEMBRO:START -->
+* 09 a 11/11: [The Developer's Life Weekend](https://weekend.developerslife.tech/) - **Campo Mourão-PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
