@@ -67,6 +67,10 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 * 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
 
+### Agosto
+<!-- AGOSTO:START -->
+* 01 - 03: [NETCOM](https://netcom2023.com.br/congresso/) - **São Paulo / SP**
+
 ### TBA: To Be Announced
 
 * TBA: [Alura Conference](https://www.devleaders.com.br/)
