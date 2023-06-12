@@ -72,7 +72,8 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Agosto
 <!-- AGOSTO:START -->
-* 03: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - ++São Paulo - SP**
+* 01 - 03: [NETCOM](https://netcom2023.com.br/congresso/) - **São Paulo / SP**
+* 03: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - **São Paulo - SP**
 * 17 - 20: [HackTown](https://hacktown.com.br/) - **Santa Rita do Sapucaí / MG**
 * 26: [codecon<summit>](https://www.codecon.dev/summit) - **Joinville / SC**
 <!-- AGOSTO:END -->
@@ -98,9 +99,6 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 <!-- DEZEMBRO:START -->
 <!-- DEZEMBRO:END -->
 
-### Agosto
-<!-- AGOSTO:START -->
-* 01 - 03: [NETCOM](https://netcom2023.com.br/congresso/) - **São Paulo / SP**
 
 ### TBA: To Be Announced
 
