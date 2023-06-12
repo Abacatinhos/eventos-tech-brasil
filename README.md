@@ -98,6 +98,10 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 <!-- DEZEMBRO:START -->
 <!-- DEZEMBRO:END -->
 
+### Agosto
+<!-- AGOSTO:START -->
+* 01 - 03: [NETCOM](https://netcom2023.com.br/congresso/) - **São Paulo / SP**
+
 ### TBA: To Be Announced
 
 * TBA: [DevOps Days Campinas 2023](https://devopsdays.org/events/2019-campinas/welcome/) - **Campinas / SP**
