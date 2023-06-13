@@ -97,6 +97,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Dezembro
 <!-- DEZEMBRO:START -->
+ * 02/12 e 03/12: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
 <!-- DEZEMBRO:END -->
 
 
@@ -105,7 +106,6 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * TBA: [DevOps Days Campinas 2023](https://devopsdays.org/events/2019-campinas/welcome/) - **Campinas / SP**
 * TBA: [DevCamp 2023](https://devcamp.co/) - **Campinas / SP**
 * TBA: [Alura Conference](https://www.devleaders.com.br/)
-* TBA: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP**
 
 * TBA: [RubySummit](https://ruby.com.br/)
 * TBA: [VTEX Day](https://vtexday.vtex.com/)
