@@ -69,9 +69,10 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 13: [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) - **Rio de Janeiro / RJ**
 * 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
 * 15: [Hashitalks Brasil](https://events.hashicorp.com/hashitalksbrasil) - ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 22: [GitTogether São Paulo Julho](https://www.meetup.com/pt-BR/githubbrasil/events/294062322/) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 * 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-<!-- JULHO:END -->
 * 29 : [FrontIn Sampa + Code In The Dark](https://www.eventbrite.com.br/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
+<!-- JULHO:END -->
 
 ### Agosto
 <!-- AGOSTO:START -->
