@@ -82,10 +82,12 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 19: [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2023-rio-de-janeiro) - **Rio de Janeiro / RJ**
 * 26: [codecon<summit>](https://www.codecon.dev/summit) - **Joinville / SC**
 <!-- AGOSTO:END -->
+
 ### Setembro
 <!-- SETEMBRO:START -->
 * 2: [DevOpsDays Fortaleza](https://devopsdays.org/events/2023-fortaleza) - **Fortaleza/CE**
 * 22 - 23: [GopherCon Brasil 2023](https://www.sympla.com.br/evento/gophercon-brasil-2023/1733229?lang=PT) - **São José / SC**
+* 28 - 29: [PHP Community Summit](https://php.locaweb.com.br) ([Call for Papers](https://bit.ly/cfp-phpcs-2023)) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 <!-- SETEMBRO:END -->
 
 ### Outubro
@@ -117,4 +119,3 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * TBA: [VTEX Day](https://vtexday.vtex.com/)
 * Afroya Tech Conf 22 *
 * TBA [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP** 🥑
-* TBA  - PHP Summit*
