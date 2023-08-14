@@ -81,6 +81,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 17 - 20: [HackTown](https://hacktown.com.br/) - **Santa Rita do Sapucaí / MG**
 * 19: [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2023-rio-de-janeiro) - **Rio de Janeiro / RJ**
 * 26: [codecon<summit>](https://www.codecon.dev/summit) - **Joinville / SC**
+* 26: [13º Meetup Presencial - Front-End CE](https://www.eventbrite.com.br/e/13o-meetup-presencial-front-end-ce-clojure-ux-e-testes-tickets-695305255737) - **Fortaleza / CE**
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
@@ -90,7 +91,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Outubro
 <!-- OUTUBRO:START -->
-
+* 14/10 - 14/10: [Front-End Day - Fortaleza 2023](https://www.frontendday.com.br/) - **Fortaleza / CE**
 * 21/10 - 05/11: [Big Data Brazil Experience 2023](https://www.sympla.com.br/evento/big-data-brazil-experience-2023/1764670?gclid=CjwKCAjwg-GjBhBnEiwAMUvNWyjIP4h5lXM4nWTjdrTpnreUQceCoxWKtmHpsiY1fRnXO_ayb_yjyBoCcz8QAvD_BwE) - **São Paulo / RS**
 * 28: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
 * 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
