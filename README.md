@@ -93,6 +93,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Outubro
 <!-- OUTUBRO:START -->
+* 06/10 - 07/10: [PHPeste - Fortaleza 2023](https://phpeste.org/) - **Fortaleza / CE**
 * 14/10 - 14/10: [Front-End Day - Fortaleza 2023](https://www.frontendday.com.br/) - **Fortaleza / CE**
 * 21/10 - 05/11: [Big Data Brazil Experience 2023](https://www.sympla.com.br/evento/big-data-brazil-experience-2023/1764670?gclid=CjwKCAjwg-GjBhBnEiwAMUvNWyjIP4h5lXM4nWTjdrTpnreUQceCoxWKtmHpsiY1fRnXO_ayb_yjyBoCcz8QAvD_BwE) - **São Paulo / RS**
 * 28: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
