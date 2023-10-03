@@ -93,7 +93,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Outubro
 <!-- OUTUBRO:START -->
-* 05/10 - 05/10: [OktoberTech 2023](https://www.sympla.com.br/evento/oktobertech-2023/2143316?) - **Blumenau / SC**
+* 05/10 - 20/10: [OktoberTech 2023](https://www.sympla.com.br/evento/oktobertech-2023/2143316?) - **Blumenau / SC**
 * 06/10 - 07/10: [PHPeste - Fortaleza 2023](https://phpeste.org/) - **Fortaleza / CE**
 * 14: [Ecossistema Mobile 2023](https://www.eventbrite.com/e/ecossistema-mobile-tickets-699686811087?aff=oddtdtcreator) - **Florianópolis / SC** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 14/10 - 14/10: [Front-End Day - Fortaleza 2023](https://www.frontendday.com.br/) - **Fortaleza / CE**
