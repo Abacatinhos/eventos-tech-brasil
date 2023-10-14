@@ -100,6 +100,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 21/10 - 21/10: [Big Data Brazil Experience 2023](https://www.sympla.com.br/evento/big-data-brazil-experience-2023/1764670?gclid=CjwKCAjwg-GjBhBnEiwAMUvNWyjIP4h5lXM4nWTjdrTpnreUQceCoxWKtmHpsiY1fRnXO_ayb_yjyBoCcz8QAvD_BwE) - **São Paulo / RS**
 * 26/10 a 29/10: [HACKTUDO - Festival de cultura digital](https://www.hacktudo.com.br/) - **Cidade das Artes / RJ** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 * 28/10 - 28/10: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
+* 28/10: [Quebradev - Conferência Tecnologia e Sociedade: Tecnologia para Quem?](https://www.sympla.com.br/evento/conferencia-tecnologia-e-sociedade-tecnologia-para-quem/2129140) - **São Paulo / SP**
 * 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
 <!-- OUTUBRO:END -->
 
