@@ -97,10 +97,15 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 06/10 - 07/10: [PHPeste - Fortaleza 2023](https://phpeste.org/) - **Fortaleza / CE**
 * 14: [Ecossistema Mobile 2023](https://www.eventbrite.com/e/ecossistema-mobile-tickets-699686811087?aff=oddtdtcreator) - **Florianópolis / SC** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 14/10 - 14/10: [Front-End Day - Fortaleza 2023](https://www.frontendday.com.br/) - **Fortaleza / CE**
+* 18/10: [Golang SP na Cloudwalk: Mais ativos do que nunca](https://www.meetup.com/pt-BR/golangbr/events/296500714/) - **São Paulo/SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
+* 21/10: [ServerlessDays São Paulo 2023](https://www.sympla.com.br/evento/serverlessdays-sao-paulo-2023/2020241?d=PokemaoNoSDSP) - **São Paulo/SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 * 21/10 - 21/10: [Big Data Brazil Experience 2023](https://www.sympla.com.br/evento/big-data-brazil-experience-2023/1764670?gclid=CjwKCAjwg-GjBhBnEiwAMUvNWyjIP4h5lXM4nWTjdrTpnreUQceCoxWKtmHpsiY1fRnXO_ayb_yjyBoCcz8QAvD_BwE) - **São Paulo / RS**
+* 26/10: [Meetup Nubank - Projetando arquiteturas de software escaláveis e robustas](https://www.linkedin.com/events/projetandoarquiteturasdesoftwar7114682827979288576/) - **São Paulo/SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 26/10 a 29/10: [HACKTUDO - Festival de cultura digital](https://www.hacktudo.com.br/) - **Cidade das Artes / RJ** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 * 28/10 - 28/10: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
+* 28/10: [Devs 40+ Conf](https://www.devs40mais.com.br/) - **São Paulo/SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 * 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
+* 31/10: [Thasfin #11 | ALURA + FIAP](https://www.meetup.com/thasfin/events/296708149/) - **São Paulo/SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 <!-- OUTUBRO:END -->
 
 ### Novembro
