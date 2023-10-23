@@ -106,13 +106,17 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 ### Novembro
 <!-- NOVEMBRO:START -->
 * 09 a 11/11: [The Developer's Life Weekend](https://weekend.developerslife.tech/) - **Campo Mourão-PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 14/11: [Meetup da Rocketseat - Como construir carreira em desenvolvimento Web](https://www.meetup.com/rocketseat/events/295683069/) - **Itabuna/Ilhéus / BA** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 25/11: [Front in Floripa](https://frontin.floripa.br/) - **Florianopolis / SC** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 * 25/11: [Django Girls Parnaíba 2023 - PyLadies Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
- * 25/11 e 26/11: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 25/11: [Meetup da Rocketseat - Teoria à Prática: Construindo sua Carreira em Desenvolvimento de Software](https://www.meetup.com/rocketseat/events/295806034/) - **Rio de Janeiro / RJ** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 25/11 e 26/11: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
 <!-- DEZEMBRO:START -->
+* 02/12: [Meetup da Rocketseat - Construindo Bases Sólidas em Programação](https://www.meetup.com/rocketseat/events/295684332/) - **Salvador / BA** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 <!-- DEZEMBRO:END -->
 
 
