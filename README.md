@@ -113,6 +113,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 
 ### Dezembro
 <!-- DEZEMBRO:START -->
+* 16/12: [DevFest Pelotas](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas/) - **Pelotas / RS**
 <!-- DEZEMBRO:END -->
 
 
