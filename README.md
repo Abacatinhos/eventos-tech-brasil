@@ -1,133 +1,120 @@
-# Eventos Tech Brasil
+<p class="header" align="center">
+ <img width="150px" src="./assets/abacatinhos.svg" align="center" alt="GitHub Readme Stats" />
+ <h1 align="center">Eventos Tech Brasil</h1> 
+</p>
 
-O objetivo desse repositório é reunir em um só lugar datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil.
+_Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil!_
+
+<h2 align="center">Selecione o mês do Evento</h2>
+<p class="navigation" align="center">
+    <a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a>
+</p>
 
 ## Contribuindo
 
-Para contribuir, você precisa adicionar as seguintes informações: data, nome do evento, site, organização e local.
+Conhece algum evento, palestra ou algo relacionado ao tema e deseja contribuir?  
 
-## Arquivo
-### [Eventos 2022](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2022.md) 
+#### Nós aceitamos ajuda! 
 
+Para contribuir você precisa adicionar as seguintes informações: **data, nome do evento, site, organização e local**. Adicione também uma das sequintes badges para indicar se é presencial, online ou híbrido:
 
-## 2023
-### Janeiro
- <!-- JANEIRO:START -->
-* 21: [Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/evento/conferencia-css-brasil-2023-code-in-the-dark/1759146?token=4d0fd49e61b2183a842e6f8555dc262a&utm_campaign=inscricao_conferencia_css_brasil&utm_medium=email&utm_source=RD+Station) - *São Paulo/SP*
-* 28: [Weni XP](https://doity.com.br/weni-xp#about) - *Centro de Inovação do Jaraguá* - **Maceió/AL** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-<!-- JANEIRO:END -->
+- ![presencial]
+- ![híbrido]
+- ![online]
+
+Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos presente no evento também. 🤩
+
+## Eventos em 2024
+
 ### Fevereiro
 <!-- FEVEREIRO:START -->
-* 16 [4º Flutter Campinas Meetup](https://www.meetup.com/flutter-campinas/events/290984453/) - *Meetup* ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 23 [#JornadaTech: Como usar LinkedIn para encontrar trabalho](https://www.meetup.com/microsoft-reactor-sao-paulo/events/290284584/) - *Meetup* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
+* 23: [KCD São Paulo - Brasil 2024](https://community.cncf.io/kcd-brasil/) ![online]
+* 24: [KCD São Paulo - Brasil 2024](https://community.cncf.io/kcd-brasil/) - _São Paulo/SP_ ![presencial]
 <!-- FEVEREIRO:END -->
+
 ### Março
 <!-- MARÇO:START -->
-* 03 - 04: [DevOpsDays Goiânia](https://devopsdays.org/events/2023-goiania/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 09 - 11: [SGRio 2023](https://scrumrio.com/) - *Scrum Gathering Rio*
-* 11: FeminisTalk  inRio
-* 11: [DevParaná Conf](https://devpr.org/) - *DevParaná*
-* 18: [Tosconf](https://tosconf.lhc.net.br/) - *Laboratório Hacker de Campinas (LHC)* - **Campinas  SP**
-* 21: [GitTogether São Paulo - Março](https://www.meetup.com/pt-BR/githubbrasil/events/292129639/) - *GitHub Open Source Community SP* - **São Paulo/SP**
-* 22-24: [TDC Connections](https://thedevconf.com/tdc/2023/connections/) - **Belo Horizone, Recife, Digital**
-* 25: [Caravana Cloud and Data](https://www.even3.com.br/caravana-cloud-and-data-edicao-curitiba-2023-presencial-310148/) - **Curitiba/PR**
+* 04, 05, 06 e 07: [Agile Trends](https://agiletrendsbr.com/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
+* 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
+* 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
+* 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
+* 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
 <!-- MARÇO:END -->
+
 ### Abril
 <!-- ABRIL:START -->
-* TBA: [Agile Trends](https://agiletrendsbr.com/) - **São Paulo / SP**
-* 25 - 26: [ERP Summit](https://www.erpsummit.com.br/) - **São Paulo / SP**
-* 28: [GitTogether São Paulo - Abril](https://aka.ms/GitHubOpenSourceCommunity) - *GitHub Open Source Community SP* - **São Paulo/SP**
-* 29: [Frontin Elas Programam](https://www.eventbrite.com.br/e/frontin-elas-programam-2023-tickets-570948140257) - **São Paulo/SP**
+* 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
+* 06: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
+* 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
+* 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
+* 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
 <!-- ABRIL:END -->
 
 ### Maio
 <!-- MAIO:START -->
-* 06: [DevOpsDays Aracaju](https://devopsdays.org/events/2023-aracaju/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 27: [Caravana Cloud and Data](https://www.even3.com.br/caravana-cloud-and-data-edicao-curitiba-2023-presencial-310148/) - **Salvador/BA**
-* 27: [DevConf 2023](https://devconf.com.br/) - **São Carlos / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
+* 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
+* 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
+* 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
+* 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
 
 ### Junho
 <!-- JUNHO:START -->
-* 01 - 03: [III Congresso de Tecnologia da Informação do IFSul Passo Fundo](https://congressoti.passofundo.ifsul.edu.br/) - **Passo Fundo / RS** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 01 - 04: [Zabbix Conference LatAm 2023](https://www.zabbix.com/br/events/conference_latam_2023) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 14 - 16: [TDC Innovation](https://thedevconf.com/tdc/2023/innovation/) - **Florianópolis / SC** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue) 
-* 15 - 16: [Direito Digital, Tecnologia e Proteção de Dados](https://cddtpd.com.br) - *Opice Blum Academy*
-* 17: [Meetup (GitTogether + Pyladies + Python) Floripa](https://www.meetup.com/githubbrasil/events/293939708/) - **Florianópolis / SC** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 19 - 21: [devTEC 2023](https://www.devtec.com.br/) - **Tubarão / SC**
-* 22: [Microsoft Build Brasil](https://msevents.microsoft.com/event?id=2695088650&amp;wt.mc_id=AID3058360_QSG_SCL_643461) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 22 - 23: [CodeCon](https://www.codecon.dev/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
-* 24: [Front-End CE](https://frontendce.com.br/) - **Fortalexa / CE** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 27 - 29: [FEBRABAN TECH](https://www.febrabantech.com/sobre) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 28 - 29: [Universon TOTVS 2023](https://universo.totvs.com/) - **São Paulo / SP**
-
-
+* 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial]
+* 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 <!-- JUNHO:END -->
 
 ### Julho
 <!-- JULHO:START -->
-* 13: [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) - **Rio de Janeiro / RJ**
-* 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
-* 15: [Hashitalks Brasil](https://events.hashicorp.com/hashitalksbrasil) - ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
-* 22: [GitTogether São Paulo Julho](https://www.meetup.com/pt-BR/githubbrasil/events/294062322/) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 29 : [FrontIn Sampa + Code In The Dark](https://www.eventbrite.com.br/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 <!-- JULHO:END -->
 
 ### Agosto
 <!-- AGOSTO:START -->
-* 01 - 03: [NETCOM](https://netcom2023.com.br/congresso/) - **São Paulo / SP**
-* 03: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - **São Paulo - SP**
-* 17 - 20: [HackTown](https://hacktown.com.br/) - **Santa Rita do Sapucaí / MG**
-* 19: [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2023-rio-de-janeiro) - **Rio de Janeiro / RJ**
-* 26: [codecon<summit>](https://www.codecon.dev/summit) - **Joinville / SC**
-* 26: [13º Meetup Presencial - Front-End CE](https://www.eventbrite.com.br/e/13o-meetup-presencial-front-end-ce-clojure-ux-e-testes-tickets-695305255737) - **Fortaleza / CE**
+* 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
+* 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 <!-- AGOSTO:END -->
 
 ### Setembro
 <!-- SETEMBRO:START -->
-* 2: [DevOpsDays Fortaleza](https://devopsdays.org/events/2023-fortaleza) - **Fortaleza/CE**
-* 22 - 23: [GopherCon Brasil 2023](https://www.sympla.com.br/evento/gophercon-brasil-2023/1733229?lang=PT) - **São José / SC**
-* 28 - 29: [PHP Community Summit](https://php.locaweb.com.br) ([Call for Papers](https://bit.ly/cfp-phpcs-2023)) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 04, 05, 06, 07 e 08: [Campus Party Nordeste 2024](https://brasil.campus-party.org/cpnordeste/ingressos/) - _Recife/PE_ ![presencial]
+* 06 e 07: [Codecon Summit 2024](https://eventos.codecon.dev/codecon-summit-24/) - _Joinville/SC_ ![presencial]
+* 13, 14 e 15: [Python Sul - 2024](https://sul.python.org.br/) - _Florianópolis/SC_ ![presencial]
+* 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 
 ### Outubro
 <!-- OUTUBRO:START -->
-* 05/10 - 20/10: [OktoberTech 2023](https://www.sympla.com.br/evento/oktobertech-2023/2143316?) - **Blumenau / SC**
-* 06/10 - 07/10: [PHPeste - Fortaleza 2023](https://phpeste.org/) - **Fortaleza / CE**
-* 14: [Ecossistema Mobile 2023](https://www.eventbrite.com/e/ecossistema-mobile-tickets-699686811087?aff=oddtdtcreator) - **Florianópolis / SC** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 14/10 - 14/10: [Front-End Day - Fortaleza 2023](https://www.frontendday.com.br/) - **Fortaleza / CE**
-* 18/10: [Golang SP na Cloudwalk: Mais ativos do que nunca](https://www.meetup.com/pt-BR/golangbr/events/296500714/) - **São Paulo/SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 21/10: [ServerlessDays São Paulo 2023](https://www.sympla.com.br/evento/serverlessdays-sao-paulo-2023/2020241?d=PokemaoNoSDSP) - **São Paulo/SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 21/10 - 21/10: [Big Data Brazil Experience 2023](https://www.sympla.com.br/evento/big-data-brazil-experience-2023/1764670?gclid=CjwKCAjwg-GjBhBnEiwAMUvNWyjIP4h5lXM4nWTjdrTpnreUQceCoxWKtmHpsiY1fRnXO_ayb_yjyBoCcz8QAvD_BwE) - **São Paulo / RS**
-* 26/10: [Meetup Nubank - Projetando arquiteturas de software escaláveis e robustas](https://www.linkedin.com/events/projetandoarquiteturasdesoftwar7114682827979288576/) - **São Paulo/SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 26/10 a 29/10: [HACKTUDO - Festival de cultura digital](https://www.hacktudo.com.br/) - **Cidade das Artes / RJ** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 28/10 - 28/10: [codecon<feature>](https://www.codecon.dev/feature) - **Florianopolis / SC**
-* 28/10: [Devs 40+ Conf](https://www.devs40mais.com.br/) - **São Paulo/SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 30/10 - 05/11: [Python Brasil 2023](https://2023.pythonbrasil.org.br/) - **Caxias do Sul / RS**
-* 31/10: [Thasfin #11 | ALURA + FIAP](https://www.meetup.com/thasfin/events/296708149/) - **São Paulo/SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
+* 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 <!-- OUTUBRO:END -->
 
 ### Novembro
 <!-- NOVEMBRO:START -->
-* 09 a 11/11: [The Developer's Life Weekend](https://weekend.developerslife.tech/) - **Campo Mourão-PR** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-* 25/11: [Front in Floripa](https://frontin.floripa.br/) - **Florianopolis / SC** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
-* 25/11: [Django Girls Parnaíba 2023 - PyLadies Parnaíba](https://djangogirls.org/en/parnaiba/) - **Parnaíba / PI** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
- * 25/11 e 26/11: [Gambiconf](https://gambiconf.dev/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
 <!-- DEZEMBRO:START -->
+* 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 <!-- DEZEMBRO:END -->
 
+## TBA: To Be Announced
+<!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
+<!--TBA:START-->
+* TBA: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
+* TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
+* TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
+* TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
+* TBA: [Blockchain Rio Festival](https://blockchainfestival.io/)
+* TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
+* TBA: [RoadSec 2024](https://roadsec.com.br) - _São Paulo/SP_ ![presencial]
+<!--TBA:END-->
 
-### TBA: To Be Announced
+## Eventos dos anos anteriores
+* [Eventos 2022](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2022.md)
+* [Eventos 2023](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2023.md)
 
-* TBA: [DevOps Days Campinas 2023](https://devopsdays.org/events/2019-campinas/welcome/) - **Campinas / SP**
-* TBA: [DevCamp 2023](https://devcamp.co/) - **Campinas / SP**
-* TBA: [Alura Conference](https://www.devleaders.com.br/)
-
-* TBA: [RubySummit](https://ruby.com.br/)
-* TBA: [VTEX Day](https://vtexday.vtex.com/)
-* Afroya Tech Conf 22 *
-* TBA [RubyConf](https://www.rubyconf.com.br/) - *Locaweb* - **São Paulo / SP** 🥑
+<!--LINK DAS BADGES:START-->
+[presencial]: https://img.shields.io/static/v1?label=&message=presencial&color=blue
+[híbrido]: https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red
+[online]: https://img.shields.io/static/v1?label=&message=online&color=purple
+<!--LINK DAS BADGES:END-->
