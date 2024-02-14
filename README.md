@@ -53,6 +53,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ### Maio
 <!-- MAIO:START -->
 * 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
+* 14 a 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
 * 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 * 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
 * 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
