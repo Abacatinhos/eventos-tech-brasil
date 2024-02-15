@@ -112,6 +112,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 * TBA: [Blockchain Rio Festival](https://blockchainfestival.io/)
 * TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 * TBA: [RoadSec 2024](https://roadsec.com.br) - _São Paulo/SP_ ![presencial]
+* TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
