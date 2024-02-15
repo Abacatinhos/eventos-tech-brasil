@@ -39,6 +39,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 * 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
 * 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 * 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
+* 30: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
+
 <!-- MARÇO:END -->
 
 ### Abril
