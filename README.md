@@ -28,6 +28,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 ### Fevereiro
 <!-- FEVEREIRO:START -->
+* 20: [2º Meetup da PARAÍ - Comunidade Téc. de IA da Paraíba](https://comunidadeparai.github.io/parai/) - _Cabedelo/PB_ ![presencial]
 * 23: [KCD São Paulo - Brasil 2024](https://community.cncf.io/kcd-brasil/) ![online]
 * 24: [KCD São Paulo - Brasil 2024](https://community.cncf.io/kcd-brasil/) - _São Paulo/SP_ ![presencial]
 <!-- FEVEREIRO:END -->
