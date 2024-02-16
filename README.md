@@ -34,6 +34,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 ### Março
 <!-- MARÇO:START -->
+* 02: [GitTogether São Paulo - Março/2024](https://www.meetup.com/githubbrasil/events/299195273/) - _São Paulo/SP_ ![presencial]
 * 04, 05, 06 e 07: [Agile Trends](https://agiletrendsbr.com/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 * 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
 * 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
