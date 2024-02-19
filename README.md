@@ -28,6 +28,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 ### Fevereiro
 <!-- FEVEREIRO:START -->
+* 20: [2º Meetup da PARAÍ - Comunidade Téc. de IA da Paraíba](https://comunidadeparai.github.io/parai/) - _Cabedelo/PB_ ![presencial]
 * 23: [KCD São Paulo - Brasil 2024](https://community.cncf.io/kcd-brasil/) ![online]
 * 24: [KCD São Paulo - Brasil 2024](https://community.cncf.io/kcd-brasil/) - _São Paulo/SP_ ![presencial]
 * 26: [Meetup SouJava Campinas](https://www.meetup.com/soujava/events/298981832/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=linkedin) - _Campinas/SP_ ![presencial]
@@ -35,20 +36,20 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 ### Março
 <!-- MARÇO:START -->
+* 02: [Mulher Tech Sim Senhor - 9º Edição](https://www.mulhertechsimsr.com.br/) - _Cabedelo/PB_ ![presencial]
 * 02: [GitTogether São Paulo - Março/2024](https://www.meetup.com/githubbrasil/events/299195273/) - _São Paulo/SP_ ![presencial]
 * 04, 05, 06 e 07: [Agile Trends](https://agiletrendsbr.com/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 * 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
 * 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
 * 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 * 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
-* 30: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
-
 <!-- MARÇO:END -->
 
 ### Abril
 <!-- ABRIL:START -->
 * 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
 * 06: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
+* 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
 * 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 * 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 * 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
@@ -113,6 +114,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 * TBA: [Blockchain Rio Festival](https://blockchainfestival.io/)
 * TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 * TBA: [RoadSec 2024](https://roadsec.com.br) - _São Paulo/SP_ ![presencial]
+* TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
