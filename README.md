@@ -47,6 +47,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
 - 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
 - 16: [Recife Data Saturday - 2ª Edição](https://www.sympla.com.br/evento/recife-data-saturday-2-edicao/2317071?referrer=github.com) - _Recife/PE_ ![presencial]
+- 21: [Microsoft AI Tour](https://envision.microsoft.com/en-US/sao-paulo) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
 <!-- MARÇO:END -->
