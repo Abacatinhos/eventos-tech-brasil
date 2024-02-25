@@ -142,10 +142,13 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [Blockchain Rio Festival](https://blockchainfestival.io/)
 - TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
-- TBA: [RoadSec 2024](https://roadsec.com.br) - _São Paulo/SP_ ![presencial]
+- TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
+- TBA: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
+- TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
+- TBA: [Hacking na Web Day São Paulo]() - _São Paulo/SP_ ![presencial]
+- TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
