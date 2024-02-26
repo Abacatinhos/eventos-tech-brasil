@@ -47,6 +47,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
 - 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
 - 16: [Recife Data Saturday - 2ª Edição](https://www.sympla.com.br/evento/recife-data-saturday-2-edicao/2317071?referrer=github.com) - _Recife/PE_ ![presencial]
+- 16: [FortalSec 2024](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
 - 21: [Microsoft AI Tour](https://envision.microsoft.com/en-US/sao-paulo) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
@@ -60,6 +61,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 06: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
 - 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
+- 13: [Hacking na Web Day Brasília](https://www.sympla.com.br/evento/hnwd-brasilia/2352518?referrer=linktr.ee) - _Brasília/DF_ ![presencial]
 - 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
 - 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
@@ -88,6 +90,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ### Julho
 
 <!-- JULHO:START -->
+
+- 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 <!-- JULHO:END -->
 
 ### Agosto
@@ -138,10 +142,13 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [Blockchain Rio Festival](https://blockchainfestival.io/)
 - TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
-- TBA: [RoadSec 2024](https://roadsec.com.br) - _São Paulo/SP_ ![presencial]
+- TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
+- TBA: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
+- TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
+- TBA: [Hacking na Web Day São Paulo]() - _São Paulo/SP_ ![presencial]
+- TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
