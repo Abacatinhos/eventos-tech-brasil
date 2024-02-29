@@ -148,7 +148,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
 - TBA: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
-- TBA: [Hacking na Web Day São Paulo]() - _São Paulo/SP_ ![presencial]
+- TBA: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 <!--TBA:END-->
 
