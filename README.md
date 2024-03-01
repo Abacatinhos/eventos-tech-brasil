@@ -77,7 +77,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 05, 12, 19, 26: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
-- 06: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
 - 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
@@ -174,6 +173,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
 - TBA: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
+- TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
