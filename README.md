@@ -44,6 +44,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 02: [Mulher Tech Sim Senhor - 9º Edição](https://www.mulhertechsimsr.com.br/) - _Cabedelo/PB_ ![presencial]
 - 02: [GitTogether São Paulo - Março/2024](https://www.meetup.com/githubbrasil/events/299195273/) - _São Paulo/SP_ ![presencial]
 - 02: [DEVPIRA .NET Wknd](https://www.devpira.com.br/eventos/net-wknd) - _Piracicaba/SP_ ![presencial]
+- 04: [Como integrar e-mail e Google Sheets na sua automação RPA](https://www.linkedin.com/events/livecoding-comointegrare-maileg7168943418851708928) - ![online]
 - 04, 05, 06 e 07: [Agile Trends](https://agiletrendsbr.com/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 - 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
 - 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
