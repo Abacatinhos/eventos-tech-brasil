@@ -84,6 +84,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
 - 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
+- 27: [Bits&Bytes Unicarioca  - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 <!-- ABRIL:END -->
 
 ### Maio
@@ -91,6 +92,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- MAIO:START -->
 
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
+- 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados -  Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
 - 14 a 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
