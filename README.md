@@ -69,6 +69,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
 - 28: [DevOps Experience - 28 de Março de 2024](https://estabilis.zoom.us/webinar/register/7117091463013/WN_WmvhSiwkQ3-oD2KRlORVJw#/registration) - _São Paulo/SP_ ![presencial]
+- 30: [Rio Maker Space: Arduino Day 2024](https://www.sympla.com.br/evento/rio-maker-space-arduino-day-2024/2368423) - _Rio de Janeiro/RJ_ ![presencial]
 <!-- MARÇO:END -->
 
 ### Abril
