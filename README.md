@@ -152,13 +152,13 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- NOVEMBRO:START -->
 
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
-- 25: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 24,25,26,27,28,29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
 
 <!-- DEZEMBRO:START -->
-
+- 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 <!-- DEZEMBRO:END -->
 
