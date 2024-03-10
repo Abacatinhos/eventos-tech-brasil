@@ -145,6 +145,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- OUTUBRO:START -->
 
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
+- 16, 17, 18, 19, 20 e 21 [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro, RJ_ ![híbrido]
 <!-- OUTUBRO:END -->
 
 ### Novembro
@@ -152,12 +153,13 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- NOVEMBRO:START -->
 
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
+- 24,25,26,27,28,29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
 
 <!-- DEZEMBRO:START -->
-
+- 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 <!-- DEZEMBRO:END -->
 
@@ -178,6 +180,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
+- TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
