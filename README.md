@@ -50,14 +50,14 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 07, 11, 12, 14, 18, 19, 20, 21, 25 e 27: [Data Festival Revolução da Informação](https://lp.labdata.fia.com.br/festival-de-verao-2024#rd-section-joq3m2lv) ![online]
 - 07: [Live: Rails Girls](https://www.meetup.com/pt-BR/arquitetura-e-design-de-aplicacoes-ruby/events/299534973/) ![online]
 - 07, 08 e 09: [SecOps Summit](https://www.secopssummit.com.br/?ref=agendati.com.br) - _Porto Alegre/RS_ ![presencial]
-- 08, 15, 22, 29: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
+- 08, 15, 22 e 29: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 08: [Soft Skills de Cria | Le Wagon & Tech In Rio](https://www.meetup.com/pt-BR/le-wagon-rio-de-janeiro-coding-bootcamp/events/299356598/) - _Rio de Janeiro/RJ_ ![presencial]
 - 09: [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) - _Belo Horizonte/MG_ ![presencial]
 - 09: [Mulheres na Tecnologia](https://www.meetup.com/pt-BR/womakerscode/events/299378376/) ![online]
 - 11, 12, 13 e 14: [DevOps Fest 2024](https://conteudo.devopsbootcamp.net/devopsfest2024) ![online]
 - 11, 13 e 14: [Semana da Programação Shell Linux](https://www.youtube.com/@progshelllinux/streams) ![online]
 - 11: [Laboratório de Inteligência Artificial Generativa](https://www.meetup.com/pt-BR/confrariaweb3/events/299504598/) - _São Paulo/SP_ ![presencial]
-- 14: [Golang SP na Neon - Golang like a neon!](https://www.meetup.com/pt-BR/golangbr/events/299320970/) _São Paulo/SP_ ![presencial]
+- 14: [Golang SP na Neon - Golang like a neon!](https://www.meetup.com/pt-BR/golangbr/events/299320970/) - _São Paulo/SP_ ![presencial]
 - 14: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
 - 16: [Mapas de calor (Heatmaps) com R](https://www.meetup.com/pt-BR/rladies-sao-paulo/events/298995636/) ![online]
 - 16: [Recife Data Saturday - 2ª Edição](https://www.sympla.com.br/evento/recife-data-saturday-2-edicao/2317071?referrer=github.com) - _Recife/PE_ ![presencial]
@@ -80,7 +80,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
 - 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
 - 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
-- 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
+- 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 13: [Hacking na Web Day Brasília](https://www.sympla.com.br/evento/hnwd-brasilia/2352518?referrer=linktr.ee) - _Brasília/DF_ ![presencial]
 - 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
@@ -95,8 +95,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados -  Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
-- 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
-- 14 a 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
+- 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
+- 14, 15 e 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
 - 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
 - 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
@@ -108,7 +108,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- JUNHO:START -->
 
 - 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial]
-- 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
+- 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 <!-- JUNHO:END -->
 
@@ -116,8 +116,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- JULHO:START -->
 
-- 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) _São Paulo/SP_ ![híbrido]
-- 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
+- 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
+- 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 <!-- JULHO:END -->
 
@@ -125,7 +125,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- AGOSTO:START -->
 
-- 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
+- 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 <!-- AGOSTO:END -->
@@ -153,7 +153,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- NOVEMBRO:START -->
 
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
-- 24,25,26,27,28,29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
