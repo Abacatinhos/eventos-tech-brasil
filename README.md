@@ -66,6 +66,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 21: [Microsoft AI Tour](https://envision.microsoft.com/en-US/sao-paulo) - _São Paulo/SP_ ![presencial]
 - 21: [Observability Day: São Paulo](https://newrelic.com/pt/events/2024-03-21/observability-day-sao-paulo) - _São Paulo/SP_ ![presencial]
 - 23: [Código Carioca - 3ª Edição](https://www.meetup.com/pt-BR/codigo-carioca/events/298806257/) - _Rio de Janeiro/RJ_ ![presencial]
+- 23: [Thasfin #15 | Novatec](https://guild.host/events/thasfin-15-novatec-17csmd) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC 2024 Summit - São Paulo](https://thedevconf.com/tdc/2024/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 27, 28, 29, 30 e 31: [Campus Party Brasília 2024](https://brasil.campus-party.org/cpbsb6/) - _Brasília/DF_ ![híbrido]
 - 28: [DevOps Experience - 28 de Março de 2024](https://estabilis.zoom.us/webinar/register/7117091463013/WN_WmvhSiwkQ3-oD2KRlORVJw#/registration) - _São Paulo/SP_ ![presencial]
@@ -85,7 +86,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
 - 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
-- 27: [Bits&Bytes Unicarioca  - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
+- 27: [Bits&Bytes Unicarioca - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 27: [International Women's Day Cerrado 2024](https://www.iwdcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 <!-- ABRIL:END -->
 
@@ -94,7 +95,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- MAIO:START -->
 
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
-- 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados -  Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
+- 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 14, 15 e 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
@@ -160,6 +161,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ### Dezembro
 
 <!-- DEZEMBRO:START -->
+
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 <!-- DEZEMBRO:END -->
