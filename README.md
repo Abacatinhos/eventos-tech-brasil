@@ -86,6 +86,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
 - 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
 - 27: [Bits&Bytes Unicarioca  - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
+- 27: [International Women's Day Cerrado 2024](https://www.iwdcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 <!-- ABRIL:END -->
 
 ### Maio
