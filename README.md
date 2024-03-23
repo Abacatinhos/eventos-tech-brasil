@@ -83,6 +83,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 13: [Hacking na Web Day Brasília](https://www.sympla.com.br/evento/hnwd-brasilia/2352518?referrer=linktr.ee) - _Brasília/DF_ ![presencial]
+- 13: [GitTogether São Paulo - Abril/2024](https://docs.google.com/forms/d/e/1FAIpQLSc87PK6iL93gY0YcA8aYLs4bAhSD99jEOSatQ7BHZWutA21hA/viewform) - _São Paulo/SP_ ![presencial]
 - 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
 - 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
