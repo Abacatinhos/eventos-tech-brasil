@@ -77,6 +77,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- ABRIL:START -->
 
+- 02: [TechVerso Fadergs & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techverso-fadergs-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
 - 05, 12, 19, 26: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
 - 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
