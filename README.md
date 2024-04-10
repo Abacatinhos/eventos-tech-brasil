@@ -97,6 +97,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- MAIO:START -->
 
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
+- 04: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
@@ -158,6 +159,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
@@ -180,7 +182,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 - TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
-- TBA: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
 - TBA: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
