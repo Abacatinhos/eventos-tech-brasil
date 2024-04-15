@@ -104,10 +104,12 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 08: [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) - _São Paulo/SP_ ![presencial]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
+- 09: [AWS Cloud Experience 2024 Generative AI edition - Rio de Janeiro](https://awscloudexperiencerj2024.splashthat.com/) - _Rio de Janeiro/RJ_ ![presencial]
 - 14, 15 e 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
 - 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
 - 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
+- 22: [AWS Cloud Experience 2024 Generative AI edition - Curitiba](https://awscloudexperiencecuritiba2024.splashthat.com/) - _Curitiba/PR_ ![presencial]
 - 25: [Frontin Campinas 2024](https://www.frontincampinas.com.br/) - _Campinas/SP_ ![presencial]
 <!-- MAIO:END -->
 
@@ -154,6 +156,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 16, 17, 18, 19, 20 e 21 [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro, RJ_ ![híbrido]
+- 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
 
 ### Novembro
@@ -190,6 +193,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
+- TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
