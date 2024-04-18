@@ -110,6 +110,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
 - 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
 - 22: [AWS Cloud Experience 2024 Generative AI edition - Curitiba](https://awscloudexperiencecuritiba2024.splashthat.com/) - _Curitiba/PR_ ![presencial]
+- 25 e 26: [ElixirDays](https://www.ingresse.com/elixirdays/) - _São Paulo/SP_ ![presencial]
 - 25: [Frontin Campinas 2024](https://www.frontincampinas.com.br/) - _Campinas/SP_ ![presencial]
 <!-- MAIO:END -->
 
