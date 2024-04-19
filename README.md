@@ -77,7 +77,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- ABRIL:START -->
 
-- 02: [TechVerso Fadergs & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techverso-fadergs-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
 - 05, 12, 19, 26: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
 - 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
@@ -86,6 +85,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 13: [Hacking na Web Day Brasília](https://www.sympla.com.br/evento/hnwd-brasilia/2352518?referrer=linktr.ee) - _Brasília/DF_ ![presencial]
 - 13: [GitTogether São Paulo - Abril/2024](https://docs.google.com/forms/d/e/1FAIpQLSc87PK6iL93gY0YcA8aYLs4bAhSD99jEOSatQ7BHZWutA21hA/viewform) - _São Paulo/SP_ ![presencial]
 - 19: [Thasfin #16 | Fcamara | Elastic | Orange Juice](https://guild.host/events/thasfin-16-fcamara-elastic-0a90e4) - _Santos/SP_ ![híbrido]
+- 20: [GitTogether Fortaleza - Abril](https://www.meetup.com/githubbrasil/events/299195273/) - _Fortaleza/CE_ ![presencial]
 - 20: [DevOpsDays Aracaju 2024](https://devopsdays.org/events/2024-aracaju/welcome/) - _Aracaju/SE_ ![presencial]
 - 23 e 24: [AWS Innovate Generative AI + Data](https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM) ![online]
 - 25: [JSSP #21](https://www.meetup.com/pt-BR/javascript-sp/events/300377304/) - _São Paulo/SP_ ![presencial]
@@ -99,18 +99,14 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- MAIO:START -->
 
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
-- 04: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 08: [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) - _São Paulo/SP_ ![presencial]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
-- 09: [AWS Cloud Experience 2024 Generative AI edition - Rio de Janeiro](https://awscloudexperiencerj2024.splashthat.com/) - _Rio de Janeiro/RJ_ ![presencial]
 - 14, 15 e 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
 - 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
 - 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
-- 22: [AWS Cloud Experience 2024 Generative AI edition - Curitiba](https://awscloudexperiencecuritiba2024.splashthat.com/) - _Curitiba/PR_ ![presencial]
-- 25 e 26: [ElixirDays](https://www.ingresse.com/elixirdays/) - _São Paulo/SP_ ![presencial]
 - 25: [Frontin Campinas 2024](https://www.frontincampinas.com.br/) - _Campinas/SP_ ![presencial]
 <!-- MAIO:END -->
 
@@ -157,8 +153,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 16, 17, 18, 19, 20 e 21 [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro, RJ_ ![híbrido]
-- 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo, SP_ ![híbrido]
-- 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
 
 ### Novembro
@@ -167,7 +161,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
-- 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
@@ -190,12 +183,12 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 - TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
+- TBA: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
 - TBA: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
-- TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
