@@ -107,6 +107,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09: [AWS Cloud Experience 2024 Generative AI edition - Rio de Janeiro](https://awscloudexperiencerj2024.splashthat.com/) - _Rio de Janeiro/RJ_ ![presencial]
+- 10 e 11: [CryptoRave 2024](https://2024.cryptorave.org/) - _São Paulo/SP_ ![presencial]
 - 15 e 16: [Cloud Summit Cerrado](https://www.cloudsummitcerrado.com.br/) - _Goiânia/GO_ ![híbrido]
 - 14, 15 e 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
 - 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
