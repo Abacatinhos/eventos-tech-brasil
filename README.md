@@ -93,6 +93,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 27: [Bits&Bytes Unicarioca - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 27: [Festival Latino-americano de Instalação de Software Livre (FLISoL)](https://flisol.info/FLISOL2024/Brasil) - _Várias cidades_ ![presencial]
 - 27: [International Women's Day Cerrado 2024](https://www.iwdcerrado.com.br/) - _Goiânia/GO_ ![presencial]
+- 27: [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
 <!-- ABRIL:END -->
 
 ### Maio
@@ -102,6 +103,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
+- 04: [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
 - 6 a 10: [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) - Curitiba/PR_ ![presencial]
 - 08: [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) - _São Paulo/SP_ ![presencial]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
