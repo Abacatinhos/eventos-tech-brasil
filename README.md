@@ -93,7 +93,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 27: [Bits&Bytes Unicarioca - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 27: [Festival Latino-americano de Instalação de Software Livre (FLISoL)](https://flisol.info/FLISOL2024/Brasil) - _Várias cidades_ ![presencial]
 - 27: [International Women's Day Cerrado 2024](https://www.iwdcerrado.com.br/) - _Goiânia/GO_ ![presencial]
-- 27: [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
+- 27: [Brasil Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
+- 29, 30, 01, 02 e 03: [XIX Simpósio Brasileiro de Sistemas Colaborativos (SBSC 2024)](https://sbsc.sbc.org.br/2024/) - _Salvador/BA_ ![presencial]
 <!-- ABRIL:END -->
 
 ### Maio
@@ -112,9 +113,12 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 10 e 11: [CryptoRave 2024](https://2024.cryptorave.org/) - _São Paulo/SP_ ![presencial]
 - 15 e 16: [Cloud Summit Cerrado](https://www.cloudsummitcerrado.com.br/) - _Goiânia/GO_ ![híbrido]
 - 14, 15 e 16: [devTEC 2024](https://devtec.com.br/) - _Tubarão/SC_ ![presencial]
+- 16, 17 e 18: [XV Escola Regional de Alto Desempenho de São Paulo (ERAD-SP 2024)](https://erad-sp.github.io/) - _Rio Claro/SP_ ![presencial]
 - 18: [DevOpsDays São Paulo 2024](https://devopsdays.org/events/2024-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 18: [BSides - Vitória](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
 - 20: [You Sh0t the Sheriff 16 - YSTS 16 2024](https://www.ysts.org/) - _São Paulo/SP_ ![presencial]
+- 20, 21, 22 e 23: [XX Simpósio Brasileiro de Sistemas de Informação (SBSI 2024)](https://sbsi2024.ufjf.br/) - _Juiz de Fora/MG_ ![presencial]
+- 20, 21, 22, 23 e 24: [XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2024)](https://sbrc.sbc.org.br/2024/) - _Niterói/RJ_ ![presencial]
 - 22: [AWS Cloud Experience 2024 Generative AI edition - Curitiba](https://awscloudexperiencecuritiba2024.splashthat.com/) - _Curitiba/PR_ ![presencial]
 - 25 e 26: [ElixirDays](https://www.ingresse.com/elixirdays/) - _São Paulo/SP_ ![presencial]
 - 25: [Frontin Campinas 2024](https://www.frontincampinas.com.br/) - _Campinas/SP_ ![presencial]
@@ -124,9 +128,12 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- JUNHO:START -->
 
+- 05, 06 e 07: [XXXVI Congresso de Iniciação Científica do Inatel (INCITEL)](https://inatel.br/incitel/) - _Santa Rita do Sapucaí/MG_ ![presencial]
+- 07 e 08: [XI Maratona Mineira de Programação (MMP 2024)](https://mineira.sbc.org.br/) - _Monte Carmelo/MG_ ![presencial]
 - 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial]
 - 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
+- 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
 <!-- JUNHO:END -->
 
 ### Julho
@@ -137,6 +144,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 11: [App Growth Summit São Paulo 2024](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024) - _São Paulo/SP_ ![presencial]
+- 21, 22, 23, 24 e 25: [XLIV Congresso da Sociedade Brasileira de Computação (CSBC 2024)](https://csbc.sbc.org.br/2024/) - _Brasília/DF_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 <!-- JULHO:END -->
 
@@ -153,13 +161,19 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- SETEMBRO:START -->
 
+- 02, 03, 04, 05 e 06: [Chip on the Cliffs: 37th Symposium on Integrated Circuits and Systems Design (SBCCI 2024)](https://chiponthecliffs2024.cear.ufpb.br/) - _João Pessoa/PB_ ![presencial]
 - 04, 05, 06, 07 e 08: [Campus Party Nordeste 2024](https://brasil.campus-party.org/cpnordeste/ingressos/) - _Recife/PE_ ![presencial]
 - 06 e 07: [Codecon Summit 2024](https://eventos.codecon.dev/codecon-summit-24/) - _Joinville/SC_ ![presencial]
+- 11, 12 e 13: [XII Escola Regional de Computação do Ceará, Maranhão e Piauí (ERCEMAPI 2024)](https://ercemapi2024.enucompi.com.br/) - _Parnaíba/PI_ ![presencial]
 - 13, 14 e 15: [Python Sul - 2024](https://sul.python.org.br/) - _Florianópolis/SC_ ![presencial]
+- 16, 17, 18 e 19: [XXIV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG 2024)](https://sbseg2024.ita.br/) - _São José dos Campos/SP_ ![presencial]
 - 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
 - 21: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
+- 30, 01, 02 e 03: [XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)](https://sibgrapi.sbc.org.br/) - _Manaus/AM_ ![presencial]
+- 30, 01, 02 e 03: [XXVI Symposium on Virtual and Augmented Reality (SVR 2024)](https://svr2024.uea.edu.br/) - _Manaus/AM_ ![presencial]
+- 30, 01, 02, 03 e 04: [XV Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2024)](https://cbsoft.sbc.org.br/2024/cbsoft/) - _Curitiba/PR_ ![presencial]
 <!-- SETEMBRO:END -->
 
 ### Outubro
@@ -168,7 +182,9 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
+- 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
 - 16, 17, 18, 19, 20 e 21 [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro, RJ_ ![híbrido]
+- 17, 18 e 19: [IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024](https://eries.sbc.org.br/) - _Vitória/ES_ ![presencial]
 - 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo, SP_ ![híbrido]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
@@ -179,10 +195,15 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- NOVEMBRO:START -->
 
+- 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
+- 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
+- 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
+- 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 <!-- NOVEMBRO:END -->
 
@@ -212,6 +233,9 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
+- TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
+- TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
+- TBA: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/686/xxxiv-brazilian-conference-on-intelligent-systems-bracis-2024) - _Belém/PA_ ![presencial]
 <!--TBA:END-->
 
 ## Eventos dos anos anteriores
