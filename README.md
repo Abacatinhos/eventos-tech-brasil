@@ -102,9 +102,11 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- MAIO:START -->
 
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
+- 03: [GDG Build With AI - Jaraguá do Sul]([https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-joinville/](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-jaragua-do-sul/) - _Jaraguá do Sul/SC_ ![presencial]
 - 04: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 04: [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
+- 04: [GDG Build With AI - Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-joinville/) - _Joinville/SC_ ![presencial]
 - 6 a 10: [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) - Curitiba/PR_ ![presencial]
 - 08: [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) - _São Paulo/SP_ ![presencial]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
@@ -142,6 +144,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- JULHO:START -->
 
 - 05 e 06: [DevOpsDays Juiz de Fora 2024](https://devopsdays.org/events/2024-juiz-de-fora/welcome/) - _Juiz de Fora/MG_ ![presencial]
+- 06: [Google i/O Extended  - GDG Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/) - _Joinville/SC_ ![presencial]
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 11: [App Growth Summit São Paulo 2024](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024) - _São Paulo/SP_ ![presencial]
