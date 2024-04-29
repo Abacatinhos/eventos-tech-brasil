@@ -131,6 +131,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 05, 06 e 07: [XXXVI Congresso de Iniciação Científica do Inatel (INCITEL)](https://inatel.br/incitel/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 07 e 08: [XI Maratona Mineira de Programação (MMP 2024)](https://mineira.sbc.org.br/) - _Monte Carmelo/MG_ ![presencial]
 - 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial]
+- 15: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
 - 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
@@ -155,6 +156,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
+- 30, 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 <!-- AGOSTO:END -->
 
 ### Setembro
@@ -170,6 +172,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
 - 21: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
+- 21: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)](https://sibgrapi.sbc.org.br/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXVI Symposium on Virtual and Augmented Reality (SVR 2024)](https://svr2024.uea.edu.br/) - _Manaus/AM_ ![presencial]
@@ -227,8 +230,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 - TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
-- TBA: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
-- TBA: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
