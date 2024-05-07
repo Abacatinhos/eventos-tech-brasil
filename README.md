@@ -110,7 +110,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 04: [GDG Build With AI - Edição em Sorocaba](https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-build-with-ai-edicao-em-sorocaba/) - _Sorocaba/SP_ ![presencial]
 - 04: [GDG Build with AI Caraguatatuba](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-build-with-ai-caraguatatuba/) - _Caraguatatuba/SP_ ![presencial]
 - 04: [GDG Build with AI - GDG Vassouras & GDG Três Rios](https://gdg.community.dev/events/details/google-gdg-vassouras-presents-build-with-ai-gdg-vassouras-amp-gdg-tres-rios/) - _Vassouras/RJ_ ![presencial]
-- 6 a 10: [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) - Curitiba/PR_ ![presencial]
+- 6 a 10: [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) - Curitiba/PR\_ ![presencial]
+- 08: [Hack in Sul: Ajude as Vítimas das Chuvas no Sul do Brasil!](https://www.sympla.com.br/evento-online/hack-in-sul-ajude-as-vitimas-das-chuvas-no-sul-do-brasil/2454858) ![online]
 - 08: [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) - _São Paulo/SP_ ![presencial]
 - 07: [GDG SANTOS - Study Group & Networking](https://gdg.community.dev/events/details/google-gdg-santos-presents-study-group-amp-networking-2024-05-07/) ![online]
 - 09 e 10: [GopherCon Brasil 2024](https://gopherconbr.org/) - _Florianópolis/SC_ ![presencial]
@@ -152,7 +153,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- JULHO:START -->
 
 - 05 e 06: [DevOpsDays Juiz de Fora 2024](https://devopsdays.org/events/2024-juiz-de-fora/welcome/) - _Juiz de Fora/MG_ ![presencial]
-- 06: [Google i/O Extended  - GDG Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/) - _Joinville/SC_ ![presencial]
+- 06: [Google i/O Extended - GDG Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/) - _Joinville/SC_ ![presencial]
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 11: [App Growth Summit São Paulo 2024](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024) - _São Paulo/SP_ ![presencial]
@@ -163,6 +164,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ### Agosto
 
 <!-- AGOSTO:START -->
+
 - 01, 02, 03 e 04 : [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
