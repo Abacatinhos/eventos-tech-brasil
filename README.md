@@ -102,7 +102,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- MAIO:START -->
 
 - 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
-- 03: [GDG Build With AI - Jaraguá do Sul]([https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-joinville/](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-jaragua-do-sul/) - _Jaraguá do Sul/SC_ ![presencial]
+- 03: [GDG Build With AI - Jaraguá do Sul](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-jaragua-do-sul/) - _Jaraguá do Sul/SC_ ![presencial]
 - 04: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
 - 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
 - 04: [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
@@ -212,6 +212,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
+- 08 e 09: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ ![presencial]
 - 09: [Codecon Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
