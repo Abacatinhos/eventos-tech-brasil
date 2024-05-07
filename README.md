@@ -209,6 +209,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- NOVEMBRO:START -->
 
+- 02 e 03: [GambiConf 2024](https://gambiconf.dev/) - _São Paulo/SP_ ![presencial]
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
