@@ -1,14 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 
-const readmePath = path.join(__dirname, 'README.md');
+const readmePath = path.join(__dirname, '../../README.md');
 const fileContent = fs.readFileSync(readmePath, 'utf8');
 
 const patterns = [
     { regex: /^- ((\d{2}|\d{2}(, \d{2})+ e \d{2}|(\d{2} e \d{2}))): \[.+\]\(.+\) - _[a-zA-Z].+\/[A-Z]{2}_ !\[(presencial|híbrido)\]$/, description: "Presencial/Híbrido Events" },
     { regex: /^- ((\d{2}|\d{2}(, \d{2})+ e \d{2}|(\d{2} e \d{2}))): \[.+\]\(.+\) !\[online\]$/, description: "Online Events" },
     { regex: /^- TBA: \[.+\]\(.+\) - _[a-zA-Z].+\/[A-Z]{2}_ !\[(presencial|híbrido)\]$/, description: "To Be Announcement (Presencial/Híbrido)"},
-    { regex: /^- TBA: \[.+\]\(.+\) !\[online\]$/, description: "To Be Announcement (Presencial/Híbrido Events)"},
+    { regex: /^- TBA: \[.+\]\(.+\) !\[online\]$/, description: "To Be Announcement (Online Events)"},
 ];
 
 const months = [
