@@ -31,11 +31,11 @@ jobs:
           name: remark-lint-report
           path: public/
   
-  custom_md_lint:
+  custom-md-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: action/checkout@v4
-      - uses: action/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '14'
       
