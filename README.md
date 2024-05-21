@@ -58,7 +58,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 11, 13 e 14: [Semana da Programação Shell Linux](https://www.youtube.com/@progshelllinux/streams) ![online]
 - 11: [Laboratório de Inteligência Artificial Generativa](https://www.meetup.com/pt-BR/confrariaweb3/events/299504598/) - _São Paulo/SP_ ![presencial]
 - 14: [Golang SP na Neon - Golang like a neon!](https://www.meetup.com/pt-BR/golangbr/events/299320970/) - _São Paulo/SP_ ![presencial]
-- 14: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) _São Paulo/SP_ ![presencial]
+- 14: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 16: [Mapas de calor (Heatmaps) com R](https://www.meetup.com/pt-BR/rladies-sao-paulo/events/298995636/) ![online]
 - 16: [Recife Data Saturday - 2ª Edição](https://www.sympla.com.br/evento/recife-data-saturday-2-edicao/2317071?referrer=github.com) - _Recife/PE_ ![presencial]
 - 16: [FortalSec 2024](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
@@ -78,7 +78,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- ABRIL:START -->
 
 - 02: [TechVerso Fadergs & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techverso-fadergs-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
-- 05, 12, 19, 26: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
+- 05, 12, 19 e 26: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04 e 05: [The Latin America Rails Conference](https://www.tropicalrb.com/) - _São Paulo/SP_ ![presencial]
 - 06: [Caravana Cloud and Data 2024](https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/) - _Recife/PE_ ![presencial]
 - 06: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania/welcome/) - _Goiânia/GO_ ![presencial]
@@ -91,9 +91,9 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 25: [JSSP #21](https://www.meetup.com/pt-BR/javascript-sp/events/300377304/) - _São Paulo/SP_ ![presencial]
 - 25 e 26: [Brazil JS Conf 2024](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
 - 27: [Bits&Bytes Unicarioca - Conceitos Básicos de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
-- 27: [Festival Latino-americano de Instalação de Software Livre (FLISoL)](https://flisol.info/FLISOL2024/Brasil) - _Várias cidades_ ![presencial]
+- 27: [Festival Latino-americano de Instalação de Software Livre (FLISoL)](https://flisol.info/FLISOL2024/Brasil) - _Várias cidades/BR_ ![presencial]
 - 27: [International Women's Day Cerrado 2024](https://www.iwdcerrado.com.br/) - _Goiânia/GO_ ![presencial]
-- 27: [Brasil Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
+- 27: [Brasil Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) ![online]
 - 29, 30, 01, 02 e 03: [XIX Simpósio Brasileiro de Sistemas Colaborativos (SBSC 2024)](https://sbsc.sbc.org.br/2024/) - _Salvador/BA_ ![presencial]
 <!-- ABRIL:END -->
 
@@ -101,16 +101,16 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- MAIO:START -->
 
-- 03, 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 03: [GDG Build With AI - Jaraguá do Sul](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-jaragua-do-sul/) - _Jaraguá do Sul/SC_ ![presencial]
+- 03 e 10: [Algorithms & Data Structures - From Zero to Hero](https://www.meetup.com/pt-BR/craft-code-club/events/299324770/) ![online]
 - 04: [Hacking na Web Day Salvador](https://www.instagram.com/hackingnawebday/) - _Salvador/BA_ ![presencial]
-- 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
-- 04: [Brasil] Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) - ![online]
+- 04: [Brasil - Imersão IA em Java!](https://info.professorisidro.com.br/zl268boqn37b6/) ![online]
 - 04: [GDG Build With AI - Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-joinville/) - _Joinville/SC_ ![presencial]
 - 04: [GDG Build With AI - Edição em Sorocaba](https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-build-with-ai-edicao-em-sorocaba/) - _Sorocaba/SP_ ![presencial]
 - 04: [GDG Build with AI Caraguatatuba](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-build-with-ai-caraguatatuba/) - _Caraguatatuba/SP_ ![presencial]
 - 04: [GDG Build with AI - GDG Vassouras & GDG Três Rios](https://gdg.community.dev/events/details/google-gdg-vassouras-presents-build-with-ai-gdg-vassouras-amp-gdg-tres-rios/) - _Vassouras/RJ_ ![presencial]
-- 6 a 10: [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) - Curitiba/PR\_ ![presencial]
+- 04, 11 e 18: [Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação](https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267) ![online]
+- 06, 07, 08, 09 e 10: [XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)](https://conf.researchr.org/home/cibse-2024) - _Curitiba/PR_ ![presencial]
 - 08: [Hack in Sul: Ajude as Vítimas das Chuvas no Sul do Brasil!](https://www.sympla.com.br/evento-online/hack-in-sul-ajude-as-vitimas-das-chuvas-no-sul-do-brasil/2454858) ![online]
 - 08: [Devs Que Criaram Startups 🚀 - NodeBR](https://guild.host/events/devs-que-criaram-startups-yam0rp) - _São Paulo/SP_ ![presencial]
 - 07: [GDG SANTOS - Study Group & Networking](https://gdg.community.dev/events/details/google-gdg-santos-presents-study-group-amp-networking-2024-05-07/) ![online]
@@ -143,7 +143,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 07 e 08: [XI Maratona Mineira de Programação (MMP 2024)](https://mineira.sbc.org.br/) - _Monte Carmelo/MG_ ![presencial]
 - 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial]
 - 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
-- 15: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
+- 15: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro/RJ_ ![presencial]
 - 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
 <!-- JUNHO:END -->
@@ -165,11 +165,11 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 <!-- AGOSTO:START -->
 
-- 01, 02, 03 e 04 : [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
+- 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
-- 30, 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
+- 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 <!-- AGOSTO:END -->
 
 ### Setembro
@@ -200,10 +200,10 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
-- 16, 17, 18, 19, 20 e 21 [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro, RJ_ ![híbrido]
+- 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 17, 18 e 19: [IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024](https://eries.sbc.org.br/) - _Vitória/ES_ ![presencial]
 - 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
-- 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo, SP_ ![híbrido]
+- 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
@@ -239,23 +239,23 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ## TBA: To Be Announced
 
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
-<!--TBA:START-->
+<!-- TBA:START -->
 
 - TBA: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/)
+- TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![presencial]
 - TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
-- TBA: [XibéSec 2024 Belém]() - _Belém/PA_ ![presencial]
+- TBA: [XibéSec 2024 Belém](.) - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
 - TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
 - TBA: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/686/xxxiv-brazilian-conference-on-intelligent-systems-bracis-2024) - _Belém/PA_ ![presencial]
-<!--TBA:END-->
+<!-- TBA:END -->
 
 ## Eventos dos anos anteriores
 
