@@ -142,9 +142,9 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 05, 06 e 07: [XXXVI Congresso de Iniciação Científica do Inatel (INCITEL)](https://inatel.br/incitel/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 07 e 08: [XI Maratona Mineira de Programação (MMP 2024)](https://mineira.sbc.org.br/) - _Monte Carmelo/MG_ ![presencial]
 - 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial]
+- 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 15: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro_ ![presencial]
 - 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
-- 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
 <!-- JUNHO:END -->
 
@@ -168,7 +168,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 01, 02, 03 e 04 : [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
-- 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
+- 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 30, 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 <!-- AGOSTO:END -->
 
@@ -181,10 +181,11 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 06 e 07: [Codecon Summit 2024](https://eventos.codecon.dev/codecon-summit-24/) - _Joinville/SC_ ![presencial]
 - 11, 12 e 13: [XII Escola Regional de Computação do Ceará, Maranhão e Piauí (ERCEMAPI 2024)](https://ercemapi2024.enucompi.com.br/) - _Parnaíba/PI_ ![presencial]
 - 13, 14 e 15: [Python Sul - 2024](https://sul.python.org.br/) - _Florianópolis/SC_ ![presencial]
+- 14: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
 - 16, 17, 18 e 19: [XXIV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG 2024)](https://sbseg2024.ita.br/) - _São José dos Campos/SP_ ![presencial]
 - 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
-- 21: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
+- 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
 - 21: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)](https://sibgrapi.sbc.org.br/) - _Manaus/AM_ ![presencial]
@@ -216,6 +217,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
 - 08 e 09: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ ![presencial]
+- 09: [DevOpsDays João Pessoa](https://devopsdays.org/events/2024-joao-pessoa/welcome/) - _João Pessoa/PB_ ![presencial]
 - 09: [Codecon Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
