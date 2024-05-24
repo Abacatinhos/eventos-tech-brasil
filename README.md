@@ -154,7 +154,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 05 e 06: [DevOpsDays Juiz de Fora 2024](https://devopsdays.org/events/2024-juiz-de-fora/welcome/) - _Juiz de Fora/MG_ ![presencial]
 - 06: [Google i/O Extended - GDG Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/) - _Joinville/SC_ ![presencial]
-- 08: [25° Conferência Internacional sobre Inteligência Artifical na Educação (AIED 2024 | July 8-12)](https://iaied.org/conferences) - _Recife/PE_ ![Híbrido]
+- 08, 09, 10, 11 e 12: [25° Conferência Internacional sobre Inteligência Artifical na Educação (AIED 2024 | July 8-12)](https://iaied.org/conferences) - _Recife/PE_ ![híbrido]
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 11: [App Growth Summit São Paulo 2024](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024) - _São Paulo/SP_ ![presencial]
