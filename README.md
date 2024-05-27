@@ -239,6 +239,16 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 <!-- DEZEMBRO:END -->
 
+## Eventos 2025
+
+<!-- MAIO_2025:START -->
+
+### Maio
+
+- 05 e 16: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
+
+<!-- MAIO_2025:END -->
+
 ## TBA: To Be Announced
 
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
