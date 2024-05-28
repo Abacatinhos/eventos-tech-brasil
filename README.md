@@ -186,6 +186,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 11, 12 e 13: [XII Escola Regional de Computação do Ceará, Maranhão e Piauí (ERCEMAPI 2024)](https://ercemapi2024.enucompi.com.br/) - _Parnaíba/PI_ ![presencial]
 - 13, 14 e 15: [Python Sul - 2024](https://sul.python.org.br/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
+- 14: [BSidesJP 2024](https://www.bsidesjp.com.br/) - _João Pessoa/PB_ ![presencial]
 - 16, 17, 18 e 19: [XXIV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG 2024)](https://sbseg2024.ita.br/) - _São José dos Campos/SP_ ![presencial]
 - 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
