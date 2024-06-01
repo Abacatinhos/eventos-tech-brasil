@@ -156,6 +156,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 05 e 06: [DevOpsDays Juiz de Fora 2024](https://devopsdays.org/events/2024-juiz-de-fora/welcome/) - _Juiz de Fora/MG_ ![presencial]
 - 06: [Google i/O Extended - GDG Joinville](https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/) - _Joinville/SC_ ![presencial]
+- 06: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
 - 06, 07, 13 e 14: [CodeHERs - Desvendando a Engenharia Reversa](http://menina-de-cybersec.anom.sh/WMNrevEng) ![online]
 - 08, 09, 10, 11 e 12: [25° Conferência Internacional sobre Inteligência Artifical na Educação (AIED 2024 | July 8-12)](https://iaied.org/conferences) - _Recife/PE_ ![híbrido]
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
@@ -267,7 +268,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
 - TBA: [XibéSec 2024 Belém](.) - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
-- TBA: [PyCaxias](https://pycaxias.com.br/) - _Caxias do Sul/RS_ ![presencial]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
 - TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
