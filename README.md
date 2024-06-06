@@ -140,8 +140,10 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- JUNHO:START -->
 
 - 05, 06 e 07: [XXXVI Congresso de Iniciação Científica do Inatel (INCITEL)](https://inatel.br/incitel/) - _Santa Rita do Sapucaí/MG_ ![presencial]
+- 07: [Kubernetes Birthday Brazil - 10 anos](https://www.youtube.com/live/U7pNEmsjT40) ![online]
 - 07 e 08: [XI Maratona Mineira de Programação (MMP 2024)](https://mineira.sbc.org.br/) - _Monte Carmelo/MG_ ![presencial]
 - 08: [The Developer's Life Weekend - 2024](https://weekend.developerslife.tech/inscricao) - _Maringá/PR_ ![presencial] 
+- 09: [Cisco ACLs na prática](https://www.even3.com.br/aula-publica-abredes-acl-uma-abordagem-pratica-466174?even3_orig=events_eventlist) ![online]
 - 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 15: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro/RJ_ ![presencial]
 - 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
@@ -174,6 +176,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
+- 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 24: [BxSec 2024](https://bxsec.org/2024) - _Santos/SP_ ![presencial]
 - 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
