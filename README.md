@@ -147,6 +147,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 12, 13 e 14: [TDC Florianópolis](https://thedevconf.com/tdc/2024/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 15: [Hacking na Web Day Rio de Janeiro](https://www.instagram.com/hackingnawebday/) - _Rio de Janeiro/RJ_ ![presencial]
 - 19: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
+- 22: [Feministalk Presencial - Pessoas LGBTQIAP+ e o mercado de tecnologia](https://www.sympla.com.br/evento/feministalk-presencial-pessoas-lgbtqiap-e-o-mercado-de-tecnologia/2484970) - _São Paulo/SP_ ![presencial]
 - 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
 - 25, 26 e 27: [Febraban Tech 2024](https://febrabantech.febraban.org.br/evento/febrabantech2024/home) - _São Paulo/SP_ ![presencial]
 - 29: [Tech Day Conference](https://www.techdayconference.com.br/) - _Potirendaba/SP_ ![presencial]
