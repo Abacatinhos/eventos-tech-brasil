@@ -165,6 +165,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 11: [App Growth Summit São Paulo 2024](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024) - _São Paulo/SP_ ![presencial]
+- 19: [RPA e AI CONGRESS BELO HORIZONTE 2024](https://iimainfo.com.br/roadshow-rpa-ai-2024-belo-horizonte-mg/) - _Belo Horizonte/MG_ ![presencial]
 - 21, 22, 23, 24 e 25: [XLIV Congresso da Sociedade Brasileira de Computação (CSBC 2024)](https://csbc.sbc.org.br/2024/) - _Brasília/DF_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 <!-- JULHO:END -->
@@ -176,6 +177,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
+- 20 e 21: [RPA e AI CONGRESS RJ 2024](https://iimainfo.com.br/rpa-ai-congress-2024-rj/) - _Rio de Janeiro/RJ_ ![presencial]
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
 - 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
