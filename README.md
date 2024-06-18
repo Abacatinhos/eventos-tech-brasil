@@ -239,6 +239,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
+- 17, 18, 19, 20 e 21: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
@@ -279,7 +280,6 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
 - TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
-- TBA: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/686/xxxiv-brazilian-conference-on-intelligent-systems-bracis-2024) - _Belém/PA_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
