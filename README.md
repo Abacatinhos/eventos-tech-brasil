@@ -152,6 +152,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
 - 25, 26 e 27: [Febraban Tech 2024](https://febrabantech.febraban.org.br/evento/febrabantech2024/home) - _São Paulo/SP_ ![presencial]
 - 26: [Meetup Select SP](https://eventos.codecon.dev/meetup-select-sp-01/) - _São Paulo/SP_ ![presencial]
+- 27: [Pyladies SP - Desvendando automações RPA com o poder do Python](https://www.sympla.com.br/evento-online/desvendando-automacoes-rpa-com-o-poder-do-python/2506759) ![online]
+- 28: [GitTogether - Junho/São Paulo](https://www.meetup.com/gittogether-brasil/events/301459494/) - _São Paulo/SP_ ![presencial]
 - 29: [Tech Day Conference](https://www.techdayconference.com.br/) - _Potirendaba/SP_ ![presencial]
 <!-- JUNHO:END -->
 
@@ -167,6 +169,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09, 10, 11, 12, 13 e 14: [Campus Party Brasil - CPBR16 - São Paulo](https://brasil.campus-party.org/cpbr16/) - _São Paulo/SP_ ![híbrido]
 - 11: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 11: [App Growth Summit São Paulo 2024](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024) - _São Paulo/SP_ ![presencial]
+- 18: [Meetup Automação RPA - BotCity](https://automation.botcity.dev/meetup-sp-18-07-24) - _São Paulo/SP_ ![presencial]
 - 19: [RPA e AI CONGRESS BELO HORIZONTE 2024](https://iimainfo.com.br/roadshow-rpa-ai-2024-belo-horizonte-mg/) - _Belo Horizonte/MG_ ![presencial]
 - 21, 22, 23, 24 e 25: [XLIV Congresso da Sociedade Brasileira de Computação (CSBC 2024)](https://csbc.sbc.org.br/2024/) - _Brasília/DF_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
