@@ -152,7 +152,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 25, 26, 27 e 28: [XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)](https://www.sbcas2024.inf.ufg.br/) - _Goiânia/GO_ ![presencial]
 - 25, 26 e 27: [Febraban Tech 2024](https://febrabantech.febraban.org.br/evento/febrabantech2024/home) - _São Paulo/SP_ ![presencial]
 - 26: [Meetup Select SP](https://eventos.codecon.dev/meetup-select-sp-01/) - _São Paulo/SP_ ![presencial]
-- 27: [Pyladies SP - Desvendando automações RPA com o poder do Python](https://www.sympla.com.br/evento-online/desvendando-automacoes-rpa-com-o-poder-do-python/2506759) - _Online_ ![online]
+- 27: [Pyladies SP - Desvendando automações RPA com o poder do Python](https://www.sympla.com.br/evento-online/desvendando-automacoes-rpa-com-o-poder-do-python/2506759) ![online]
 - 28: [GitTogether - Junho/São Paulo](https://www.meetup.com/gittogether-brasil/events/301459494/) - _São Paulo/SP_ ![presencial]
 - 29: [Tech Day Conference](https://www.techdayconference.com.br/) - _Potirendaba/SP_ ![presencial]
 <!-- JUNHO:END -->
