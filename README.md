@@ -183,6 +183,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
+- 15: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 20 e 21: [RPA e AI CONGRESS RJ 2024](https://iimainfo.com.br/rpa-ai-congress-2024-rj/) - _Rio de Janeiro/RJ_ ![presencial]
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
 - 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
