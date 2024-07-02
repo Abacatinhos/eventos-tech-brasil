@@ -173,6 +173,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 19: [RPA e AI CONGRESS BELO HORIZONTE 2024](https://iimainfo.com.br/roadshow-rpa-ai-2024-belo-horizonte-mg/) - _Belo Horizonte/MG_ ![presencial]
 - 20: [Caipira Ágil 2024](https://caipiraagil.com/) - _Piracicaba/SP_ ![presencial]
 - 21, 22, 23, 24 e 25: [XLIV Congresso da Sociedade Brasileira de Computação (CSBC 2024)](https://csbc.sbc.org.br/2024/) - _Brasília/DF_ ![presencial]
+- 24: [Julho das Pretas 2024 - Afroya Tech Hub](https://www.sympla.com.br/evento/julho-das-pretas-afroya-liderancas-negras-em-tecnologia-e-inovacao/2500505) - _São Paulo/SP_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 <!-- JULHO:END -->
 
