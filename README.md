@@ -209,6 +209,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
 - 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
 - 21: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
+- 27 e 28: [Python Norte 2024](https://2024.pythonnorte.org/) - _Itacoatiara/AM_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)](https://sibgrapi.sbc.org.br/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXVI Symposium on Virtual and Augmented Reality (SVR 2024)](https://svr2024.uea.edu.br/) - _Manaus/AM_ ![presencial]
