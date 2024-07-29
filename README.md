@@ -175,6 +175,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 21, 22, 23, 24 e 25: [XLIV Congresso da Sociedade Brasileira de Computação (CSBC 2024)](https://csbc.sbc.org.br/2024/) - _Brasília/DF_ ![presencial]
 - 24: [Julho das Pretas 2024 - Afroya Tech Hub](https://www.sympla.com.br/evento/julho-das-pretas-afroya-liderancas-negras-em-tecnologia-e-inovacao/2500505) - _São Paulo/SP_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
+- 27: [Guia Anonima Conference](https://conference.guiaanonima.com) ![online]
 <!-- JULHO:END -->
 
 ### Agosto
@@ -182,6 +183,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 <!-- AGOSTO:START -->
 
 - 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
+- 06: [Esquenta TDC São Paulo - Observabilidade no frontend com Grafana Faro](https://observabilidadecomgrafanafaro.eventize.com.br) - _Porto Alegre/RS_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 15: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![híbrido]
@@ -280,9 +282,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![presencial]
 - TBA: [RoadSec 2024](https://www.roadsec.com.br) - _São Paulo/SP_ ![presencial]
-- TBA: [Guia Anônima Conference](https://guiaanonima.com/) ![online]
 - TBA: [XibéSec 2024 Belém](.) - _Belém/PA_ ![presencial]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
