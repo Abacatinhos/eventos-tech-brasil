@@ -170,6 +170,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 30, 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
+- 31: [Java Day Rio Preto - Comunidade Java Noroeste](https://javanoroeste.com.br/javanoroeste/javaday_riopreto/) - _São José do Rio Preto/SP_ ![presencial]
 <!-- AGOSTO:END -->
 
 ### Setembro
