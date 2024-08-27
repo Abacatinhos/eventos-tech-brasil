@@ -187,6 +187,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 15: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![híbrido]
+- 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 20 e 21: [RPA e AI CONGRESS RJ 2024](https://iimainfo.com.br/rpa-ai-congress-2024-rj/) - _Rio de Janeiro/RJ_ ![presencial]
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
 - 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
@@ -194,6 +195,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 24: [BxSec 2024](https://bxsec.org/2024) - _Santos/SP_ ![presencial]
 - 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 31: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
+- 31: [Java Day Rio Preto - Comunidade Java Noroeste](https://javanoroeste.com.br/javanoroeste/javaday_riopreto/) - _São José do Rio Preto/SP_ ![presencial]
+
 <!-- AGOSTO:END -->
 
 ### Setembro
