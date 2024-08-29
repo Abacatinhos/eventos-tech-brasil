@@ -184,6 +184,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 06: [Esquenta TDC São Paulo - Observabilidade no frontend com Grafana Faro](https://observabilidadecomgrafanafaro.eventize.com.br) - _Porto Alegre/RS_ ![presencial]
+- 08: [TechWeek Senac Tech & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techweek-senac-tech-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 15: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![híbrido]
