@@ -192,6 +192,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
 - 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
+- 24: [HackBahia 2024](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
 - 24: [BxSec 2024](https://bxsec.org/2024) - _Santos/SP_ ![presencial]
 - 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 31: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
