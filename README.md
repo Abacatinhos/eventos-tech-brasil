@@ -237,6 +237,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
+- 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 <!-- OUTUBRO:END -->
 
 ### Novembro
@@ -247,10 +248,12 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
+- 07 e 08: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 - 08 e 09: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ ![presencial]
 - 09: [DevOpsDays João Pessoa](https://devopsdays.org/events/2024-joao-pessoa/welcome/) - _João Pessoa/PB_ ![presencial]
 - 09: [Codecon Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
+- 09: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) - _São Paulo/SP_ ![híbrido]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
