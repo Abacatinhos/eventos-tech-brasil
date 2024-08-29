@@ -270,6 +270,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
+- 27, 28 e 29: [Latinoware 2024](https://latinoware.org/) - _Foz do Iguaçu/PR_ ![híbrido] 
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 <!-- NOVEMBRO:END -->
 
