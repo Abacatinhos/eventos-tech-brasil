@@ -226,7 +226,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ### Outubro
 
 <!-- OUTUBRO:START -->
-- 05 [Recruta Tech](https://recrutatech.com.br/) -_Curitiba/Pr_ _![presencial]
+
+- 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
