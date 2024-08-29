@@ -249,6 +249,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
 - 07 e 08: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
+- 07 e 08: [PGConf.Brasil](https://2024.pgconf.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 08 e 09: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ ![presencial]
 - 09: [DevOpsDays João Pessoa](https://devopsdays.org/events/2024-joao-pessoa/welcome/) - _João Pessoa/PB_ ![presencial]
 - 09: [Codecon Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
