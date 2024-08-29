@@ -184,6 +184,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 
 - 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 06: [Esquenta TDC São Paulo - Observabilidade no frontend com Grafana Faro](https://observabilidadecomgrafanafaro.eventize.com.br) - _Porto Alegre/RS_ ![presencial]
+- 08: [TechWeek Senac Tech & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techweek-senac-tech-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
 - 09: [PHPSP Pub](https://www.meetup.com/pt-BR/php-sp/events/298950822/) - _São Paulo/SP_ ![presencial]
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 15: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![híbrido]
@@ -192,6 +193,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
 - 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
+- 24: [HackBahia 2024](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
 - 24: [BxSec 2024](https://bxsec.org/2024) - _Santos/SP_ ![presencial]
 - 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 31: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
@@ -215,6 +217,9 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
 - 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
 - 21: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
+- 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - USP](https://www.instagram.com/semanadaibm/) - _São Paulo/SP_ ![híbrido]
+- 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFPR](https://www.instagram.com/semanadaibm/) - _Curitiba/PR_ ![híbrido]
+- 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFCSPA](https://www.instagram.com/semanadaibm/) - _Porto Alegre/RS_ ![híbrido]
 - 25: [DevConverge LATAM](https://www.linkedin.com/company/java-dev-converge-latam/) - _São Paulo/SP_ ![presencial]
 - 27 e 28: [Python Norte 2024](https://2024.pythonnorte.org/) - _Itacoatiara/AM_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
@@ -226,7 +231,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 ### Outubro
 
 <!-- OUTUBRO:START -->
-- 05 [Recruta Tech](https://recrutatech.com.br/) -_Curitiba/Pr_ _![presencial]
+
+- 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
 - 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
@@ -236,6 +242,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
+- 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 <!-- OUTUBRO:END -->
 
 ### Novembro
@@ -246,10 +253,13 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
+- 07 e 08: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
+- 07 e 08: [PGConf.Brasil](https://2024.pgconf.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 08 e 09: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ ![presencial]
 - 09: [DevOpsDays João Pessoa](https://devopsdays.org/events/2024-joao-pessoa/welcome/) - _João Pessoa/PB_ ![presencial]
 - 09: [Codecon Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
+- 09: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) - _São Paulo/SP_ ![híbrido]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
