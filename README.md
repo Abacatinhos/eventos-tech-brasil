@@ -210,6 +210,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 02, 03, 04, 05 e 06: [Chip on the Cliffs: 37th Symposium on Integrated Circuits and Systems Design (SBCCI 2024)](https://chiponthecliffs2024.cear.ufpb.br/) - _João Pessoa/PB_ ![presencial]
 - 04, 05, 06, 07 e 08: [Campus Party Nordeste 2024](https://brasil.campus-party.org/cpnordeste/ingressos/) - _Recife/PE_ ![presencial]
 - 06 e 07: [Codecon Summit 2024](https://eventos.codecon.dev/codecon-summit-24/) - _Joinville/SC_ ![presencial]
+- 09: [Meetup SouJava + Esquenta TDC Summit Brasília](https://www.meetup.com/pt-BR/soujava-brasilia/events/303105127/) - _Brasília/DF_ ![presencial]
 - 09: [Quality House](https://www.sympla.com.br/quality-house-1__2614521) ![online]
 - 10: [DevPR: Meetup Ruby on Rails](https://meetup.com/developerparana) - _Francisco Beltrão/PR_ ![presencial]
 - 11: [DevPR: Meetup C#](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
