@@ -176,6 +176,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 24: [Julho das Pretas 2024 - Afroya Tech Hub](https://www.sympla.com.br/evento/julho-das-pretas-afroya-liderancas-negras-em-tecnologia-e-inovacao/2500505) - _São Paulo/SP_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 - 27: [Guia Anonima Conference](https://conference.guiaanonima.com) ![online]
+- 27, 28: [DevPR Conference 24](https://devpr.org) - _Maringá/PR_ ![presencial]
 <!-- JULHO:END -->
 
 ### Agosto
@@ -195,6 +196,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 24: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 24: [HackBahia 2024](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
 - 24: [BxSec 2024](https://bxsec.org/2024) - _Santos/SP_ ![presencial]
+- 29: [Ingá.php](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 31: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - 31: [Java Day Rio Preto - Comunidade Java Noroeste](https://javanoroeste.com.br/javanoroeste/javaday_riopreto/) - _São José do Rio Preto/SP_ ![presencial]
@@ -209,6 +211,8 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 04, 05, 06, 07 e 08: [Campus Party Nordeste 2024](https://brasil.campus-party.org/cpnordeste/ingressos/) - _Recife/PE_ ![presencial]
 - 06 e 07: [Codecon Summit 2024](https://eventos.codecon.dev/codecon-summit-24/) - _Joinville/SC_ ![presencial]
 - 09: [Quality House](https://www.sympla.com.br/quality-house-1__2614521) ![online]
+- 10: [DevPR: Meetup Ruby on Rails](https://meetup.com/developerparana) - _Francisco Beltrão/PR_ ![presencial]
+- 11: [DevPR: Meetup C#](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 11, 12 e 13: [XII Escola Regional de Computação do Ceará, Maranhão e Piauí (ERCEMAPI 2024)](https://ercemapi2024.enucompi.com.br/) - _Parnaíba/PI_ ![presencial]
 - 13, 14 e 15: [Python Sul - 2024](https://sul.python.org.br/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
@@ -216,6 +220,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 16, 17, 18 e 19: [XXIV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG 2024)](https://sbseg2024.ita.br/) - _São José dos Campos/SP_ ![presencial]
 - 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
+- 19: [DevPR: Meetup sobre empregabilidade](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 20 e 21: [JoinCommunity](https://joincommunity.com.br/) - _Goiânia/GO_ ![presencial]
 - 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
 - 21: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
@@ -223,6 +228,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFPR](https://www.instagram.com/semanadaibm/) - _Curitiba/PR_ ![híbrido]
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFCSPA](https://www.instagram.com/semanadaibm/) - _Porto Alegre/RS_ ![híbrido]
 - 25: [DevConverge LATAM](https://www.linkedin.com/company/java-dev-converge-latam/) - _São Paulo/SP_ ![presencial]
+- 26: [DevPR: Meetup Qualidade de software](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 27 e 28: [Python Norte 2024](https://2024.pythonnorte.org/) - _Itacoatiara/AM_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)](https://sibgrapi.sbc.org.br/) - _Manaus/AM_ ![presencial]
