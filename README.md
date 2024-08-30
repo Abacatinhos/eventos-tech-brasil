@@ -208,6 +208,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 02, 03, 04, 05 e 06: [Chip on the Cliffs: 37th Symposium on Integrated Circuits and Systems Design (SBCCI 2024)](https://chiponthecliffs2024.cear.ufpb.br/) - _João Pessoa/PB_ ![presencial]
 - 04, 05, 06, 07 e 08: [Campus Party Nordeste 2024](https://brasil.campus-party.org/cpnordeste/ingressos/) - _Recife/PE_ ![presencial]
 - 06 e 07: [Codecon Summit 2024](https://eventos.codecon.dev/codecon-summit-24/) - _Joinville/SC_ ![presencial]
+- 09: [Quality House](https://www.sympla.com.br/quality-house-1__2614521) ![online]
 - 11, 12 e 13: [XII Escola Regional de Computação do Ceará, Maranhão e Piauí (ERCEMAPI 2024)](https://ercemapi2024.enucompi.com.br/) - _Parnaíba/PI_ ![presencial]
 - 13, 14 e 15: [Python Sul - 2024](https://sul.python.org.br/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
