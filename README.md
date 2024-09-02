@@ -176,7 +176,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 24: [Julho das Pretas 2024 - Afroya Tech Hub](https://www.sympla.com.br/evento/julho-das-pretas-afroya-liderancas-negras-em-tecnologia-e-inovacao/2500505) - _São Paulo/SP_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 - 27: [Guia Anonima Conference](https://conference.guiaanonima.com) ![online]
-- 27, 28: [DevPR Conference 24](https://devpr.org) - _Maringá/PR_ ![presencial]
+- 27 e 28: [DevPR Conference 24](https://devpr.org) - _Maringá/PR_ ![presencial]
 <!-- JULHO:END -->
 
 ### Agosto
