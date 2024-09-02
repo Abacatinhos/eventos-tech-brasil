@@ -176,7 +176,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 24: [Julho das Pretas 2024 - Afroya Tech Hub](https://www.sympla.com.br/evento/julho-das-pretas-afroya-liderancas-negras-em-tecnologia-e-inovacao/2500505) - _São Paulo/SP_ ![presencial]
 - 24: [Blockchain Rio Festival](https://blockchainfestival.io/) - _Rio de Janeiro/RJ_ ![presencial]
 - 27: [Guia Anonima Conference](https://conference.guiaanonima.com) ![online]
-- 27, 28: [DevPR Conference 24](https://devpr.org) - _Maringá/PR_ ![presencial]
+- 27 e 28: [DevPR Conference 24](https://devpr.org) - _Maringá/PR_ ![presencial]
 <!-- JULHO:END -->
 
 ### Agosto
@@ -253,7 +253,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
-- 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presecial]
+- 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 <!-- OUTUBRO:END -->
 
