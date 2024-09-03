@@ -230,6 +230,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFPR](https://www.instagram.com/semanadaibm/) - _Curitiba/PR_ ![híbrido]
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFCSPA](https://www.instagram.com/semanadaibm/) - _Porto Alegre/RS_ ![híbrido]
 - 25: [DevConverge LATAM](https://www.linkedin.com/company/java-dev-converge-latam/) - _São Paulo/SP_ ![presencial]
+- 25: [SeniorTec Experience 2024](https://www.senior.com.br/lp/seniortec/) - _Blumenau/SC_ ![híbrido]
 - 26: [DevPR: Meetup Qualidade de software](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 27 e 28: [Python Norte 2024](https://2024.pythonnorte.org/) - _Itacoatiara/AM_ ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
