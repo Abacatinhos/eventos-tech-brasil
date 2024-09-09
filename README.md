@@ -22,8 +22,6 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - ![híbrido]
 - ![online]
 
-Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos presente no evento também. 🤩
-
 ## Eventos em 2024
 
 ### Fevereiro
