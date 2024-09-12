@@ -276,6 +276,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 09: [The Developer's Life Weekend](https://weekend.developerslife.tech/inscricao) - _Campo Mourão/PR_ ![presencial]
 - 09: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) - _São Paulo/SP_ ![híbrido]
 - 09: [AWS Community Day](https://awscommunityday.com.br/) - _Goiânia/GO_ e _Florianópolis/SC_ ![presencial]
+- 09: [DevFest Rio Grande do Sul 2024](https://www.sympla.com.br/evento/devfest-rio-grande-do-sul-2024/2613757)) - _Pelotas/RS_ ![presencial]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
