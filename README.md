@@ -181,6 +181,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 <!-- AGOSTO:START -->
 
+- 01, 01, 03: [Maratona de Inovação - Games](https://liincados.com.br/maratona-inovacao-games-2024/) _Maceió/AL_ ![presencial] 
 - 01, 02, 03 e 04: [Hacktown](https://hacktown.com.br/) - _Santa Rita do Sapucaí/MG_ ![presencial]
 - 06: [Esquenta TDC São Paulo - Observabilidade no frontend com Grafana Faro](https://observabilidadecomgrafanafaro.eventize.com.br) - _Porto Alegre/RS_ ![presencial]
 - 08: [TechWeek Senac Tech & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techweek-senac-tech-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
@@ -188,6 +189,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 09, 10 e 11: [Python Nordeste 2024](https://pythonnordeste.org) - _Natal/RN_ ![presencial]
 - 15: [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17: [DevOpsDays Rio de Janeiro 2024](https://devopsdays.org/events/2024-rio-de-janeiro/welcome/) - _Rio de Janeiro/RJ_ ![híbrido]
+- 17: [Google I/O Extended Agreste 2024](https://doity.com.br/google-io-extended-agreste-2024) - _Arapiraca/AL_ ![presencial]
 - 20 e 21: [RPA e AI CONGRESS RJ 2024](https://iimainfo.com.br/rpa-ai-congress-2024-rj/) - _Rio de Janeiro/RJ_ ![presencial]
 - 21: [IA Conference São Paulo 2024](https://iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
 - 22, 23 e 24: [ConFLOSS 24 - Conferência De Free/Libre E Open Source Software](https://confloss.com.br/inscricoes-confloss-2024/) - _Rio de Janeiro/RJ_ ![híbrido]
@@ -196,6 +198,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 24: [BxSec 2024](https://bxsec.org/2024) - _Santos/SP_ ![presencial]
 - 29: [Ingá.php](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 30 e 31: [ROGADX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
+- 31: [Tech Woman 2024](https://techwoman.rec.br/) - _Recife/PE_ ![presencial]
 - 31: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - 31: [Java Day Rio Preto - Comunidade Java Noroeste](https://javanoroeste.com.br/javanoroeste/javaday_riopreto/) - _São José do Rio Preto/SP_ ![presencial]
 
@@ -222,6 +225,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 19: [Encontro PyLadies e Grupy SP ](https://developer.microsoft.com/en-us/reactor/events/23425/?wt.mc_id=1reg_23425_webpage_reactor)) - _São Paulo/SP_ ![presencial]
 - 19: [DevPR: Meetup sobre empregabilidade](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 20 e 21: [JoinCommunity](https://joincommunity.com.br/) - _Goiânia/GO_ ![presencial]
+- 20, 21, 22: [1º Desafio de Inovação – Unimed Metropolitana do Agreste](https://liinc.com.br/inscricoes/i-desafio-inovacao-unimed-agreste) - _Arapiraca/AL_ ![presencial]
 - 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
 - 21: [Hacking na Web Day São Paulo](https://www.instagram.com/hackingnawebday) - _São Paulo/SP_ ![presencial]
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - USP](https://www.instagram.com/semanadaibm/) - _São Paulo/SP_ ![híbrido]
@@ -288,6 +292,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 <!-- DEZEMBRO:START -->
 
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![hiíbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 
