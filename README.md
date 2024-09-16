@@ -45,6 +45,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
 - 19: [Encontro PyLadies e Grupy SP ](https://developer.microsoft.com/en-us/reactor/events/23425/?wt.mc_id=1reg_23425_webpage_reactor)) - _São Paulo/SP_ ![presencial]
 - 19: [DevPR: Meetup sobre empregabilidade](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
+- 20: [Meetup Thasfin #18 | Fcamara](https://guild.host/events/thasfin-18-fcamara-6l5jtr) - _São Paulo/SP_ ![presencial]
 - 20 e 21: [JoinCommunity](https://joincommunity.com.br/) - _Goiânia/GO_ ![presencial]
 - 20, 21, 22: [1º Desafio de Inovação – Unimed Metropolitana do Agreste](https://liinc.com.br/inscricoes/i-desafio-inovacao-unimed-agreste) - _Arapiraca/AL_ ![presencial]
 - 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
