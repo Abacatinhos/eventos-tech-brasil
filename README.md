@@ -53,6 +53,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - USP](https://www.instagram.com/semanadaibm/) - _São Paulo/SP_ ![híbrido]
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFPR](https://www.instagram.com/semanadaibm/) - _Curitiba/PR_ ![híbrido]
 - 23, 24, 25, 26 e 27: [22ª SBIB - Semana Brasileira de Informática Biomédica - UFCSPA](https://www.instagram.com/semanadaibm/) - _Porto Alegre/RS_ ![híbrido]
+- - 23, 24, 25, 26 e 27: [Jornada CriaJogos Arapiraca](https://doity.com.br/oficina-conteudo-visual-que-conquista-arapiraca)) - _Arapiraca/AL_ ![presencial]
 - 25: [DevConverge LATAM](https://www.linkedin.com/company/java-dev-converge-latam/) - _São Paulo/SP_ ![presencial]
 - 25: [SeniorTec Experience 2024](https://www.senior.com.br/lp/seniortec/) - _Blumenau/SC_ ![híbrido]
 - 26: [Nubank DS & ML Meetup](https://www.gem.com/form?formID=7d4304ba-bb99-4715-8211-ec0a4617a081) - _São Paulo/SP_ ![híbrido]
