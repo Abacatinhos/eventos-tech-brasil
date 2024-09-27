@@ -60,6 +60,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 26: [DevPR: Meetup Qualidade de software](https://meetup.com/developerparana) - _Maringá/PR_ ![presencial]
 - 26: [Feature Flags com GitLab](https://featureflagscomgitlab.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 27 e 28: [Python Norte 2024](https://2024.pythonnorte.org/) - _Itacoatiara/AM_ ![presencial]
+- 28: [Ada Lovelace Day 2024](https://wit.icmc.usp.br/events/info/4) - _São Carlos/SP_ ![presencial]
 - 28 e 29: [Imersão Presencial em Análise de dados](https://www.sympla.com.br/evento/imersao-presencial-em-analise-de-dados/2610156) - _Recife/PE_ - ![presencial]
 - 30, 01, 02 e 03: [SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/sbgames2024/) - _Manaus/AM_ ![presencial]
 - 30, 01, 02 e 03: [XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)](https://sibgrapi.sbc.org.br/) - _Manaus/AM_ ![presencial]
