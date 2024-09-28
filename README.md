@@ -107,6 +107,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
+- 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - _Florianópolis/SC_ ![presencial]
 - 17, 18, 19, 20 e 21: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
@@ -120,6 +121,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 <!-- DEZEMBRO:START -->
 
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
