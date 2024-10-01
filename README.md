@@ -82,6 +82,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
+- 23 e 24: [TDC Summit IA Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
