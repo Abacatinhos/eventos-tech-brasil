@@ -72,6 +72,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 <!-- OUTUBRO:START -->
 
+- 01: [🛡️ OWASP BH apresenta: Transformando Sua Pipeline CI com Segurança Proativa](https://www.meetup.com/owasp-belo-horizonte-chapter/events/303372739/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) ![online]
 - 03 e 04: [Staff+ Conference_BR](https://staff.escolaforja.com.br/) ![online]
 - 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
@@ -115,12 +116,14 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
 - 27, 28 e 29: [Latinoware 2024](https://latinoware.org/) - _Foz do Iguaçu/PR_ ![híbrido] 
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
+- 30: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
 
 <!-- DEZEMBRO:START -->
 
+- 01: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
