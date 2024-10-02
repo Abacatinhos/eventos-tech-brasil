@@ -155,6 +155,11 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
   
 <!-- JULHO_2025:END -->
 
+### Setembro
+
+<!-- SETEMBRO_2025:START -->
+- 01 a 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - Foz do Iguaçu/PR ![presencial]
+
 
 ## TBA: To Be Announced
 
