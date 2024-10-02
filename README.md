@@ -76,7 +76,6 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 03 e 04: [Staff+ Conference_BR](https://staff.escolaforja.com.br/) ![online]
 - 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
-- 09, 10, 11, 12 e 13: [Campus Party Amazônia 2024](https://brasil.campus-party.org/cpamazonia2/ingressos/) - _Manaus/AM_ ![híbrido]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
 - 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 17, 18 e 19: [IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024](https://eries.sbc.org.br/) - _Vitória/ES_ ![presencial]
