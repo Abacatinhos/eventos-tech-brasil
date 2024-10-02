@@ -141,9 +141,10 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 ### Maio
 
-- 05 e 16: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
+- 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 
 <!-- MAIO_2025:END -->
+- 19 a 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) -  Natal/RN![presencial]
 
 
 <!-- JULHO_2025:START -->
