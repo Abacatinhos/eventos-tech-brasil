@@ -131,6 +131,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
+- 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 
 <!-- DEZEMBRO:END -->
