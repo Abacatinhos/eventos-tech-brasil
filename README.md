@@ -32,6 +32,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 03 e 04: [Staff+ Conference_BR](https://staff.escolaforja.com.br/) ![online]
 - 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
+- 10: [CYBERLEGION - Gestão de Talentos de Cibersegurança na era da I.A.](https://www.sympla.com.br/evento/cyberlegion-gestao-de-talentos-de-ciberseguranca-na-era-da-i-a/2658464) - _Brasília/DF_ ![presencial]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
 - 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 17: [Inteligência Artificial na Gestão e Análise de Contratos e Processos](https://www.sympla.com.br/evento-online/inteligencia-artificial-na-gestao-e-analise-de-contratos-e-processos/2645024?token=c4def0f9fc9070b6c59b52a70a383d7d) ![online]
