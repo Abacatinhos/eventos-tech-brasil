@@ -59,6 +59,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 02 e 03: [GambiConf 2024](https://gambiconf.dev/) - _São Paulo/SP_ ![presencial]
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
+- 06: [ObservabilityCON](https://grafana.com/pt-br/events/observabilitycon-on-the-road/2024/sao-paulo/?li_fat_id=3c741945-32bf-45ab-9ef8-2ac47630a9ac&src=li&mdm=cpc&camp=ocr-2024-sao-paulo) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
 - 07 e 08: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 - 07 e 08: [PGConf.Brasil](https://2024.pgconf.com.br/) - _Belo Horizonte/MG_ ![presencial]
