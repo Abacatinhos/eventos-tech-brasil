@@ -33,7 +33,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 - 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
 - 10: [CYBERLEGION - Gestão de Talentos de Cibersegurança na era da I.A.](https://www.sympla.com.br/evento/cyberlegion-gestao-de-talentos-de-ciberseguranca-na-era-da-i-a/2658464) - _Brasília/DF_ ![presencial]
-- 14 e 15: [1º Workshop sobre Inteligência artificial do IFSul - 2024](https://eventos.ifsul.edu.br/inteligencia_artificial_2024/) - _Pelotas/RS_ ![híbrido]
+- 14 e 15: [1º Workshop sobre Inteligência artificial do IFSul - 2024](https://eventos.ifsul.edu.br/inteligencia_artificial_2024/) - _Pelotas/RS_ ![presencial]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
 - 15, 16, 17 e 18: [1ª Jornada Internacional de Tecnologia e Inovação da PGE/BA](https://sistemas.pge.ba.gov.br/sgcea-inscricao-eletronica/evento/cadastrar-participante/NjU%3D) - _Salvador/BA_ ![presencial]
 - 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
