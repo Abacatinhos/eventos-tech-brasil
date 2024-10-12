@@ -52,6 +52,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
+- 31: [Estratégia de estudos para evoluir em Dev RPA](https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/) ![online]
 <!-- OUTUBRO:END -->
 
 ### Novembro
