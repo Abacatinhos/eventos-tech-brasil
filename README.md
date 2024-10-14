@@ -16,7 +16,7 @@ Conhece algum evento, palestra ou algo relacionado ao tema e deseja contribuir?
 
 #### Nós aceitamos ajuda!
 
-Para contribuir você precisa adicionar as seguintes informações: **data, nome do evento, site, organização e local**. Adicione também uma das sequintes badges para indicar se é presencial, online ou híbrido:
+Para contribuir você precisa adicionar as seguintes informações: **data, nome do evento, site, organização e local**. Adicione também uma das seguintes badges para indicar se é presencial, online ou híbrido:
 
 - ![presencial]
 - ![híbrido]
@@ -81,6 +81,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 23: [Data Saturday BH - 2024](https://www.sympla.com.br/evento/data-saturday-belo-horizonte-2024-1097/2597146) - _Belo Horizonte/MG_ ![presencial]
 - 23: [DevOpsDays Brasília](https://devopsdays.org/events/2024-brasilia/welcome/) - _Brasília/DF_ ![presencial]
+- 23: [DevFest Americana](https://gdg.community.dev/events/details/google-gdg-americana-presents-devfest-americana-2024/) - _Americana/SP_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
 - 27, 28 e 29: [Latinoware 2024](https://latinoware.org/) - _Foz do Iguaçu/PR_ ![híbrido] 
