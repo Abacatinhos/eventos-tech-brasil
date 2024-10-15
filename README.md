@@ -44,6 +44,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
 - 19: [Meetup Comunidade BotCity](https://automation.botcity.dev/meetup-sp-19-10-24) - _São Paulo/SP_ ![presencial]
+- 22: [Elastic Meetup: Esquenta TDC AI Summit 2024](https://www.meetup.com/pt-BR/brasilia-elastic-fantastics/events/303766472) - _Brasília/DF_ ![presencial]
 - 23: [Webinar: Engenharia de Dados e Negócios](https://www.even3.com.br/webinar-como-a-engenharia-de-dados-revoluciona-empresas-500768/) ![online]
 - 23 e 24: [TDC Summit IA Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - 23, 24 e 25: [Siará Tech Summit](https://stssebrae.com.br/) - _Fortaleza/CE_ ![presencial]
