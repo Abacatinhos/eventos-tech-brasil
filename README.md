@@ -35,6 +35,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 10: [CYBERLEGION - Gestão de Talentos de Cibersegurança na era da I.A.](https://www.sympla.com.br/evento/cyberlegion-gestao-de-talentos-de-ciberseguranca-na-era-da-i-a/2658464) - _Brasília/DF_ ![presencial]
 - 14 e 15: [1º Workshop sobre Inteligência artificial do IFSul - 2024](https://eventos.ifsul.edu.br/inteligencia_artificial_2024/) - _Pelotas/RS_ ![presencial]
 - 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
+- 15, 16 e 17: [21° Semana Nacional de Ciência e Tecnologia (SNCT 2024)](https://www.snctma2024.com/) - _São Luís/MA_ ![presencial]
 - 15, 16, 17 e 18: [1ª Jornada Internacional de Tecnologia e Inovação da PGE/BA](https://sistemas.pge.ba.gov.br/sgcea-inscricao-eletronica/evento/cadastrar-participante/NjU%3D) - _Salvador/BA_ ![presencial]
 - 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
 - 17: [Inteligência Artificial na Gestão e Análise de Contratos e Processos](https://www.sympla.com.br/evento-online/inteligencia-artificial-na-gestao-e-analise-de-contratos-e-processos/2645024?token=c4def0f9fc9070b6c59b52a70a383d7d) ![online]
