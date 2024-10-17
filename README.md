@@ -43,6 +43,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
 - 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
+- 19: [Meetup Golang Day na Tractian](https://www.meetup.com/golangbr/events/303808246/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 19: [Meetup Comunidade BotCity](https://automation.botcity.dev/meetup-sp-19-10-24) - _São Paulo/SP_ ![presencial]
 - 22: [Esquenta TDC & SouJava - Jornada do Dev Java na Era da IA](https://bit.ly/soujava-22-out) - _Brasília/DF_ ![presencial]
 - 22: [Elastic Meetup: Esquenta TDC AI Summit 2024](https://www.meetup.com/pt-BR/brasilia-elastic-fantastics/events/303766472) - _Brasília/DF_ ![presencial]
@@ -54,8 +55,10 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
+- 30: [Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços](https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 - 31: [Estratégia de estudos para evoluir em Dev RPA](https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/) ![online]
+- 31: [Meetup 9 Nubank Engineering - Plataforma em foco: Mobile e observabilidade estratégica](https://www.linkedin.com/events/plataformaemfoco-nubankengineer7252301996043497472/comments/) - _São Paulo_ ![híbrido]
 <!-- OUTUBRO:END -->
 
 ### Novembro
