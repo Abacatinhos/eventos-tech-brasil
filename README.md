@@ -58,7 +58,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 30: [Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços](https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 - 31: [Estratégia de estudos para evoluir em Dev RPA](https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/) ![online]
-- 31: [Meetup 9 Nubank Engineering - Plataforma em foco: Mobile e observabilidade estratégica](https://www.linkedin.com/events/plataformaemfoco-nubankengineer7252301996043497472/comments/) - _São Paulo_ ![híbrido]
+- 31: [Meetup de Engenharia de Software do Nubank](https://sou.nu/eng-meetup-br9) - _São Paulo_ ![híbrido]
 <!-- OUTUBRO:END -->
 
 ### Novembro
