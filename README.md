@@ -47,6 +47,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 19: [Meetup Comunidade BotCity](https://automation.botcity.dev/meetup-sp-19-10-24) - _São Paulo/SP_ ![presencial]
 - 22: [Esquenta TDC & SouJava - Jornada do Dev Java na Era da IA](https://bit.ly/soujava-22-out) - _Brasília/DF_ ![presencial]
 - 22: [Elastic Meetup: Esquenta TDC AI Summit 2024](https://www.meetup.com/pt-BR/brasilia-elastic-fantastics/events/303766472) - _Brasília/DF_ ![presencial]
+- 23: [ElaTech - Descubra seu Lugar](https://l.instagram.com/?u=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Felatech-descubra-seu-lugar%2F2667206%3F_gl%3D1%252Aqcayxl%252A_gcl_au%252AMTEyNDMwMzI1Mi4xNzI3MjAyOTU4%252A_ga%252AMTU4Mzc1MTUwOS4xNzEzNTc2NTQw%252A_ga_KXH10SQTZF%252AMTcyNzgzNjkwMy4zLjEuMTcyNzgzNzkyMS41NS4wLjIwMzE2NjI2MTk%26fbclid%3DPAZXh0bgNhZW0CMTEAAabA07gl8IZaGVxqFvoJvac4NsZ0_3sSA0citGqubh7rMMmsmLYi10CeM2M_aem_69xmlAFlvb8IBEjMqtYqtA&e=AT0BATIl_4RASVPdlrhe6GqnennBcCU-FH_qrMxpDy_i5QwTeAiE8LknwS5wCRvbanq0uETe-06EJKejV1wD51_1cAT6Zxjpf2odW-lIe-015AyClm7dUQ) - _Fortaleza/CE_ ![presencial]
 - 23: [Webinar: Engenharia de Dados e Negócios](https://www.even3.com.br/webinar-como-a-engenharia-de-dados-revoluciona-empresas-500768/) ![online]
 - 23 e 24: [TDC Summit IA Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - 23, 24 e 25: [Siará Tech Summit](https://stssebrae.com.br/) - _Fortaleza/CE_ ![presencial]
