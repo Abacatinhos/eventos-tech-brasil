@@ -52,13 +52,14 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 23, 24 e 25: [Siará Tech Summit](https://stssebrae.com.br/) - _Fortaleza/CE_ ![presencial]
 - 26: [Sorocaba CSS](https://sorocabacss.github.io/) - _Sorocaba/SP_ ![presencial]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
+- 28, 29 e 30: [Digital Product Week 2024](https://dpw.somostera.com/) ![online]
 - 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
 - 30: [Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços](https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 - 31: [Estratégia de estudos para evoluir em Dev RPA](https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/) ![online]
-- 31: [Meetup de Engenharia de Software do Nubank](https://sou.nu/eng-meetup-br9) - _São Paulo_ ![híbrido]
+- 31: [Meetup de Engenharia de Software do Nubank](https://sou.nu/eng-meetup-br9) - _São Paulo/SP_ ![híbrido]
 <!-- OUTUBRO:END -->
 
 ### Novembro
@@ -84,6 +85,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
 - 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - _Florianópolis/SC_ ![presencial]
 - 16: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ ![presencial]
+- 16 e 17: [JoomlaDay Brasil 2024](https://joomladaybrasil.com.br) - _São Paulo/SP_ ![híbrido]
 - 17, 18, 19, 20 e 21: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 23: [Data Saturday BH - 2024](https://www.sympla.com.br/evento/data-saturday-belo-horizonte-2024-1097/2597146) - _Belo Horizonte/MG_ ![presencial]
@@ -103,6 +105,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 - 01: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
+- 03, 04, 05 e 06: [27th Brazilian Symposium on Formal Methods (SBMF 2024)](https://sbmf24.ifes.edu.br/) - _Vitória/ES_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
