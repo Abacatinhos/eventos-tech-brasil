@@ -52,6 +52,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 23, 24 e 25: [Siará Tech Summit](https://stssebrae.com.br/) - _Fortaleza/CE_ ![presencial]
 - 26: [Sorocaba CSS](https://sorocabacss.github.io/) - _Sorocaba/SP_ ![presencial]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
+- 28, 29 e 30: [Digital Product Week 2024](https://dpw.somostera.com/) ![online]
 - 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
