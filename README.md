@@ -84,6 +84,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
 - 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - _Florianópolis/SC_ ![presencial]
+- 16: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ ![presencial]
 - 16 e 17: [JoomlaDay Brasil 2024](https://joomladaybrasil.com.br) - _São Paulo/SP_ ![híbrido]
 - 17, 18, 19, 20 e 21: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
