@@ -117,6 +117,12 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 ## Eventos 2025
 
+### Abril
+
+<!-- ABRIL_2025:START -->
+- 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
+<!-- ABRIL_2025:END -->
+
 <!-- MAIO_2025:START -->
 
 ### Maio
