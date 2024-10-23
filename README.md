@@ -45,6 +45,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
 - 19: [Meetup Golang Day na Tractian](https://www.meetup.com/golangbr/events/303808246/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 19: [Meetup Comunidade BotCity](https://automation.botcity.dev/meetup-sp-19-10-24) - _São Paulo/SP_ ![presencial]
+- 19: [Esquenta CSBC 2025](https://doity.com.br/esquenta-csbc-2025-maratona) - _Maceió/AL_ ![presencial]
 - 22: [Esquenta TDC & SouJava - Jornada do Dev Java na Era da IA](https://bit.ly/soujava-22-out) - _Brasília/DF_ ![presencial]
 - 22: [Elastic Meetup: Esquenta TDC AI Summit 2024](https://www.meetup.com/pt-BR/brasilia-elastic-fantastics/events/303766472) - _Brasília/DF_ ![presencial]
 - 23: [Webinar: Engenharia de Dados e Negócios](https://www.even3.com.br/webinar-como-a-engenharia-de-dados-revoluciona-empresas-500768/) ![online]
