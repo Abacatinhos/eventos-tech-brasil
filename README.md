@@ -151,6 +151,10 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 <!-- SETEMBRO_2025:START -->
 - 01 a 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - Foz do Iguaçu/PR ![presencial]
 
+### Outubro
+
+<!-- OUTUBRO_2025:START -->
+- 21 a 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 
 ## TBA: To Be Announced
 
