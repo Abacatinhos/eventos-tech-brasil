@@ -54,6 +54,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 26: [Sorocaba CSS](https://sorocabacss.github.io/) - _Sorocaba/SP_ ![presencial]
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 28, 29 e 30: [Digital Product Week 2024](https://dpw.somostera.com/) ![online]
+- 29: [Ciência de Dados Aplicada à Múltiplos Setores | Nubank DS & ML Meetup #93](https://www.gem.com/form?formID=7ddb4f5d-362b-4f38-9d88-2ea132863029) ![online]
 - 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 29: [Meetup BotCity | Desenvolvendo automações inteligentes com visão computacional](https://automation.botcity.dev/meetup-rj-29-10-24) - _Rio de Janeiro/RJ_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
