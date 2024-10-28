@@ -55,6 +55,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 28, 29 e 30: [Digital Product Week 2024](https://dpw.somostera.com/) ![online]
 - 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
+- 29: [Meetup BotCity | Desenvolvendo automações inteligentes com visão computacional](https://automation.botcity.dev/meetup-rj-29-10-24) - _Rio de Janeiro/RJ_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
 - 30: [Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços](https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
@@ -150,6 +151,10 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 <!-- SETEMBRO_2025:START -->
 - 01 a 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - Foz do Iguaçu/PR ![presencial]
 
+### Outubro
+
+<!-- OUTUBRO_2025:START -->
+- 21 a 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 
 ## TBA: To Be Announced
 
