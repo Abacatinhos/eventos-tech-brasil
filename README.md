@@ -71,6 +71,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 - 02 e 03: [GambiConf 2024](https://gambiconf.dev/) - _São Paulo/SP_ ![presencial]
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
+- 05: [FIAP Meetup - Carreira em Java: insigths e desafios do mundo profissional](https://www.meetup.com/fiapmeetups/events/304166526) - _São Paulo/SP_ ![híbrido]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
 - 06: [ObservabilityCON](https://grafana.com/pt-br/events/observabilitycon-on-the-road/2024/sao-paulo/?li_fat_id=3c741945-32bf-45ab-9ef8-2ac47630a9ac&src=li&mdm=cpc&camp=ocr-2024-sao-paulo) - _São Paulo/SP_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
@@ -114,6 +115,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 01: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 03, 04, 05 e 06: [27th Brazilian Symposium on Formal Methods (SBMF 2024)](https://sbmf24.ifes.edu.br/) - _Vitória/ES_ ![presencial]
+- 04 e 05: [TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
