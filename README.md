@@ -23,9 +23,9 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - ![online]
 
 ## Eventos em 2024
+<!-- ANO2024:START -->
 
 ### Outubro
-
 <!-- OUTUBRO:START -->
 
 - 01: [🛡️ OWASP BH apresenta: Transformando Sua Pipeline CI com Segurança Proativa](https://www.meetup.com/owasp-belo-horizonte-chapter/events/303372739/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) ![online]
@@ -63,10 +63,10 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
 - 31: [Estratégia de estudos para evoluir em Dev RPA](https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/) ![online]
 - 31: [Meetup de Engenharia de Software do Nubank](https://sou.nu/eng-meetup-br9) - _São Paulo/SP_ ![híbrido]
+
 <!-- OUTUBRO:END -->
 
 ### Novembro
-
 <!-- NOVEMBRO:START -->
 
 - 02 e 03: [GambiConf 2024](https://gambiconf.dev/) - _São Paulo/SP_ ![presencial]
@@ -92,26 +92,26 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - _Florianópolis/SC_ ![presencial]
 - 16: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ ![presencial]
 - 16 e 17: [JoomlaDay Brasil 2024](https://joomladaybrasil.com.br) - _São Paulo/SP_ ![híbrido]
-- 17, 18, 19, 20 e 21: [Qiskit Fall Fest Brasil 2024 (Qiskit Fall Fest Brasil 2024)](https://qiskit-fall-fest-2024-brasil.github.io/) - _Online_ ![Online]
+- 17, 18, 19, 20 e 21: [Qiskit Fall Fest Brasil 2024](https://qiskit-fall-fest-2024-brasil.github.io/) ![online]
 - 18, 19, 20, 21, 22 e 23: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 23: [Data Saturday BH - 2024](https://www.sympla.com.br/evento/data-saturday-belo-horizonte-2024-1097/2597146) - _Belo Horizonte/MG_ ![presencial]
 - 23: [DevOpsDays Brasília](https://devopsdays.org/events/2024-brasilia/welcome/) - _Brasília/DF_ ![presencial]
 - 23: [DevFest Americana](https://gdg.community.dev/events/details/google-gdg-americana-presents-devfest-americana-2024/) - _Americana/SP_ ![presencial]
 - 23: [ElaTech - Descubra seu Lugar](https://l.instagram.com/?u=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Felatech-descubra-seu-lugar%2F2667206%3F_gl%3D1%252Aqcayxl%252A_gcl_au%252AMTEyNDMwMzI1Mi4xNzI3MjAyOTU4%252A_ga%252AMTU4Mzc1MTUwOS4xNzEzNTc2NTQw%252A_ga_KXH10SQTZF%252AMTcyNzgzNjkwMy4zLjEuMTcyNzgzNzkyMS41NS4wLjIwMzE2NjI2MTk%26fbclid%3DPAZXh0bgNhZW0CMTEAAabA07gl8IZaGVxqFvoJvac4NsZ0_3sSA0citGqubh7rMMmsmLYi10CeM2M_aem_69xmlAFlvb8IBEjMqtYqtA&e=AT0BATIl_4RASVPdlrhe6GqnennBcCU-FH_qrMxpDy_i5QwTeAiE8LknwS5wCRvbanq0uETe-06EJKejV1wD51_1cAT6Zxjpf2odW-lIe-015AyClm7dUQ) - _Fortaleza/CE_ ![presencial]
-- 25: [Segundo Encontro DevRel SP](https://docs.google.com/forms/d/18MrugSpIATu5nZmBeRN6qmDXKXDtZ_mDLHfOsdpqxHU/edit) _São Paulo/SP_ ![presencial]
-- 26: Nubank DS & ML Meetup (Inscrições ainda não foram abertas) _São Paulo/SP_ ![presencial]
+- 25: [Segundo Encontro DevRel SP](https://docs.google.com/forms/d/18MrugSpIATu5nZmBeRN6qmDXKXDtZ_mDLHfOsdpqxHU/edit) - _São Paulo/SP_ ![presencial]
+- 26: [Nubank DS & ML Meetup](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/) - _São Paulo/SP_ ![presencial]
 - 24, 25, 26, 27, 28, 29 e 30: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 26, 27 e 28: [23º Encontro de Gerenciamento de Projetos 2024](https://www.sympla.com.br/evento/encontro-de-gerenciamento-de-projetos-2024/2275325?referrer=pmidf.org) - _Brasília/DF_ ![presencial]
 - 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
 - 27, 28 e 29: [Latinoware 2024](https://latinoware.org/) - _Foz do Iguaçu/PR_ ![híbrido]
-- 29: [GitTogether São Paulo - NOVEMBRO/2024](https://docs.google.com/forms/d/e/1FAIpQLScKnw-PHeAp6pCFvbIk8YIqgXVhqQGBW06wglz3obxFHYFHiQ/viewform)  _São Paulo/SP_ ![presencial]
+- 29: [GitTogether São Paulo](https://docs.google.com/forms/d/e/1FAIpQLScKnw-PHeAp6pCFvbIk8YIqgXVhqQGBW06wglz3obxFHYFHiQ/viewform) - _São Paulo/SP_ ![presencial]
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 - 30: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
+
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
-
 <!-- DEZEMBRO:START -->
 
 - 01: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
@@ -127,44 +127,62 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 
 <!-- DEZEMBRO:END -->
 
+<!-- ANO2024:END -->
+
 ## Eventos 2025
+<!-- ANO2025:START -->
+
+<!-- JANEIRO:START -->
+<!-- JANEIRO:END -->
+<!-- FEVEREIRO:START -->
+<!-- FEVEREIRO:END -->
+<!-- MARÇO:START -->
+<!-- MARÇO:END -->
 
 ### Abril
+<!-- ABRIL:START -->
 
-<!-- ABRIL_2025:START -->
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
-<!-- ABRIL_2025:END -->
 
-<!-- MAIO_2025:START -->
+<!-- ABRIL:END -->
 
 ### Maio
+<!-- MAIO:START -->
 
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
+- 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 
-<!-- MAIO_2025:END -->
-- 19 a 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) -  Natal/RN![presencial]
-
-
-<!-- JULHO_2025:START -->
+<!-- MAIO:END -->
 
 ### Julho
+<!-- JULHO:START -->
 
-- 20, 21, 22, 23, 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
+- 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
   
-<!-- JULHO_2025:END -->
+<!-- JULHO:END -->
 
 ### Setembro
+<!-- SETEMBRO:START -->
 
-<!-- SETEMBRO_2025:START -->
-- 01 a 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - Foz do Iguaçu/PR ![presencial]
+- 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
+
+<!-- SETEMBRO:END -->
 
 ### Outubro
+<!-- OUTUBRO:START -->
 
-<!-- OUTUBRO_2025:START -->
 - 21 a 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 
-## TBA: To Be Announced
+<!-- OUTUBRO:END -->
 
+<!-- NOVEMBRO:START -->
+<!-- NOVEMBRO:END -->
+<!-- DEZEMBRO:START -->
+<!-- DEZEMBRO:END -->
+
+<!-- ANO2025:END -->
+
+## TBA: To Be Announced
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
 <!-- TBA:START -->
 
@@ -178,7 +196,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
 - TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
 
-<!-- TBA:START -->
+<!-- TBA:END -->
 
 ## Eventos dos anos anteriores
 
