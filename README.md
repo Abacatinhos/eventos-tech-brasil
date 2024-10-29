@@ -7,7 +7,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-    <a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a>
+    <a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a>
 </p>
 
 ## Contribuindo
