@@ -109,7 +109,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 - 30: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 30: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2024-porto-alegre/welcome/) - _Porto Alegre/RS_ ![presencial]
-- 30: [DevOpsDays Maceio](https://devopsdays.org/events/2024-salvador/welcome/) - _Maceio/AL_ ![presencial]
+- 30: [DevOpsDays Maceio](https://devopsdays.org/events/2024-maceio/welcome/) - _Maceio/AL_ ![presencial]
 
 <!-- NOVEMBRO:END -->
 
