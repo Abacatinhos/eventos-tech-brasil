@@ -198,6 +198,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
 - TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
+- TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/)) - _Arapiraca/AL_ ![presencial]
 
 <!-- TBA:END -->
 
