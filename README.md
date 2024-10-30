@@ -108,6 +108,8 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 29: [GitTogether São Paulo](https://docs.google.com/forms/d/e/1FAIpQLScKnw-PHeAp6pCFvbIk8YIqgXVhqQGBW06wglz3obxFHYFHiQ/viewform) - _São Paulo/SP_ ![presencial]
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
 - 30: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
+- 30: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2024-porto-alegre/welcome/) - _Porto Alegre/RS_ ![presencial]
+- 30: [DevOpsDays Maceio](https://devopsdays.org/events/2024-salvador/welcome/) - _Maceio/AL_ ![presencial]
 
 <!-- NOVEMBRO:END -->
 
@@ -120,6 +122,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 04 e 05: [TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
+- 07: [DevOpsDays Salvador](https://devopsdays.org/events/2024-salvador/welcome/) - _Salvador/BA_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
