@@ -58,6 +58,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 29: [Meetup BotCity | Desenvolvendo automações inteligentes com visão computacional](https://automation.botcity.dev/meetup-rj-29-10-24) - _Rio de Janeiro/RJ_ ![presencial]
 - 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
+- 29, 30 e 31: [BBDW - Banco do Brasil Digital Week](https://www.inscricaobbdw.com.br/) - _Brasilia/DF_ ![presencial]
 - 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
 - 30: [Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços](https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
