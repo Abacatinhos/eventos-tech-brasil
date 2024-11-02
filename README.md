@@ -1,5 +1,5 @@
 <p class="header" align="center">
- <img width="150px" src="./assets/abacatinhos.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="150px" src="https://raw.githubusercontent.com/Abacatinhos/agenda-tech-brasil/main/assets/abacatinhos.svg" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">Eventos Tech Brasil</h1> 
 </p>
 
