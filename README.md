@@ -95,6 +95,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 16 e 17: [JoomlaDay Brasil 2024](https://joomladaybrasil.com.br) - _São Paulo/SP_ ![híbrido]
 - 17, 18, 19, 20 e 21: [Qiskit Fall Fest Brasil 2024](https://qiskit-fall-fest-2024-brasil.github.io/) ![online]
 - 18, 19, 20, 21, 22 e 23: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
+- 21: [Kube Connect LAD 2024]([https://devfestcerrado.com.br/](https://g1cde62092a80c9-apexstudydb.adb.us-chicago-1.oraclecloudapps.com/ords/r/study/postgresqlday110/home?session=314616812077567)) - _São Paulo/SP_ ![híbrido]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 23: [Data Saturday BH - 2024](https://www.sympla.com.br/evento/data-saturday-belo-horizonte-2024-1097/2597146) - _Belo Horizonte/MG_ ![presencial]
 - 23: [DevOpsDays Brasília](https://devopsdays.org/events/2024-brasilia/welcome/) - _Brasília/DF_ ![presencial]
