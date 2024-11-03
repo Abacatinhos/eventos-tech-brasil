@@ -124,6 +124,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 07: [DevOpsDays Salvador](https://devopsdays.org/events/2024-salvador/welcome/) - _Salvador/BA_ ![presencial]
+- 07: [DEVPIRA Festival 2024](https://www.devpira.com.br/eventos/devpira-festival-2024) - _Piracicaba/SP_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
