@@ -25,48 +25,6 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 ## Eventos em 2024
 <!-- ANO2024:START -->
 
-### Outubro
-<!-- OUTUBRO:START -->
-
-- 01: [🛡️ OWASP BH apresenta: Transformando Sua Pipeline CI com Segurança Proativa](https://www.meetup.com/owasp-belo-horizonte-chapter/events/303372739/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) ![online]
-- 03 e 04: [Staff+ Conference_BR](https://staff.escolaforja.com.br/) ![online]
-- 05: [Recruta Tech](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
-- 08, 09 e 10: [Futurecom](https://www.futurecom.com.br/pt/home.html) - _São Paulo/SP_ ![presencial]
-- 10: [CYBERLEGION - Gestão de Talentos de Cibersegurança na era da I.A.](https://www.sympla.com.br/evento/cyberlegion-gestao-de-talentos-de-ciberseguranca-na-era-da-i-a/2658464) - _Brasília/DF_ ![presencial]
-- 14 e 15: [1º Workshop sobre Inteligência artificial do IFSul - 2024](https://eventos.ifsul.edu.br/inteligencia_artificial_2024/) - _Pelotas/RS_ ![presencial]
-- 14, 15, 16 e 17: [XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)](https://sbbd.org.br/2024/) - _Florianópolis/SC_ ![presencial]
-- 15, 16 e 17: [21° Semana Nacional de Ciência e Tecnologia (SNCT 2024)](https://www.snctma2024.com/) - _São Luís/MA_ ![presencial]
-- 15, 16, 17 e 18: [1ª Jornada Internacional de Tecnologia e Inovação da PGE/BA](https://sistemas.pge.ba.gov.br/sgcea-inscricao-eletronica/evento/cadastrar-participante/NjU%3D) - _Salvador/BA_ ![presencial]
-- 16, 17, 18, 19, 20 e 21: [Python Brasil](https://2024.pythonbrasil.org.br/) - _Rio de Janeiro/RJ_ ![híbrido]
-- 17: [Inteligência Artificial na Gestão e Análise de Contratos e Processos](https://www.sympla.com.br/evento-online/inteligencia-artificial-na-gestao-e-analise-de-contratos-e-processos/2645024?token=c4def0f9fc9070b6c59b52a70a383d7d) ![online]
-- 17, 18 e 19: [IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024](https://eries.sbc.org.br/) - _Vitória/ES_ ![presencial]
-- 18 e 19: [UXConf BR 2024](https://www.uxconf.com.br/) - _São Paulo/SP_ ![presencial]
-- 19: [Front in Sampa](https://evento.frontinsampa.com.br/) - _São Paulo/SP_ ![híbrido]
-- 19: [Portera Day](https://www.sympla.com.br/evento/portera-day/2617101) - _Goiânia/GO_ ![presencial]
-- 19: [Meetup Golang Day na Tractian](https://www.meetup.com/golangbr/events/303808246/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
-- 19: [Meetup Comunidade BotCity](https://automation.botcity.dev/meetup-sp-19-10-24) - _São Paulo/SP_ ![presencial]
-- 19: [Esquenta CSBC 2025](https://doity.com.br/esquenta-csbc-2025-maratona) - _Maceió/AL_ ![presencial]
-- 22: [Esquenta TDC & SouJava - Jornada do Dev Java na Era da IA](https://bit.ly/soujava-22-out) - _Brasília/DF_ ![presencial]
-- 22: [Elastic Meetup: Esquenta TDC AI Summit 2024](https://www.meetup.com/pt-BR/brasilia-elastic-fantastics/events/303766472) - _Brasília/DF_ ![presencial]
-- 23: [Webinar: Engenharia de Dados e Negócios](https://www.even3.com.br/webinar-como-a-engenharia-de-dados-revoluciona-empresas-500768/) ![online]
-- 23 e 24: [TDC Summit IA Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
-- 23, 24 e 25: [Siará Tech Summit](https://stssebrae.com.br/) - _Fortaleza/CE_ ![presencial]
-- 26: [Sorocaba CSS](https://sorocabacss.github.io/) - _Sorocaba/SP_ ![presencial]
-- 28 e 29: [Cyber Security Summit 2024 Brasil](https://www.cybersecuritysummit.com.br/) - _São Paulo/SP_ ![presencial]
-- 28, 29 e 30: [Digital Product Week 2024](https://dpw.somostera.com/) ![online]
-- 29: [Ciência de Dados Aplicada à Múltiplos Setores | Nubank DS & ML Meetup #93](https://www.gem.com/form?formID=7ddb4f5d-362b-4f38-9d88-2ea132863029) ![online]
-- 29: [Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial](https://desenvolvimentocomia.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
-- 29: [Meetup BotCity | Desenvolvendo automações inteligentes com visão computacional](https://automation.botcity.dev/meetup-rj-29-10-24) - _Rio de Janeiro/RJ_ ![presencial]
-- 29 e 30: [LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
-- 29, 30 e 31: [BBDW - Banco do Brasil Digital Week](https://www.inscricaobbdw.com.br/) - _Brasilia/DF_ ![presencial]
-- 30: [MongoDB.local São Paulo](https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais) - _São Paulo/SP_ ![presencial]
-- 30: [Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços](https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
-- 31: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) ![online]
-- 31: [Estratégia de estudos para evoluir em Dev RPA](https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/) ![online]
-- 31: [Meetup de Engenharia de Software do Nubank](https://sou.nu/eng-meetup-br9) - _São Paulo/SP_ ![híbrido]
-
-<!-- OUTUBRO:END -->
-
 ### Novembro
 <!-- NOVEMBRO:START -->
 
