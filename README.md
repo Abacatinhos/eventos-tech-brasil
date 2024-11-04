@@ -46,6 +46,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 09: [PrograMaria Summit 2024](https://doity.com.br/programaria-summit-2024) - _São Paulo/SP_ ![híbrido]
 - 09: [AWS Community Day](https://awscommunityday.com.br/) - _Goiânia/GO_ e _Florianópolis/SC_ ![presencial]
 - 09: [DevFest Rio Grande do Sul 2024](https://www.sympla.com.br/evento/devfest-rio-grande-do-sul-2024/2613757) - _Pelotas/RS_ ![presencial]
+- 09: [XConf América Latina 2024](https://www.thoughtworks.com/pt-br/about-us/events/xconf/2024/latam) - _São Paulo_ ![híbrido]
 - 12: [GenAI com MongoDB e Google Cloud](https://rsvp.withgoogle.com/events/gcloud-encounter-mongodb-sp) - _São Paulo/SP_ ![presencial]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
