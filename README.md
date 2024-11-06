@@ -75,6 +75,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 30: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 30: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2024-porto-alegre/welcome/) - _Porto Alegre/RS_ ![presencial]
 - 30: [DevOpsDays Maceio](https://devopsdays.org/events/2024-maceio/welcome/) - _Maceio/AL_ ![presencial]
+- 30: [DevFest Santos 2024](https://www.sympla.com.br/evento/devfest-santos-2024/2553155?referrer=www.google.com) - _Santos/SP_ ![presencial]
 
 <!-- NOVEMBRO:END -->
 
