@@ -62,7 +62,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 23: [DevOpsDays Brasília](https://devopsdays.org/events/2024-brasilia/welcome/) - _Brasília/DF_ ![presencial]
 - 23: [DevFest Americana](https://gdg.community.dev/events/details/google-gdg-americana-presents-devfest-americana-2024/) - _Americana/SP_ ![presencial]
 - 23: [ElaTech - Descubra seu Lugar](https://l.instagram.com/?u=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Felatech-descubra-seu-lugar%2F2667206%3F_gl%3D1%252Aqcayxl%252A_gcl_au%252AMTEyNDMwMzI1Mi4xNzI3MjAyOTU4%252A_ga%252AMTU4Mzc1MTUwOS4xNzEzNTc2NTQw%252A_ga_KXH10SQTZF%252AMTcyNzgzNjkwMy4zLjEuMTcyNzgzNzkyMS41NS4wLjIwMzE2NjI2MTk%26fbclid%3DPAZXh0bgNhZW0CMTEAAabA07gl8IZaGVxqFvoJvac4NsZ0_3sSA0citGqubh7rMMmsmLYi10CeM2M_aem_69xmlAFlvb8IBEjMqtYqtA&e=AT0BATIl_4RASVPdlrhe6GqnennBcCU-FH_qrMxpDy_i5QwTeAiE8LknwS5wCRvbanq0uETe-06EJKejV1wD51_1cAT6Zxjpf2odW-lIe-015AyClm7dUQ) - _Fortaleza/CE_ ![presencial]
-- 23: [Conferência Juntos](https://www.conferenciajuntos.com/)  - _São Paulo/SP & Porto Alegre/RS_ ![presencial]
+- 23: [Conferência Juntos](https://www.conferenciajuntos.com/) - _São Paulo/SP & Porto Alegre/RS_ ![presencial]
 - 23: [XibéSec 2024](https://www.sympla.com.br/xibsec-2024__2639304) - _Belém/PA_ ![presencial]
 - 25: [Segundo Encontro DevRel SP](https://docs.google.com/forms/d/18MrugSpIATu5nZmBeRN6qmDXKXDtZ_mDLHfOsdpqxHU/edit) - _São Paulo/SP_ ![presencial]
 - 26: [Nubank DS & ML Meetup](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/) - _São Paulo/SP_ ![presencial]
@@ -142,7 +142,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 ### Outubro
 <!-- OUTUBRO:START -->
 
-- 21 a 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
+- 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 
 <!-- OUTUBRO:END -->
 
