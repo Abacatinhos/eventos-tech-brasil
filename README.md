@@ -50,6 +50,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 12: [GenAI com MongoDB e Google Cloud](https://rsvp.withgoogle.com/events/gcloud-encounter-mongodb-sp) - _São Paulo/SP_ ![presencial]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
+- 13: [TRINCA Talks | Carreiras na TI](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-trinca-talks-carreiras-na-ti/) - _Porto Alegre/RS_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
 - 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - _Florianópolis/SC_ ![presencial]
 - 16: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ ![presencial]
