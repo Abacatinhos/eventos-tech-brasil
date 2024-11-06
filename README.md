@@ -48,9 +48,9 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 09: [DevFest Rio Grande do Sul 2024](https://www.sympla.com.br/evento/devfest-rio-grande-do-sul-2024/2613757) - _Pelotas/RS_ ![presencial]
 - 09: [XConf América Latina 2024](https://www.thoughtworks.com/pt-br/about-us/events/xconf/2024/latam) - _São Paulo/SP_ ![híbrido]
 - 12: [GenAI com MongoDB e Google Cloud](https://rsvp.withgoogle.com/events/gcloud-encounter-mongodb-sp) - _São Paulo/SP_ ![presencial]
+- 13: [TRINCA Talks | Carreiras na TI](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-trinca-talks-carreiras-na-ti/) - _Porto Alegre/RS_ ![presencial]
 - 13, 14 e 15: [16th Brazilian Symposium on Robotics (SBR 2024)](https://natalnet.br/sbr2024/) - _Goiânia/GO_ ![presencial]
 - 13, 14 e 15: [15th Workshop on Robotics in Education (WRE 2024)](https://www.natalnet.br/wre2024/) - _Goiânia/GO_ ![presencial]
-- 13: [TRINCA Talks | Carreiras na TI](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-trinca-talks-carreiras-na-ti/) - _Porto Alegre/RS_ ![presencial]
 - 16: [Big Data Brazil Experience](https://www.bigdatabrazilexperience.com.br/) - _São Paulo/SP_ ![presencial]
 - 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - _Florianópolis/SC_ ![presencial]
 - 16: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ ![presencial]
@@ -92,6 +92,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
+- 14: [4Dev Connect Rio Grande do Sul 2024](https://www.sympla.com.br/evento/4dev-connect-rio-grande-do-sul-2024/2704715) - _Gravataí/RS_ ![presencial]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 
 <!-- DEZEMBRO:END -->
