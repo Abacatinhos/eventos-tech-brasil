@@ -73,6 +73,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 26, 27 e 28: [23º Encontro de Gerenciamento de Projetos 2024](https://www.sympla.com.br/evento/encontro-de-gerenciamento-de-projetos-2024/2275325?referrer=pmidf.org) - _Brasília/DF_ ![presencial]
 - 26, 27, 28 e 29: [XIII Latin-American Symposium on Dependable and Secure Computing (LADC 2024)](https://ladc.sbc.org.br/2024/) - _Recife/PE_ ![presencial]
 - 27, 28 e 29: [Latinoware 2024](https://latinoware.org/) - _Foz do Iguaçu/PR_ ![híbrido]
+- 27, 28 e 29: [1st Latin American Ethics on Artificial Intelligence (LAAI-Ethics)](https://laai-ethics.com/en/home-english/) - _Rio de Janeiro/RJ_ ![presencial]
 - 28: [Oracle - Winning with AI: Impulsione seus projetos com GenAI!](https://go.oracle.com/LP=145317?elqCampaignId=565639) ![online]
 - 29: [GitTogether São Paulo](https://docs.google.com/forms/d/e/1FAIpQLScKnw-PHeAp6pCFvbIk8YIqgXVhqQGBW06wglz3obxFHYFHiQ/viewform) - _São Paulo/SP_ ![presencial]
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
