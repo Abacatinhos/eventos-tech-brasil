@@ -62,6 +62,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 21: [Oracle Kube Connect](https://g1cde62092a80c9-apexstudydb.adb.us-chicago-1.oraclecloudapps.com/ords/r/study/postgresqlday110/home) - _São Paulo/SP_ ![presencial]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 23: [Data Saturday BH - 2024](https://www.sympla.com.br/evento/data-saturday-belo-horizonte-2024-1097/2597146) - _Belo Horizonte/MG_ ![presencial]
+- 23 e 24: [PHPeste 2024] (https://phpeste.com.br/) - _Recife/PE_ ![presencial]
 - 23: [DevOpsDays Brasília](https://devopsdays.org/events/2024-brasilia/welcome/) - _Brasília/DF_ ![presencial]
 - 23: [DevOpsDays Natal](https://devopsdays.org/events/2024-natal/welcome/) - _Natal/RN_ ![presencial]
 - 23: [DevFest Americana](https://gdg.community.dev/events/details/google-gdg-americana-presents-devfest-americana-2024/) - _Americana/SP_ ![presencial]
