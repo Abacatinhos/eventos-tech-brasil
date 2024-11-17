@@ -84,7 +84,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 30: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2024-porto-alegre/welcome/) - _Porto Alegre/RS_ ![presencial]
 - 30: [DevOpsDays Maceio](https://devopsdays.org/events/2024-maceio/welcome/) - _Maceio/AL_ ![presencial]
 - 30: [DevFest Santos 2024](https://www.sympla.com.br/evento/devfest-santos-2024/2553155) - _Santos/SP_ ![presencial]
-
+- [Cursos Gratuitos de TI da Universidade de Stanford] (https://www.edx.org/school/stanfordonline) - _Brasil_ ![online]
 <!-- NOVEMBRO:END -->
 
 ### Dezembro
