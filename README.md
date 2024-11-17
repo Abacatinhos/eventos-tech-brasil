@@ -59,7 +59,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 16 e 17: [JoomlaDay Brasil 2024](https://joomladaybrasil.com.br) - _São Paulo/SP_ ![híbrido]
 - 17, 18, 19, 20 e 21: [Qiskit Fall Fest Brasil 2024](https://qiskit-fall-fest-2024-brasil.github.io/) ![online]
 - 18, 19, 20, 21, 22 e 23: [XXXIV Brazilian Conference on Intelligent Systems (BRACIS 2024)](https://bracis.sbc.org.br/2024/) - _Belém/PA_ ![presencial]
-- 18/11: [Wireframes e Fluxos de Navegação - Jornada Menina de UX] (https://lu.ma/5e8qthak) - ![online]
+- 18/11: [Wireframes e Fluxos de Navegação - Jornada Menina de UX] _Brasil_ (https://lu.ma/5e8qthak) - ![online]
 - 21: [Oracle Kube Connect](https://g1cde62092a80c9-apexstudydb.adb.us-chicago-1.oraclecloudapps.com/ords/r/study/postgresqlday110/home) - _São Paulo/SP_ ![presencial]
 - 23: [Dev Fest Cerrado](https://devfestcerrado.com.br/) - _Goiânia/GO_ ![presencial]
 - 23: [Data Saturday BH - 2024](https://www.sympla.com.br/evento/data-saturday-belo-horizonte-2024-1097/2597146) - _Belo Horizonte/MG_ ![presencial]
