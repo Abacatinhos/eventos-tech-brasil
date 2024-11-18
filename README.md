@@ -7,7 +7,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/).
 
 
-Projeto Mantido por @pachicodes e @stephan-lopes
+Projeto Mantido por [@pachicodes](https://github.com/pachicodes) e [@stephan-lopes](https://github.com/stephan-lopes)
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
