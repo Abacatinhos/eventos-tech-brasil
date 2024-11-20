@@ -26,7 +26,7 @@ Para adicionar um novo evento ou agenda, siga os passos abaixo:
 Para cancelar um(a) evento/agenda existente:
 
 1. **Template para Remoção**: Utilize o template de issue para cancelamento de eventos/agendas disponível no repositório:
-    - 💔 Cancelar Evento/Agenda
+   - 💔 Cancelar Evento/Agenda
 
 2. **Crie uma Nova Issue**: Preencha o template com as informações necessárias para identificar claramente o evento que precisa ser removido.
 
