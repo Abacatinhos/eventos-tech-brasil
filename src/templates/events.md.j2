@@ -1,0 +1,71 @@
+<p class="header" align="center">
+ <img width="150px" src="https://raw.githubusercontent.com/Abacatinhos/agenda-tech-brasil/main/assets/abacatinhos.svg" align="center" alt="GitHub Readme Stats" />
+ <h1 align="center">Eventos Tech Brasil</h1> 
+</p>
+
+_Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
+
+<h2 align="center">Selecione o mês do Evento</h2>
+<p class="navigation" align="center">
+    {% for mes in link_meses %}<a href="#{{ mes }}">{{ mes.capitalize() }}</a>{% if not loop.last %}・{% endif %}{% endfor %}
+</p>
+
+## Contribuindo
+
+**Não encontrou o evento, palestra ou iniciativa que estava procurando?**
+
+Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se você conhece algum evento que acredita ser relevante para estar aqui, convidamos você a adicioná-lo. Está interessado(a) em nos ajudar nisso? [Clique aqui para aprender como incluir novos eventos e ajudar o repositório a crescer!](https://github.com/Abacatinhos/agenda-tech-brasil/blob/master/CONTRIBUTING.md)
+
+
+{% for ano in data.eventos %}
+{% if not ano.arquivado %}
+## Eventos em {{ ano.ano }}
+<!-- ANO{{ ano.ano }}:START -->
+{% for mes in ano.meses %}
+{% if not mes.arquivado %}
+### {{ mes.mes | capitalize }}
+<!-- {{ mes.mes | upper }}:START -->
+{% for evento in mes.eventos %}
+{% if evento.tipo == "online" %}
+- {{ evento.data | format_date_list }}: [{{ evento.nome }}]({{ evento.url }}) ![{{ evento.tipo }}]
+{% else %}
+- {{ evento.data | format_date_list }}: [{{ evento.nome }}]({{ evento.url }}) - _{{ evento.cidade }}/{{ evento.uf }}_ ![{{ evento.tipo }}]
+{% endif %}
+{% endfor %}
+<!-- {{ mes.mes | upper }}:END -->
+{% endif %}
+{% endfor %}
+<!-- ANO{{ ano.ano }}:END -->
+{% endif %}
+{% endfor %}
+
+## TBA: To Be Announced
+<!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
+<!-- TBA:START -->
+{% for evento in data.tba %}
+{% if evento.tipo == "online" %}
+- TBA: [{{ evento.nome }}]({{ evento.url }}) ![{{ evento.tipo }}]
+{% else %}
+- TBA: [{{ evento.nome }}]({{ evento.url }}) - _{{ evento.cidade }}/{{ evento.uf }}_ ![{{ evento.tipo }}]
+{% endif %}
+{% endfor %}
+<!-- TBA:END -->
+
+## Eventos dos anos anteriores
+
+- [Eventos 2022](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2022.md)
+- [Eventos 2023](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2023.md)
+
+<!--LINK DAS BADGES:START-->
+
+[presencial]: https://img.shields.io/static/v1?label=&message=presencial&color=blue
+[híbrido]: https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red
+[online]: https://img.shields.io/static/v1?label=&message=online&color=purple
+
+<!--LINK DAS BADGES:END-->
+---
+<!-- FOOTER:START -->
+
+<h4 align="center">Projeto mantido por <a href="https://github.com/pachicodes">@pachicodes</a> e <a href="https://github.com/stephan-lopes">@stephan-lopes</a></h4>
+
+<!-- FOOTER:END -->

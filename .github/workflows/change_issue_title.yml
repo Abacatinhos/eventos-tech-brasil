@@ -1,0 +1,41 @@
+name: Modifica Titulo da Issue
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  change-issue-name:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Atualizar título da issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Extraindo o nome do evento do corpo da issue
+          event_info="${{ github.event.issue.body }}"
+
+          get_event_value() {
+            local event_info="$1"
+            local key_name="$2"
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+          }
+
+          event_name=$(get_event_value "$event_info" 'Nome do(a) Evento/Agenda')
+
+          if [ -z "$event_name" ]; then
+            echo "Nome do evento não encontrado no corpo da issue."
+            exit 1
+          fi
+
+          # Modificando o título da issue usando a API do GitHub
+          issue_number="${{ github.event.issue.number }}"
+          repo_name="${{ github.repository }}"
+
+          curl -X PATCH \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/$repo_name/issues/$issue_number \
+            -d "{\"title\":\"Agenda/Evento: $event_name\"}"

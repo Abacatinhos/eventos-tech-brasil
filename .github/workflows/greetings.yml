@@ -1,6 +1,9 @@
 name: Greetings
 
-on: [pull_request_target, issues]
+on:
+  pull_request_target:
+  issues:
+    types: [opened]
 
 jobs:
   greeting:
@@ -9,8 +12,8 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Boas vindas e obrigada pela sua contribuição!' first issue"
-        pr-message: "Boas vindas e obrigada pela sua contribuição!' first pull request"
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: "Boas vindas e obrigada pela sua contribuição!' first issue"
+          pr-message: "Boas vindas e obrigada pela sua contribuição!' first pull request"

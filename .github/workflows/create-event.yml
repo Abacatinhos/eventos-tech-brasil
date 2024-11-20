@@ -1,0 +1,313 @@
+name: Criar PR para Cadastrar Agenda/Evento
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  reviewers: "pachicodes,stephan-lopes"
+
+jobs:
+  create-in-person-event:
+    if: contains(github.event.issue.labels.*.name, 'cadastrar') && contains(github.event.issue.labels.*.name, 'presencial')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar o repositório
+        uses: actions/checkout@v2
+
+      - name: Obter detalhes do evento da issue
+        id: event_details
+        run: |
+
+          event_info="${{ github.event.issue.body }}"
+
+          get_event_values() {
+            local event_info="$1"
+            local key_name="$2"
+
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+          }
+
+          extract_abbreviation() {
+              local input="$1"
+              echo "$input" | sed -E 's/.*\(([^)]+)\).*/\1/'
+          }
+
+          capitalize_first_letter() {
+            echo "$1" | awk '{ for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2); }1'
+          }
+
+          event_name=$(get_event_values "$event_info" 'Nome do(a) Evento/Agenda')
+          event_url=$(get_event_values "$event_info" 'Site do(a) Evento/Agenda')
+          event_city=$(get_event_values "$event_info" 'Cidade do(a) Evento/Agenda')
+          event_state=$(get_event_values "$event_info" 'Estado Federativo do(a) Evento/Agenda')
+          event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
+          event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
+          event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+
+          if [[ $event_day == "_No response_" ]]; then
+            event_month=TBA
+          fi
+
+          if [[ $event_month == "To Be Announced" ]]; then
+            event_month=TBA
+          fi
+
+          event_url="${event_url,,}"
+          event_state=$(extract_abbreviation "${event_state}")
+
+
+          echo "event_name=${event_name}" >> $GITHUB_ENV
+          echo "event_url=${event_url}" >> $GITHUB_ENV
+          echo "event_city=${event_city}" >> $GITHUB_ENV
+          echo "event_state=${event_state}" >> $GITHUB_ENV
+          echo "event_year=${event_year}" >> $GITHUB_ENV
+          echo "event_month=${event_month}" >> $GITHUB_ENV
+          echo "event_day=${event_day}" >> $GITHUB_ENV
+
+      - name: Definir tipo de Evento como Presencial
+        run: |
+          event_type="presencial"
+          echo "event_type=${event_type}" >> $GITHUB_ENV
+
+      - name: Adiciona o Evento/Agenda no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/add_event.py
+
+      - name: Gera o markdown baseado no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/generate_page.py
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "${{ github.event.issue.user.login }}"
+          git config --global user.email "${{ github.event.issue.user.login }}@users.noreply.github.com"
+
+      - name: Criar uma nova branch
+        run: |
+          branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
+          git checkout -b $branch_name
+          git add README.md src/db/database.json
+          git commit -m "Adicionando novo evento: ${{ env.event_name }}"
+          git push origin $branch_name
+
+          echo "branch_name=${branch_name}" >> $GITHUB_ENV
+
+      - name: Criar Pull Request
+        run: |
+          gh pr create \
+          -B master \
+          -H ${{ env.branch_name }} \
+          --title "Agenda/Evento: ${{ env.event_name }}" \
+          --body "Closes #${{ github.event.issue.number }}" \
+          --label cadastrar \
+          --label presencial \
+          --reviewer "${{ env.reviewers }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  create-hybrid-event:
+    if: contains(github.event.issue.labels.*.name, 'cadastrar') && contains(github.event.issue.labels.*.name, 'híbrido')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar o repositório
+        uses: actions/checkout@v2
+
+      - name: Obter detalhes do evento da issue
+        id: event_details
+        run: |
+
+          event_info="${{ github.event.issue.body }}"
+
+          get_event_values() {
+            local event_info="$1"
+            local key_name="$2"
+
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+          }
+
+          extract_abbreviation() {
+              local input="$1"
+              echo "$input" | sed -E 's/.*\(([^)]+)\).*/\1/'
+          }
+
+          capitalize_first_letter() {
+            echo "$1" | awk '{ for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2); }1'
+          }
+
+          event_name=$(get_event_values "$event_info" 'Nome do(a) Evento/Agenda')
+          event_url=$(get_event_values "$event_info" 'Site do(a) Evento/Agenda')
+          event_city=$(get_event_values "$event_info" 'Cidade do(a) Evento/Agenda')
+          event_state=$(get_event_values "$event_info" 'Estado Federativo do(a) Evento/Agenda')
+          event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
+          event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
+          event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+
+          if [[ $event_day == "_No response_" ]]; then
+            event_month=TBA
+          fi
+
+          if [[ $event_month == "To Be Announced" ]]; then
+            event_month=TBA
+          fi
+
+          event_url="${event_url,,}"
+          event_state=$(extract_abbreviation "${event_state}")
+
+
+          echo "event_name=${event_name}" >> $GITHUB_ENV
+          echo "event_url=${event_url}" >> $GITHUB_ENV
+          echo "event_city=${event_city}" >> $GITHUB_ENV
+          echo "event_state=${event_state}" >> $GITHUB_ENV
+          echo "event_year=${event_year}" >> $GITHUB_ENV
+          echo "event_month=${event_month}" >> $GITHUB_ENV
+          echo "event_day=${event_day}" >> $GITHUB_ENV
+
+      - name: Definir tipo de Evento como Híbrido
+        run: |
+          event_type="híbrido"
+          echo "event_type=${event_type}" >> $GITHUB_ENV
+
+      - name: Adiciona o Evento/Agenda no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/add_event.py
+
+      - name: Gera o markdown baseado no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/generate_page.py
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "${{ github.event.issue.user.login }}"
+          git config --global user.email "${{ github.event.issue.user.login }}@users.noreply.github.com"
+
+      - name: Criar uma nova branch
+        run: |
+          branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
+          git checkout -b $branch_name
+          git add README.md src/db/database.json
+          git commit -m "Adicionando novo evento: ${{ env.event_name }}"
+          git push origin $branch_name
+
+          echo "branch_name=${branch_name}" >> $GITHUB_ENV
+
+      - name: Criar Pull Request
+        run: |
+          gh pr create \
+          -B master \
+          -H ${{ env.branch_name }} \
+          --title "Agenda/Evento: ${{ env.event_name }}" \
+          --body "Closes #${{ github.event.issue.number }}" \
+          --label cadastrar \
+          --label híbrido \
+          --reviewer "${{ env.reviewers }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  create-online-event:
+    if: contains(github.event.issue.labels.*.name, 'cadastrar') && contains(github.event.issue.labels.*.name, 'online')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar o repositório
+        uses: actions/checkout@v2
+
+      - name: Obter detalhes do evento da issue
+        id: event_details
+        run: |
+
+          event_info="${{ github.event.issue.body }}"
+
+          get_event_values() {
+            local event_info="$1"
+            local key_name="$2"
+
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+          }
+
+          extract_abbreviation() {
+              local input="$1"
+              echo "$input" | sed -E 's/.*\(([^)]+)\).*/\1/'
+          }
+
+          capitalize_first_letter() {
+            echo "$1" | awk '{ for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2); }1'
+          }
+
+          event_name=$(get_event_values "$event_info" 'Nome do(a) Evento/Agenda')
+          event_url=$(get_event_values "$event_info" 'Site do(a) Evento/Agenda')
+          event_city=""
+          event_state=""
+          event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
+          event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
+          event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+
+          if [[ $event_day == "_No response_" ]]; then
+            event_month=TBA
+          fi
+
+          if [[ $event_month == "To Be Announced" ]]; then
+            event_month=TBA
+          fi
+
+          event_url="${event_url,,}"
+          event_state=$(extract_abbreviation "${event_state}")
+
+
+          echo "event_name=${event_name}" >> $GITHUB_ENV
+          echo "event_url=${event_url}" >> $GITHUB_ENV
+          echo "event_city=${event_city}" >> $GITHUB_ENV
+          echo "event_state=${event_state}" >> $GITHUB_ENV
+          echo "event_year=${event_year}" >> $GITHUB_ENV
+          echo "event_month=${event_month}" >> $GITHUB_ENV
+          echo "event_day=${event_day}" >> $GITHUB_ENV
+
+      - name: Definir tipo de Evento como Online
+        run: |
+          event_type="online"
+          echo "event_type=${event_type}" >> $GITHUB_ENV
+
+      - name: Adiciona o Evento/Agenda no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/add_event.py
+
+      - name: Gera o markdown baseado no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/generate_page.py
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "${{ github.event.issue.user.login }}"
+          git config --global user.email "${{ github.event.issue.user.login }}@users.noreply.github.com"
+
+      - name: Criar uma nova branch
+        run: |
+          branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
+          git checkout -b $branch_name
+          git add README.md src/db/database.json
+          git commit -m "Adicionando novo evento: ${{ env.event_name }}"
+          git push origin $branch_name
+
+          echo "branch_name=${branch_name}" >> $GITHUB_ENV
+
+      - name: Criar Pull Request
+        run: |
+          gh pr create \
+          -B master \
+          -H ${{ env.branch_name }} \
+          --title "Agenda/Evento: ${{ env.event_name }}" \
+          --body "Closes #${{ github.event.issue.number }}" \
+          --label cadastrar \
+          --label online \
+          --reviewer "${{ env.reviewers }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
