@@ -1,0 +1,164 @@
+name: "💔 Cancelar Evento/Agenda"
+description: Utilize essa opção para remover um evento/agenda que foi cancelado!
+title: "(Atenção: O Título da Issue é gerado automaticamente. Sendo assim, não precisa definir um título manualmente aqui.)"
+labels: ["cancelar"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Vamos remover um(a) evento/agenda?
+        Preencha o formulário abaixo com todas as informações do(a) evento/agenda, para que possamos achar e deletar ele(a) da base de dados.
+        Lembrando que: Todas as informações devem corresponder com o(a) evento/agenda cadastrado(a).
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Informações Gerais do Evento/Agenda
+
+  - type: input
+    id: event_name
+    attributes:
+      label: Nome do(a) Evento/Agenda
+      description: Qual o nome do(a) evento/agenda?
+      placeholder: "ex: TDC 2024"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_year
+    attributes:
+      label: "Ano do(a) Evento/Agenda"
+      description: "Qual o ano que iria acontecer o(a) evento/agenda?"
+      multiple: false
+      default: 0
+      options:
+        - "2024"
+        - "2025"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_month
+    attributes:
+      label: "Mês do(a) Evento/Agenda"
+      description: Em qual mês iria acontecer o(a) evento/agenda?
+      multiple: false
+      default: 0
+      options:
+        - To Be Announced
+        - Janeiro
+        - Fevereiro
+        - Março
+        - Abril
+        - Maio
+        - Junho
+        - Julho
+        - Agosto
+        - Setembro
+        - Outubro
+        - Novembro
+        - Dezembro
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_day
+    attributes:
+      label: "Dia do(a) Evento/Agenda"
+      description: Selecione os dias em que o(a) evento/agenda iria ocorrer. (Múltipla escolha)
+      multiple: true
+      options:
+        - "01"
+        - "02"
+        - "03"
+        - "04"
+        - "05"
+        - "06"
+        - "07"
+        - "08"
+        - "09"
+        - "10"
+        - "11"
+        - "12"
+        - "13"
+        - "14"
+        - "15"
+        - "16"
+        - "17"
+        - "18"
+        - "19"
+        - "20"
+        - "21"
+        - "22"
+        - "23"
+        - "24"
+        - "25"
+        - "26"
+        - "27"
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: event_type
+    attributes:
+      label: "Tipo do(a) Evento/Agenda"
+      description: "Qual o tipo do(a) evento/agenda que iria acontecer?"
+      multiple: false
+      default: 0
+      options:
+        - "Presencial"
+        - "Híbrido"
+        - "Online"
+    validations:
+      required: true
+
+  - type: input
+    id: event_city
+    attributes:
+      label: "Cidade do(a) Evento/Agenda"
+      description: Em qual cidade iria acontecer o(a) evento/agenda?
+      placeholder: "Ex: São Paulo"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: event_state
+    attributes:
+      label: "Estado Federativo do(a) Evento/Agenda"
+      description: Em qual estado federativo iria acontecer o(a) evento/agenda?
+      multiple: false
+      default: 24
+      options:
+        - Acre (AC)
+        - Alagoas (AL)
+        - Amapá (AP)
+        - Amazonas (AM)
+        - Bahia (BA)
+        - Ceará (CE)
+        - Distrito Federal (DF)
+        - Espírito Santo (ES)
+        - Goiás (GO)
+        - Maranhão (MA)
+        - Mato Grosso (MT)
+        - Mato Grosso do Sul (MS)
+        - Minas Gerais (MG)
+        - Pará (PA)
+        - Paraíba (PB)
+        - Paraná (PR)
+        - Pernambuco (PE)
+        - Piauí (PI)
+        - Rio de Janeiro (RJ)
+        - Rio Grande do Norte (RN)
+        - Rio Grande do Sul (RS)
+        - Rondônia (RO)
+        - Roraima (RR)
+        - Santa Catarina (SC)
+        - São Paulo (SP)
+        - Sergipe (SE)
+        - Tocantins (TO)
+    validations:
+      required: false
