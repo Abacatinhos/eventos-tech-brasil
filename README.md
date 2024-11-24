@@ -95,7 +95,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 03, 04, 05 e 06: [27th Brazilian Symposium on Formal Methods (SBMF 2024)](https://sbmf24.ifes.edu.br/) - _Vitória/ES_ ![presencial]
 - 04 e 05: [TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
-- 06, 07 e 08/12: [Imersão Roga DX 2024] (https://doity.com.br/imersaorogadx) -  _Maceió/AL_ ![presencial]
+- 06, 07 e 08/12: [Imersão Roga DX 2024](https://doity.com.br/imersaorogadx) -  _Maceió/AL_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
 - 07: [DevOpsDays Salvador](https://devopsdays.org/events/2024-salvador/welcome/) - _Salvador/BA_ ![presencial]
 - 07: [DEVPIRA Festival 2024](https://www.devpira.com.br/eventos/devpira-festival-2024) - _Piracicaba/SP_ ![presencial]
