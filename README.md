@@ -82,6 +82,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 27, 28 e 29: [Latinoware 2024](https://latinoware.org/) - _Foz do Iguaçu/PR_ ![híbrido]
 - 27, 28 e 29: [1st Latin American Ethics on Artificial Intelligence (LAAI-Ethics)](https://laai-ethics.com/en/home-english/) - _Rio de Janeiro/RJ_ ![presencial]
 - 27: [FIAP Meetup - Chief Information Security Officer: desafios e experiências](https://www.meetup.com/fiapmeetups/events/304166720) ![online]
+- 28:  [RevDev São Paulo by Revolut](https://www.meetup.com/revdev-sao-paulo-by-revolut/?eventOrigin=home_groups_you_organize) - São Paulo/SP ![presencial]
 - 28: [Oracle - Winning with AI: Impulsione seus projetos com GenAI!](https://go.oracle.com/LP=145317?elqCampaignId=565639) ![online]
 - 29: [GitTogether São Paulo](https://docs.google.com/forms/d/e/1FAIpQLScKnw-PHeAp6pCFvbIk8YIqgXVhqQGBW06wglz3obxFHYFHiQ/viewform) - _São Paulo/SP_ ![presencial]
 - 30: [NullBytes Security Conference](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
