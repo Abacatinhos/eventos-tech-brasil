@@ -99,6 +99,7 @@ Para contribuir você precisa adicionar as seguintes informações: **data, nome
 - 01: [BHack Conference 2024](https://www.bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
 - 01: [Python Cerrado 2024 + Plone Conference ](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 03: [FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação](https://www.meetup.com/fiapmeetups/events/304456573) - _São Paulo_ ![híbrido]
+- 03: [Meetup SouJava Brasília Dezembro](https://www.meetup.com/soujavabrasilia/events/304733383/) - _Brasília/DF_ ![híbrido]
 - 03, 04, 05 e 06: [27th Brazilian Symposium on Formal Methods (SBMF 2024)](https://sbmf24.ifes.edu.br/) - _Vitória/ES_ ![presencial]
 - 04 e 05: [TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
