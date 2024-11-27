@@ -574,6 +574,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "RevDev São Paulo by Revolut",
+              "data": [
+                "28"
+              ],
+              "url": "https://www.meetup.com/revdev-sao-paulo-by-revolut/?eventOrigin=home_groups_you_organize",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Oracle - Winning with AI: Impulsione seus projetos com GenAI!",
               "data": [
                 "28"
@@ -670,6 +680,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup SouJava Brasília Dezembro",
+              "data": [
+                "03"
+              ],
+              "url": "https://www.meetup.com/soujavabrasilia/events/304733383/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação",
               "data": [
                 "03"
@@ -721,6 +741,18 @@
               "url": "https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/",
               "cidade": "Florianópolis",
               "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Imersão Roga DX 2024",
+              "data": [
+                "06",
+                "07",
+                "08"
+              ],
+              "url": "https://doity.com.br/imersaorogadx",
+              "cidade": "Maceió",
+              "uf": "AL",
               "tipo": "presencial"
             },
             {
