@@ -98,6 +98,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 07: [DevOpsDays Salvador](https://devopsdays.org/events/2024-salvador/welcome/) - _Salvador/BA_ ![presencial]
 - 07: [DEVPIRA Festival 2024](https://www.devpira.com.br/eventos/devpira-festival-2024) - _Piracicaba/SP_ ![presencial]
 - 09: [FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação](https://www.meetup.com/fiapmeetups/events/304275173) ![online]
+- 09: [expandindo possibilidades](https://www.meetup.com/fiapmeetups/events/304275173) ![online]
 - 11: [10 Anos de Golang SP na Google](https://www.meetup.com/golangbr/events/304540847) - _São Paulo/SP_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
