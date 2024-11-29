@@ -889,6 +889,22 @@
       "arquivado": false,
       "meses": [
         {
+          "mes": "fevereiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "maximizar eficiência e inovação na saúde com IA",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304567086",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            }
+          ]
+        },
+        {
           "mes": "abril",
           "arquivado": false,
           "eventos": [
