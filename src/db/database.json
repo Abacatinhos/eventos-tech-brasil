@@ -713,6 +713,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "PHP Conference Brasil 2024",
+              "data": [
+                "03",
+                "04",
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://phpconference.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You",
               "data": [
                 "04",
