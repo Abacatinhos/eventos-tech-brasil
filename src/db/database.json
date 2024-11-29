@@ -859,6 +859,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Webinar Oracle - GenAI com HeatWave MySQL sem usar GPU!",
+              "data": [
+                "17"
+              ],
+              "url": "https://go.oracle.com/lp=145641",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }
