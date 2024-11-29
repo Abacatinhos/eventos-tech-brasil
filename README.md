@@ -24,7 +24,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 04, 05, 06, 07 e 08: [XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)](https://cbie.sbc.org.br/2024/) - _Rio de Janeiro/RJ_ ![presencial]
 - 05: [FIAP Meetup - Carreira em Java: insigths e desafios do mundo profissional](https://www.meetup.com/fiapmeetups/events/304166526) - _São Paulo/SP_ ![híbrido]
 - 05 e 06: [DCD>Connect | São Paulo](https://www.datacenterdynamics.com/br/dcd-connect/dcdconnect-sao-paulo/2024/) - _São Paulo/SP_ ![presencial]
-- 06: [Black in Tech Experience no Insper!](hhttps://www.insper.edu.br/pt/eventos/2024/11/black-in-tech-experience) - _São Paulo/SP_ ![presencial]
 - 06: [ObservabilityCON](https://grafana.com/pt-br/events/observabilitycon-on-the-road/2024/sao-paulo/?li_fat_id=3c741945-32bf-45ab-9ef8-2ac47630a9ac&src=li&mdm=cpc&camp=ocr-2024-sao-paulo) - _São Paulo/SP_ ![presencial]
 - 06 e 07: [TDC SUMMIT 2024](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![presencial]
 - 06, 07 e 08: [WVC 2024 - XIX Workshop de Visão Computacional](https://wvc2024.ufv.br/) - _Rio Paranaíba/MG_ ![presencial]
