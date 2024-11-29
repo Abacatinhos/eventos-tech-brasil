@@ -713,6 +713,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "FIAP MEETUP - Game Dev & Inteligência Artificial",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304776543",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You",
               "data": [
                 "04",
