@@ -65,6 +65,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Black in Tech Experience no Insper!",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.insper.edu.br/pt/eventos/2024/11/black-in-tech-experience",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC SUMMIT 2024",
               "data": [
                 "06",
@@ -388,17 +398,6 @@
               "tipo": "presencial"
             },
             {
-              "nome": "PHPeste 2024",
-              "data": [
-                "23",
-                "24"
-              ],
-              "url": "https://phpeste.com.br/",
-              "cidade": "Recife",
-              "uf": "PE",
-              "tipo": "presencial"
-            },
-            {
               "nome": "DevOpsDays Brasília",
               "data": [
                 "23"
@@ -469,6 +468,33 @@
               "tipo": "presencial"
             },
             {
+              "nome": "PHPeste 2024",
+              "data": [
+                "23",
+                "24"
+              ],
+              "url": "https://phpeste.com.br/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Python Cerrado 2024 + Plone Conference",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30"
+              ],
+              "url": "https://2024.ploneconf.org/pt-br",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Segundo Encontro DevRel SP",
               "data": [
                 "25"
@@ -486,22 +512,6 @@
               "url": "https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/",
               "cidade": "São Paulo",
               "uf": "SP",
-              "tipo": "presencial"
-            },
-            {
-              "nome": "Python Cerrado 2024 + Plone Conference",
-              "data": [
-                "24",
-                "25",
-                "26",
-                "27",
-                "28",
-                "29",
-                "30"
-              ],
-              "url": "https://2024.ploneconf.org/pt-br",
-              "cidade": "Brasília",
-              "uf": "DF",
               "tipo": "presencial"
             },
             {
