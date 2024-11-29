@@ -713,6 +713,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "FIAP MEETUP - Game Dev & Inteligência Artificial",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304776543",
+              "cidade": "",
+                "uf": "",
+                "tipo": "online"
+            },
+            {
               "nome": "PHP Conference Brasil 2024",
               "data": [
                 "03",
