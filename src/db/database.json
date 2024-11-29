@@ -1092,6 +1092,13 @@
       "cidade": "Arapiraca",
       "uf": "AL",
       "tipo": "presencial"
+    },
+    {
+      "nome": "Hacking na Web Day - Florianópolis",
+      "url": "https://linktr.ee/hackingnawebday",
+      "cidade": "Florianópolis",
+      "uf": "SC",
+      "tipo": "presencial"
     }
   ]
 }
