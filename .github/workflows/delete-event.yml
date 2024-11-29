@@ -102,7 +102,7 @@ jobs:
       - name: Criar Pull Request
         run: |
           gh pr create \
-          -B master \
+          -B main \
           -H ${{ env.branch_name }} \
           --title "Agenda/Evento: ${{ env.event_name }}" \
           --body "Closes #${{ github.event.issue.number }}" \
