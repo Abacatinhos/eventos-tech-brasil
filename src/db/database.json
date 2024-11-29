@@ -713,16 +713,6 @@
               "tipo": "presencial"
             },
             {
-              "nome": "FIAP MEETUP - Game Dev & Inteligência Artificial",
-              "data": [
-                "04"
-              ],
-              "url": "https://www.meetup.com/fiapmeetups/events/304776543",
-              "cidade": "",
-                "uf": "",
-                "tipo": "online"
-            },
-            {
               "nome": "PHP Conference Brasil 2024",
               "data": [
                 "03",
@@ -735,6 +725,26 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "FIAP MEETUP - Game Dev & Inteligência Artificial",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304776543",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Mercado de Trabalho - Desenvolvimento, IA, Cloud e Dados",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.sympla.com.br/evento/ct-tech-talks/2751402",
+              "cidade": "Vitória",
+              "uf": "ES",
+              "tipo": "presencial"
             },
             {
               "nome": "TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You",
