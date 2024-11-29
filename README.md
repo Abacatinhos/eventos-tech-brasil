@@ -88,6 +88,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 03: [Meetup SouJava Brasília Dezembro](https://www.meetup.com/soujavabrasilia/events/304733383/) - _Brasília/DF_ ![híbrido]
 - 03: [FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação](https://www.meetup.com/fiapmeetups/events/304456573) - _São Paulo/SP_ ![híbrido]
 - 03, 04, 05 e 06: [27th Brazilian Symposium on Formal Methods (SBMF 2024)](https://sbmf24.ifes.edu.br/) - _Vitória/ES_ ![presencial]
+- 03, 04, 05, 06 e 07: [PHP Conference Brasil 2024](https://phpconference.com.br/) ![online]
 - 04: [FIAP MEETUP - Game Dev & Inteligência Artificial](https://www.meetup.com/fiapmeetups/events/304776543) ![online]
 - 04 e 05: [TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You](https://sbmf24.ifes.edu.br/) - _Porto Alegre/RS_ ![híbrido]
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
@@ -102,6 +103,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
 - 14: [4Dev Connect Rio Grande do Sul 2024](https://www.sympla.com.br/evento/4dev-connect-rio-grande-do-sul-2024/2704715) - _Gravataí/RS_ ![presencial]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
+- 17: [Webinar Oracle - GenAI com HeatWave MySQL sem usar GPU!](https://go.oracle.com/lp=145641) ![online]
 <!-- DEZEMBRO:END -->
 <!-- ANO2024:END -->
 ## Eventos em 2025

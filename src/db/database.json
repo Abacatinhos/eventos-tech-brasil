@@ -719,6 +719,20 @@
               ],
               "url": "https://www.meetup.com/fiapmeetups/events/304776543",
               "cidade": "",
+                "uf": "",
+                "tipo": "online"
+            },
+            {
+              "nome": "PHP Conference Brasil 2024",
+              "data": [
+                "03",
+                "04",
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://phpconference.com.br/",
+              "cidade": "",
               "uf": "",
               "tipo": "online"
             },
@@ -855,6 +869,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Webinar Oracle - GenAI com HeatWave MySQL sem usar GPU!",
+              "data": [
+                "17"
+              ],
+              "url": "https://go.oracle.com/lp=145641",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }
