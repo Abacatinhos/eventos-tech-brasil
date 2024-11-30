@@ -91,6 +91,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 03, 04, 05, 06 e 07: [PHP Conference Brasil 2024](https://phpconference.com.br/) ![online]
 - 04: [FIAP MEETUP - Game Dev & Inteligência Artificial](https://www.meetup.com/fiapmeetups/events/304776543) ![online]
 - 04: [CT Tech Talks: Mercado de Trabalho - Desenvolvimento, IA, Cloud e Dados](https://www.sympla.com.br/evento/ct-tech-talks/2751402) - _Vitória/ES_ ![presencial]
+- 04: [Meetup Red Hat São Paulo e comunidade ElasticSearch](https://www.meetup.com/red-hat-sao-paulo/events/304648601) - _São Paulo/SP_ ![presencial]
 - 04 e 05: [TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You](https://sbmf24.ifes.edu.br/) - _Porto Alegre/RS_ ![híbrido]
 - 05: [Platform Talks #01 - Mercado Livre](https://lu.ma/vpyeh9o3) - _São Paulo/SP_ ![presencial]
 - 06: [KCD Floripa 2024](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024-1/) - _Florianópolis/SC_ ![presencial]
