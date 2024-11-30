@@ -109,6 +109,10 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- ANO2024:END -->
 ## Eventos em 2025
 <!-- ANO2025:START -->
+### Fevereiro
+<!-- FEVEREIRO:START -->
+- 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
+<!-- FEVEREIRO:END -->
 ### Abril
 <!-- ABRIL:START -->
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
