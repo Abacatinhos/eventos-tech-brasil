@@ -20,7 +20,7 @@ jobs:
           get_event_value() {
             local event_info="$1"
             local key_name="$2"
-            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^[^:]*: //'
           }
 
           event_name=$(get_event_value "$event_info" 'Nome do(a) Evento/Agenda')

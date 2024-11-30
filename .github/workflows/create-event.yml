@@ -29,7 +29,7 @@ jobs:
             local event_info="$1"
             local key_name="$2"
 
-            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^[^:]*: //'
           }
 
           extract_abbreviation() {
@@ -129,7 +129,7 @@ jobs:
             local event_info="$1"
             local key_name="$2"
 
-            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^[^:]*: //'
           }
 
           extract_abbreviation() {
@@ -229,7 +229,7 @@ jobs:
             local event_info="$1"
             local key_name="$2"
 
-            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^.*: //'
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^[^:]*: //'
           }
 
           extract_abbreviation() {
