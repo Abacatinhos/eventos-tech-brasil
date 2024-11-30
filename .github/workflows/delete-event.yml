@@ -57,6 +57,11 @@ jobs:
             event_month=TBA
           fi
 
+          if [[ $event_type == "Online" ]]; then
+            event_city=""
+            event_state=""
+          fi
+
           event_url="${event_url,,}"
           event_state=$(extract_abbreviation "${event_state}")
 
