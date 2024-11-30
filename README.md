@@ -87,6 +87,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01: [Python Cerrado 2024 + Plone Conference](https://2024.ploneconf.org/pt-br) - _Brasília/DF_ ![presencial]
 - 03: [Meetup SouJava Brasília Dezembro](https://www.meetup.com/soujavabrasilia/events/304733383/) - _Brasília/DF_ ![híbrido]
 - 03: [FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação](https://www.meetup.com/fiapmeetups/events/304456573) - _São Paulo/SP_ ![híbrido]
+- 03: [Técnicas de criação rápida para GitHub Copilot que todo dev deve conhecer](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304419334/) ![online]
 - 03, 04, 05 e 06: [27th Brazilian Symposium on Formal Methods (SBMF 2024)](https://sbmf24.ifes.edu.br/) - _Vitória/ES_ ![presencial]
 - 03, 04, 05, 06 e 07: [PHP Conference Brasil 2024](https://phpconference.com.br/) ![online]
 - 04: [FIAP MEETUP - Game Dev & Inteligência Artificial](https://www.meetup.com/fiapmeetups/events/304776543) ![online]
