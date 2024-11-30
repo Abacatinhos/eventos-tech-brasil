@@ -131,7 +131,6 @@ body:
       label: "Estado Federativo do(a) Evento/Agenda"
       description: Em qual estado federativo iria acontecer o(a) evento/agenda?
       multiple: false
-      default: 24
       options:
         - Acre (AC)
         - Alagoas (AL)
