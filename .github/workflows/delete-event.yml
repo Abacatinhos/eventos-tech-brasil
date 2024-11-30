@@ -19,11 +19,6 @@ jobs:
       - name: Checar o repositório
         uses: actions/checkout@v2
 
-      - name: View the github context
-        run: echo "$GITHUB_CONTEXT"
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-
       - name: Obter detalhes do evento da issue
         id: event_details
         run: |
