@@ -747,6 +747,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup Red Hat São Paulo e comunidade ElasticSearch",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.meetup.com/red-hat-sao-paulo/events/304648601",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Summit Porto Alegre: Artificial Intelligence, Innovation & Startup, Agility and You",
               "data": [
                 "04",
