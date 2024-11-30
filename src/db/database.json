@@ -830,6 +830,16 @@
               "tipo": "online"
             },
             {
+              "nome": "LINUXtips.local - Belém",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.sympla.com.br/evento/linuxtips-local-belem/2727177",
+              "cidade": "Belém",
+              "uf": "PA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "10 Anos de Golang SP na Google",
               "data": [
                 "11"
