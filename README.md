@@ -99,6 +99,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 07: [DEVPIRA Festival 2024](https://www.devpira.com.br/eventos/devpira-festival-2024) - _Piracicaba/SP_ ![presencial]
 - 09: [FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação](https://www.meetup.com/fiapmeetups/events/304275173) ![online]
 - 09: [FIAP Meetup - UX e produto na era da IA: expandindo possibilidades](https://www.meetup.com/fiapmeetups/events/304275173) ![online]
+- 09: [LINUXtips.local - Fortaleza](https://www.sympla.com.br/evento/linuxtips-local-fortaleza/2727169) - _Fortaleza/CE_ ![presencial]
 - 10: [LINUXtips.local - Belém](https://www.sympla.com.br/evento/linuxtips-local-belem/2727177) - _Belém/PA_ ![presencial]
 - 11: [10 Anos de Golang SP na Google](https://www.meetup.com/golangbr/events/304540847) - _São Paulo/SP_ ![presencial]
 - 11: [LINUXtips.local - Brasília](https://www.sympla.com.br/evento/linuxtips-local-brasilia/2727181) - _Brasília/DF_ ![presencial]
