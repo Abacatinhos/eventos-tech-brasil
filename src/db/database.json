@@ -920,6 +920,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Tudo que Preciso para Iniciar com Kubernetes e AKS",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304546839",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DevFest Nordeste",
               "data": [
                 "14"
