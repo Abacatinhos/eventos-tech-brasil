@@ -900,6 +900,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "#1 Encontro Clojure BR - Nubank/SP",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/clojure-br/events/304435585",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevFest Nordeste",
               "data": [
                 "14"
