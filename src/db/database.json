@@ -920,6 +920,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "PHPSP Pub",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/php-sp/events/303767276",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Workshop de Ruby e LLMs",
               "data": [
                 "12"
