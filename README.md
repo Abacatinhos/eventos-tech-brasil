@@ -99,6 +99,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 06, 07 e 08: [Imersão Roga DX 2024](https://doity.com.br/imersaorogadx) - _Maceió/AL_ ![presencial]
 - 07: [DevOpsDays Salvador](https://devopsdays.org/events/2024-salvador/welcome/) - _Salvador/BA_ ![presencial]
 - 07: [DEVPIRA Festival 2024](https://www.devpira.com.br/eventos/devpira-festival-2024) - _Piracicaba/SP_ ![presencial]
+- 07: [GitTogether Fortaleza - Dezembro](https://www.meetup.com/gittogether-brasil/events/304813727) - _Fortaleza/CE_ ![presencial]
 - 09: [FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação](https://www.meetup.com/fiapmeetups/events/304275173) ![online]
 - 09: [FIAP Meetup - UX e produto na era da IA: expandindo possibilidades](https://www.meetup.com/fiapmeetups/events/304275173) ![online]
 - 09: [LINUXtips.local - Fortaleza](https://www.sympla.com.br/evento/linuxtips-local-fortaleza/2727169) - _Fortaleza/CE_ ![presencial]
