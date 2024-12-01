@@ -106,6 +106,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11: [10 Anos de Golang SP na Google](https://www.meetup.com/golangbr/events/304540847) - _São Paulo/SP_ ![presencial]
 - 11: [LINUXtips.local - Brasília](https://www.sympla.com.br/evento/linuxtips-local-brasilia/2727181) - _Brasília/DF_ ![presencial]
 - 12: [LINUXtips.local - Curitiba](https://www.sympla.com.br/evento/linuxtips-local-curitiba/2727185) - _Curitiba/PR_ ![presencial]
+- 12: [PHPSP Pub](https://www.meetup.com/php-sp/events/303767276) - _São Paulo/SP_ ![presencial]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
