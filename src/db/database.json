@@ -830,6 +830,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "GitTogether Fortaleza - Dezembro",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/304813727",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup - Da IA à sala de aula: como a tecnologia vai redefinindo a educação",
               "data": [
                 "09"
