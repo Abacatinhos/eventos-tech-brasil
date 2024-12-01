@@ -920,6 +920,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Workshop de Ruby e LLMs",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/le-wagon-sao-paulo-coding-bootcamp/events/304707785",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "AZ-204: Azure Developer Associate",
               "data": [
                 "12"
