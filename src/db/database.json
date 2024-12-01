@@ -900,6 +900,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "AZ-204: Azure Developer Associate",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304205892",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DevFest Nordeste",
               "data": [
                 "14"
