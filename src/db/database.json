@@ -948,8 +948,8 @@
                "cidade": "",
                 "uf": "",
                 "tipo": "online"
-              },
-              {
+            },
+            {
               "nome": "Tudo que Preciso para Iniciar com Kubernetes e AKS",
               "data": [
                 "12"
@@ -958,6 +958,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "#1 Encontro Clojure BR - Nubank/SP",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/clojure-br/events/304435585",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "DevFest Nordeste",
