@@ -114,6 +114,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12: [AZ-204: Azure Developer Associate](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304205892) ![online]
 - 12: [Tudo que Preciso para Iniciar com Kubernetes e AKS](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304546839) ![online]
 - 13: [#1 Encontro Clojure BR - Nubank/SP](https://www.meetup.com/clojure-br/events/304435585) - _São Paulo/SP_ ![presencial]
+- 13: [DEMO DAY: Web Development & AI - Batch #1850](https://www.meetup.com/le-wagon-sao-paulo-coding-bootcamp/events/304707836) - _São Paulo/SP_ ![híbrido]
 - 14: [DevFest Nordeste](https://doity.com.br/devfest-nordeste-2024) - _Arapiraca/AL_ ![híbrido]
 - 14: [DevOpsDays Recife 2024](https://devopsdays.org/events/2024-recife/welcome/) - _Recife/PE_ ![presencial]
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
