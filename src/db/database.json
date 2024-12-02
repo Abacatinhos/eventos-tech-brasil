@@ -955,9 +955,9 @@
                 "12"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304205892",
-               "cidade": "",
-                "uf": "",
-                "tipo": "online"
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "Tudo que Preciso para Iniciar com Kubernetes e AKS",
@@ -978,6 +978,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": ".NET Conf 2024 - Edição de Final de Ano - São Paulo-SP",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304152455",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "DevFest Nordeste",
