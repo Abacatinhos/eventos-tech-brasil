@@ -119,6 +119,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 14: [Flutterando Connect](https://connect.flutterando.com.br/) - _Santos/SP_ ![híbrido]
 - 14: [4Dev Connect Rio Grande do Sul 2024](https://www.sympla.com.br/evento/4dev-connect-rio-grande-do-sul-2024/2704715) - _Gravataí/RS_ ![presencial]
 - 14: [LINUXtips.local - São Paulo](https://www.sympla.com.br/evento/linuxtips-local-sao-paulo/2727089) - _São Paulo/SP_ ![presencial]
+- 14: [Meetup WoMakersCode](https://www.meetup.com/womakerscode/events/304833016) - _São Paulo/SP_ ![presencial]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 - 17: [Webinar Oracle - GenAI com HeatWave MySQL sem usar GPU!](https://go.oracle.com/lp=145641) ![online]
 <!-- DEZEMBRO:END -->
