@@ -990,6 +990,16 @@
               "tipo": "online"
             },
             {
+              "nome": "DEMO DAY: Web Development & AI - Batch #1850",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/le-wagon-sao-paulo-coding-bootcamp/events/304707836",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "DevFest Nordeste",
               "data": [
                 "14"
