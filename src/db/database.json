@@ -1050,6 +1050,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup WoMakersCode",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/womakerscode/events/304833016",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hackers to Hackers Conference",
               "data": [
                 "14",
