@@ -1089,6 +1089,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "SQLTuesday",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304508831",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }

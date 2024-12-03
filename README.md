@@ -125,6 +125,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 14: [Meetup WoMakersCode](https://www.meetup.com/womakerscode/events/304833016) - _São Paulo/SP_ ![presencial]
 - 14 e 15: [Hackers to Hackers Conference](https://www.h2hc.com.br/?ref=agendati.com.br) - _São Paulo/SP_ ![presencial]
 - 17: [Webinar Oracle - GenAI com HeatWave MySQL sem usar GPU!](https://go.oracle.com/lp=145641) ![online]
+- 17: [SQLTuesday](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304508831) ![online]
 <!-- DEZEMBRO:END -->
 <!-- ANO2024:END -->
 ## Eventos em 2025
