@@ -1050,6 +1050,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Encontro de final de ano Java Girls JUG - SP",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/javagirlsjug/events/304775942",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Meetup WoMakersCode",
               "data": [
                 "14"
