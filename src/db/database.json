@@ -6,7 +6,7 @@
       "meses": [
         {
           "mes": "novembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "GambiConf 2024",
