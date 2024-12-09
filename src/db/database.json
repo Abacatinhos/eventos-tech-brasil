@@ -1099,6 +1099,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Natal do SouJava na Oracle",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.meetup.com/soujava/events/304890440/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         }
