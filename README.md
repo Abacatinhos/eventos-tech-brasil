@@ -74,6 +74,11 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- FEVEREIRO:START -->
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 <!-- FEVEREIRO:END -->
+### Março
+<!-- MARÇO:START -->
+- 26 e 27: [TDC 2025 Summit São Paulo Inteligência Artifial e Tecnologias Emergentes](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
+<!-- MARÇO:END -->
+
 ### Abril
 <!-- ABRIL:START -->
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
@@ -83,6 +88,10 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 <!-- MAIO:END -->
+### Junho
+<!-- JUNHO:START -->
+- 11, 12 e 13: [TDC 2025 FLORIPA](https://thedevconf.com/tdc/2025/) - _Floripanópolis/SC_ ![híbrido]
+<!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
@@ -90,19 +99,22 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Setembro
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
+- 17, 18 e 19: [TDC 2025 SÃO PAULO](https://thedevconf.com/tdc/2025/) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
+### Novembro
+<!-- NOVEMBRO:START -->
+- 17, 18 e 19: [TDC 2025 SÃO PAULO](https://thedevconf.com/tdc/2025/) - _São Paulo/SP_ ![híbrido]
+<!-- NOVEMBRO:END -->
 <!-- ANO2025:END -->
 
 ## TBA: To Be Announced
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
 <!-- TBA:START -->
-- TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
-- TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
-- TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
+- TBA: [TDC 2025 SUMMIT BRASÍLIA INTELIGÊNCIA ARTIFICIAL e TECNOLOGIA EMERGENTES](https://thedevconf.com/tdc/2025) - _Brasília/DF_ ![híbrido]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
