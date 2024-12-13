@@ -114,7 +114,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ## TBA: To Be Announced
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
 <!-- TBA:START -->
-- TBA/2025: [TDC 2025 SUMMIT BRASÍLIA INTELIGÊNCIA ARTIFICIAL e TECNOLOGIA EMERGENTES](https://thedevconf.com/tdc/2025) - _Brasília/DF_ ![híbrido]
+- TBA: [TDC 2025 SUMMIT BRASÍLIA INTELIGÊNCIA ARTIFICIAL e TECNOLOGIA EMERGENTES](https://thedevconf.com/tdc/2025) - _Brasília/DF_ ![híbrido]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
