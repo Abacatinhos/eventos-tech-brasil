@@ -1113,6 +1113,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações",
+              "data": [
+                "03"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304541695",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
                 "20"
