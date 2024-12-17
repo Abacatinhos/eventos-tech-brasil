@@ -1149,6 +1149,22 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
+        },
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
               "nome": "Caminhos para uma Carreira em Cloud para Mulheres",
               "data": [
                 "13"
