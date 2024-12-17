@@ -150,6 +150,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 08: [Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359) ![online]
 - 09: [PHPSP Pub](https://www.meetup.com/php-sp/events/300873764) - _São Paulo/SP_ ![presencial]
 - 13: [Caminhos para uma Carreira em Cloud para Mulheres](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759) ![online]
+- 15: [Princípios básicos e conceitos de nuvem](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854) ![online]
 <!-- JANEIRO:END -->
 
 ### Fevereiro
