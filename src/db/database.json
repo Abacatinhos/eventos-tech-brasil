@@ -1109,6 +1109,22 @@
       "arquivado": false,
       "meses": [
         {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Descrever aplicações e serviços do Microsoft 365",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
+        },
+        {
           "mes": "fevereiro",
           "arquivado": false,
           "eventos": [
