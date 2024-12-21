@@ -4,11 +4,9 @@
 </p>
 
 _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
-_Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
 <a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
 
 ## Contribuindo
@@ -148,6 +146,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JANEIRO:START -->
 
 - 07: [Confraria Web3 - São Paulo](https://www.meetup.com/confrariaweb3/events/304681266) - _São Paulo/SP_ ![presencial]
+- 08: [Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359) ![online]
 - 13: [Caminhos para uma Carreira em Cloud para Mulheres](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759) ![online]
 <!-- JANEIRO:END -->
 
@@ -157,6 +156,13 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 <!-- FEVEREIRO:END -->
+
+### Março
+
+<!-- MARÇO:START -->
+
+- 26 e 27: [TDC 2025 Summit São Paulo Inteligência Artifial e Tecnologias Emergentes](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
+<!-- MARÇO:END -->
 
 ### Abril
 
@@ -172,6 +178,13 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 <!-- MAIO:END -->
+
+### Junho
+
+<!-- JUNHO:START -->
+
+- 11, 12 e 13: [TDC 2025 FLORIPA](https://thedevconf.com/tdc/2025/) - _Floripanópolis/SC_ ![híbrido]
+<!-- JUNHO:END -->
 
 ### Julho
 
@@ -192,7 +205,14 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:START -->
 
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2024](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
-  <!-- OUTUBRO:END -->
+<!-- OUTUBRO:END -->
+
+### Novembro
+
+<!-- NOVEMBRO:START -->
+
+- 17, 18 e 19: [TDC 2025 SÃO PAULO](https://thedevconf.com/tdc/2025/) - _São Paulo/SP_ ![híbrido]
+  <!-- NOVEMBRO:END -->
   <!-- ANO2025:END -->
 
 ## TBA: To Be Announced
@@ -203,9 +223,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
-- TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
-- TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
+- TBA: [TDC 2025 SUMMIT BRASÍLIA INTELIGÊNCIA ARTIFICIAL e TECNOLOGIA EMERGENTES](https://thedevconf.com/tdc/2025) - _Brasília/DF_ ![híbrido]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
