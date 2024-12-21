@@ -1119,6 +1119,22 @@
       "arquivado": false,
       "meses": [
         {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Caminhos para uma Carreira em Cloud para Mulheres",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
+        },
+        {
           "mes": "fevereiro",
           "arquivado": false,
           "eventos": [
