@@ -1175,6 +1175,22 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "PHPSP Pub",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/php-sp/events/300873764",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
               "nome": "Caminhos para uma Carreira em Cloud para Mulheres",
               "data": [
                 "13"
