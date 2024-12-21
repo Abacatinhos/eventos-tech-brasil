@@ -1133,6 +1133,22 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Confraria Web3 - São Paulo",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/304681266",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
               "nome": "Caminhos para uma Carreira em Cloud para Mulheres",
               "data": [
                 "13"
