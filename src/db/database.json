@@ -1109,6 +1109,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Clube do Livro Java Efetivo",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/javagirlsjug/events/304914291",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }
