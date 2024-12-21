@@ -1119,6 +1119,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Desenvolvendo Functions App Seguros com Identidade Gerenciada e Service Connecto",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304509754",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }

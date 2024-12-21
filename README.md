@@ -134,6 +134,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 17: [SQLTuesday](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304508831) ![online]
 - 18: [Natal do SouJava na Oracle](https://www.meetup.com/soujava/events/304890440/) - _São Paulo/SP_ ![híbrido]
 - 19: [Clube do Livro Java Efetivo](https://www.meetup.com/javagirlsjug/events/304914291) ![online]
+- 19: [Desenvolvendo Functions App Seguros com Identidade Gerenciada e Service Connecto](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304509754) ![online]
   <!-- DEZEMBRO:END -->
   <!-- ANO2024:END -->
 
@@ -223,7 +224,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - TBA: [TDC Summit Brasília](https://thedevconf.com/tdc/2024/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [TDC 2025 SUMMIT BRASÍLIA INTELIGÊNCIA ARTIFICIAL e TECNOLOGIA EMERGENTES](https://thedevconf.com/tdc/2025) - _Brasília/DF_ ![híbrido]
 - TBA: [FrontConf Experience 2024 - Mergo](https://www.mergo.com.br/eventos/frontconfxp/) ![online]
 - TBA: [DevOpsDays Curitiba 2024](https://devopsdays.org/events/2024-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 - TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
