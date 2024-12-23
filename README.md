@@ -164,6 +164,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 <!-- MARÇO:START -->
 
+- 20 e 21: [Data World Xperience 2025 - Explore o futuro dos dados além da IA](https://dwxperience.com.br/) - _Florianópolis/SC_ ![presencial]
 - 26 e 27: [TDC 2025 Summit São Paulo Inteligência Artifial e Tecnologias Emergentes](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![híbrido]
 <!-- MARÇO:END -->
 
